@@ -1,0 +1,46 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides: bluez5-obex
+# Default-Start:  5
+# Default-Stop:   016
+# Short-Description: run bluez5-obex daemon
+# Description: Linux Bluetooth stack V5 userland components..
+### END INIT INFO
+
+BT=`lsmod | grep moal |  wc -l`
+if [ $BT = 0 ]; then
+	modprobe moal mod_para=nxp/wifi_mod_para.conf	
+fi
+
+HCI=`ps ax | grep hciattach | grep -v grep | wc -l`	
+if [ $HCI = 0 ]; then
+	hciattach /dev/ttymxc0 any -s 115200 115200 flow  > /dev/null
+	hciconfig  hci0 up > /dev/null
+fi
+
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin
+
+test -x /usr/libexec/bluetooth/obexd || exit 0
+
+case "$1" in
+    start)
+        echo -n "Starting Obexd"
+        /usr/libexec/bluetooth/obexd -a -r /tmp &
+        echo "."
+        ;;
+    stop)
+        echo -n "Stopping Obexd"
+        killall obexd
+        echo "."
+        ;;
+    restart)
+        $0 stop
+        $0 start
+        ;;
+    *)
+        echo "Usage: /etc/init.d/obexd {start|stop|restart}"
+        exit 1
+        ;;
+esac
+
+exit 0

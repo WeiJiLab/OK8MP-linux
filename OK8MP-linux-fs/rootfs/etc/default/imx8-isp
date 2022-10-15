@@ -1,0 +1,18 @@
+# Start the isp_media_server in the configuration from user
+
+# single basler camera on MIPI-CSI1, 1920x1080, 60 fps
+# SENSOR_MODE=basler_1080p60    
+
+# alternative settings 
+
+# single basler camera on MIPI-CSI1, 3840x2160, 30 fps\n"
+SENSOR_MODE=basler_4k30
+
+# single basler camera on MIPI-CSI1, 1920x1080, 60 fps in HDR config
+# SENSOR_MODE=basler_1080p60hdr   
+
+# alternative settings 
+# single basler camera on MIPI-CSI1, 3840x2160, 30 fps in HDR config
+# SENSOR_MODE=basler_4k30hdr
+
+

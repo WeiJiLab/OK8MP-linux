@@ -1,0 +1,11 @@
+
+#! /bin/sh
+
+case $1 in
+	"stop") 
+	systemctl stop matrix.service	
+	;;
+	"*")
+	systemctl start matrix.service
+	;;
+esac
