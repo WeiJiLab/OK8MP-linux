@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=OpenCV
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/opencv-icon.png
+Exec=fltest_opencv.sh
+Type=Application
+ProgramType=gui
+Name[en_US]=opencv.desktop

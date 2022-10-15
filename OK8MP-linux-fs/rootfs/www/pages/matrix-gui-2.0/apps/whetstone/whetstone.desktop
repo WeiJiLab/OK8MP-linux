@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Whetstone
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/arm-icon.png
+Type=Application
+Exec=optimize-benchmark.sh runWhetstone 10000
+Categories=arm
+ProgramType=console
+X-MATRIX-Lock=benchmarks
+X-MATRIX-Description=/www/pages/matrix-gui-2.0/apps/whetstone/desc_whetstone.html

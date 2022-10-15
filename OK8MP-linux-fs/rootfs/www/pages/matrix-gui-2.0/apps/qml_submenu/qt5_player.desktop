@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=QML Test
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/qml-icon.png
+Type=Directory
+ProgramType=gui
+X-MATRIX-CategoryTarget=qml

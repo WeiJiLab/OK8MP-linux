@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Multimedia
+GenericName=Multimedia
+Icon=/www/pages/matrix-gui-2.0/apps/images/multimedia-icon.png
+Type=Directory
+X-MATRIX-CategoryTarget=multimedia

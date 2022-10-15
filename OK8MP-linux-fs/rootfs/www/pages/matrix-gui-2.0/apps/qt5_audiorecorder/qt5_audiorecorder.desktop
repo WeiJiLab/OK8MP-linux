@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=AudioRecorder
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/audio-icon.png
+Exec=fltest_qt_audiorecorder
+Type=Application
+ProgramType=gui
+Name[en_US]=qt5_audiorecorder.desktop

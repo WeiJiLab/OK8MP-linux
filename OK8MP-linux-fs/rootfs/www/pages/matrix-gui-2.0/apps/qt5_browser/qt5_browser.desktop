@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=DemoBrowser
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/web-icon.png
+Exec=fltest_qt_simplebrowser --no-sandbox http://www.forlinx.com
+Type=Application
+ProgramType=gui
+X-MATRIX-Lock=qt
+Name[en_US]=qt5_browser.desktop

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=DLP 3D Scanner
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/multimedia-icon.png
+Type=Application
+Exec=fltest_runDlp3DScanner.sh
+Categories=machinevision
+ProgramType=gui
+X-MATRIX-Description=/www/pages/matrix-gui-2.0/apps/machinevision_dlp_3d_scanner/desc_machinevision_dlp_3d_scanner.html

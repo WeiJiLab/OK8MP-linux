@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Video Player
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/movie-icon.png
+Exec=fltest_qt_qmlvideofx
+Type=Application
+ProgramType=gui
+Categories=qml
+Name[en_US]=qt5_videoplayer.desktop

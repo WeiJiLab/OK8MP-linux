@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=VPU VP9 Decode
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/multimedia-icon.png
+Type=Application
+Exec=fltest_runVpuVp9Dec.sh
+Categories=multimedia
+ProgramType=gui
+X-MATRIX-Description=/www/pages/matrix-gui-2.0/apps/vpu_vp9_dec/vp9dec.html

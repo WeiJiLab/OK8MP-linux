@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Camera
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/ov5640-icon.png
+Exec=fltest_runUVC.sh
+Type=Application
+ProgramType=gui
+Categories=qml
+Name[en_US]=qt5_camera.desktop

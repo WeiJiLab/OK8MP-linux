@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=4G
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/4g-icon.png
+Exec=fltest_qt_4g
+Type=Application
+ProgramType=gui
+Name[en_US]=qt5_4g.desktop

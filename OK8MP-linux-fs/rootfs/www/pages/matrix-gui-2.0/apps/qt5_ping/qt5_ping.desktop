@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Ping
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/ping-icon.png
+Exec=fltest_qt_pingtest
+Type=Application
+ProgramType=gui
+Name[en_US]=qt5_ping.desktop

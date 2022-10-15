@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Set OnDemand Governor
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/power-icon.png
+Type=Application
+Exec=fltest_setgovernor.sh ondemand
+Categories=power
+ProgramType=console
+X-MATRIX-Description=/www/pages/matrix-gui-2.0/apps/pm_ondemand_governor/desc_pm_ondemand_governor.html
+Name[en_US]=pm_ondemand_governor.desktop

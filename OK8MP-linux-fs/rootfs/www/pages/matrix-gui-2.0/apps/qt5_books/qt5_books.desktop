@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SQL
+GenericName=Demo App
+Icon=/www/pages/matrix-gui-2.0/apps/images/forlinx/books-icon.png
+Exec=fltest_qt_books
+Type=Application
+ProgramType=gui
+Name[en_US]=qt5_books.desktop

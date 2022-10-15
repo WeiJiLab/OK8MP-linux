@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Power
+GenericName=Power
+Icon=/www/pages/matrix-gui-2.0/apps/images/power-icon.png
+Type=Directory
+Categories=settings
+X-MATRIX-CategoryTarget=power
