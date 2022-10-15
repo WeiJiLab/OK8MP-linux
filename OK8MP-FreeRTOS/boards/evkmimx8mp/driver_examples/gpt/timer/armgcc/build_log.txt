@@ -1,0 +1,22 @@
+Scanning dependencies of target gpt_timer.elf
+[  5%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/gpt/timer/pin_mux.c.obj
+[ 15%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/gpt/timer/board.c.obj
+[ 15%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/gpt/timer/clock_config.c.obj
+[ 21%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/gpt/timer/gpt_timer.c.obj
+[ 26%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+[ 31%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/gpt/timer/empty_rsc_table.c.obj
+[ 36%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+[ 42%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+[ 47%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+[ 52%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+[ 57%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_gpt.c.obj
+[ 63%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+[ 68%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+[ 73%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+[ 78%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+[ 84%] Building ASM object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+[ 89%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+[ 94%] Building C object CMakeFiles/gpt_timer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+[100%] Linking C executable release/gpt_timer.elf
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/bin/ld: warning: -z relro ignored
+[100%] Built target gpt_timer.elf

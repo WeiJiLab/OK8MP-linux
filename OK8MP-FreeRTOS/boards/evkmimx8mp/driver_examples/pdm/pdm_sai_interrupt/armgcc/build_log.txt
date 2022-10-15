@@ -1,0 +1,30 @@
+Scanning dependencies of target pdm_sai_interrupt.elf
+[  7%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+[  7%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/codec/port/wm8960/fsl_codec_adapter.c.obj
+[ 11%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_i2c.c.obj
+[ 14%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/codec/fsl_codec_common.c.obj
+[ 22%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sai_interrupt/clock_config.c.obj
+[ 22%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sai_interrupt/pdm_sai_interrupt.c.obj
+[ 25%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_gpio.c.obj
+[ 29%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sai_interrupt/pin_mux.c.obj
+[ 33%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sai_interrupt/board.c.obj
+[ 37%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+[ 40%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sai_interrupt/empty_rsc_table.c.obj
+[ 48%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/codec/i2c/fsl_codec_i2c.c.obj
+[ 44%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/codec/wm8960/fsl_wm8960.c.obj
+[ 51%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+[ 55%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/i2c/fsl_adapter_ii2c.c.obj
+[ 59%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+[ 62%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+[ 66%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_sai.c.obj
+[ 70%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+[ 74%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+[ 77%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+[ 85%] Building ASM object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+[ 85%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+[ 92%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_pdm.c.obj
+[ 92%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+[ 96%] Building C object CMakeFiles/pdm_sai_interrupt.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+[100%] Linking C executable release/pdm_sai_interrupt.elf
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/bin/ld: warning: -z relro ignored
+[100%] Built target pdm_sai_interrupt.elf

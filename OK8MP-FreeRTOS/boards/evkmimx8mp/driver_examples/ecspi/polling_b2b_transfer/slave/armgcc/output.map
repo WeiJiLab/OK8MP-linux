@@ -1,0 +1,1472 @@
+Archive member included to satisfy reference by file (symbol)
+
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+                              CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj (__errno)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+                              CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj (malloc)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o) (_free_r)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+                              CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj (strlen)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o) (errno)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+                              CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj (__aeabi_ldivmod)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj (__aeabi_uldivmod)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .text.BOARD_InitBootPins
+                0x0000000000000000        0x2 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .rodata.g_sysPll1Config
+                0x0000000000000000        0xc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .rodata.g_sysPll2Config
+                0x0000000000000000        0xc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .rodata.g_sysPll3Config
+                0x0000000000000000        0xc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_ScanIgnoreWhiteSpace
+                0x0000000000000000       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Deinit
+                0x0000000000000000       0x1c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Getchar
+                0x0000000000000000       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text.DbgConsole_Scanf
+                0x0000000000000000      0x2e0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text.SDK_Malloc
+                0x0000000000000000       0x2e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text.SDK_Free
+                0x0000000000000000       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text.SDK_DelayAtLeastUs
+                0x0000000000000000       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_info    0x0000000000000000      0x2df CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_abbrev  0x0000000000000000      0x1f7 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_loc     0x0000000000000000      0x240 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_line    0x0000000000000000      0x24d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_str     0x0000000000000000      0x36a CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .debug_frame   0x0000000000000000       0x54 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitArmPll
+                0x0000000000000000       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitAudioPll1
+                0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitAudioPll2
+                0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitVideoPll1
+                0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll1
+                0x0000000000000000       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll2
+                0x0000000000000000       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll3
+                0x0000000000000000       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitVideoPll1
+                0x0000000000000000       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitIntegerPll
+                0x0000000000000000       0x50 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitArmPll
+                0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitSysPll1
+                0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitSysPll2
+                0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitSysPll3
+                0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetCoreM7Freq
+                0x0000000000000000       0x8c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetAxiFreq
+                0x0000000000000000       0x88 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetAhbFreq
+                0x0000000000000000       0x88 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetFreq
+                0x0000000000000000       0x44 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_UpdateRoot
+                0x0000000000000000       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text.CLOCK_DisableClock
+                0x0000000000000000       0x50 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .debug_info    0x0000000000000000       0x6b CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .debug_abbrev  0x0000000000000000       0x26 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .debug_line    0x0000000000000000       0x1d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .debug_str     0x0000000000000000      0x25c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x39 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_MasterGetDefaultConfig
+                0x0000000000000000       0x3c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_Deinit
+                0x0000000000000000       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_SetBaudRate
+                0x0000000000000000       0x60 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_MasterInit
+                0x0000000000000000       0x88 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_WriteBlocking
+                0x0000000000000000       0x26 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_MasterTransferBlocking
+                0x0000000000000000       0x8e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_MasterTransferGetCount
+                0x0000000000000000       0x24 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetInstance
+                0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_Init
+                0x0000000000000000        0xc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_Deinit
+                0x0000000000000000        0xc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetHardwareConfig
+                0x0000000000000000        0x6 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetDefaultMasterDomainAssignment
+                0x0000000000000000        0x6 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_SetPeriphAccessConfig
+                0x0000000000000000       0x24 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetDefaultPeriphAccessConfig
+                0x0000000000000000       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_SetMemAccessConfig
+                0x0000000000000000       0x3e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetDefaultMemAccessConfig
+                0x0000000000000000       0x22 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text.RDC_GetMemViolationStatus
+                0x0000000000000000       0x24 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text.AUDIOMIX_AttachClk
+                0x0000000000000000       0x16 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text.AUDIOMIX_DeinitAudioPll1
+                0x0000000000000000        0xe CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text.AUDIOMIX_GetAudioPllFreq
+                0x0000000000000000       0x40 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .text.HAL_UartDeinit
+                0x0000000000000000       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .text.HAL_UartEnterLowpower
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .text.HAL_UartExitLowpower
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferGetRxRingBufferLength
+                0x0000000000000000       0x26 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferIsRxRingBufferFull
+                0x0000000000000000       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_Deinit
+                0x0000000000000000       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_EnableInterrupts
+                0x0000000000000000      0x108 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_DisableInterrupts
+                0x0000000000000000      0x110 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferHandleIRQ
+                0x0000000000000000      0x370 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_GetEnabledInterrupts
+                0x0000000000000000      0x19a CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_GetStatusFlag
+                0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_ClearStatusFlag
+                0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferCreateHandle
+                0x0000000000000000       0x68 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferStartRingBuffer
+                0x0000000000000000       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferStopRingBuffer
+                0x0000000000000000       0x24 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferSendNonBlocking
+                0x0000000000000000       0x2e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferAbortSend
+                0x0000000000000000       0x16 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferGetSendCount
+                0x0000000000000000       0x16 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferReceiveNonBlocking
+                0x0000000000000000       0xd0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferAbortReceive
+                0x0000000000000000       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text.UART_TransferGetReceiveCount
+                0x0000000000000000       0x1e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .rodata.s_uartIRQ
+                0x0000000000000000        0xa CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_Init
+                0x0000000000000000        0xc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetList
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddTail
+                0x0000000000000000       0x36 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddHead
+                0x0000000000000000       0x30 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveHead
+                0x0000000000000000       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetHead
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetNext
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetPrev
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveElement
+                0x0000000000000000       0x40 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddPrevElement
+                0x0000000000000000       0x52 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetSize
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetAvailableSize
+                0x0000000000000000        0x8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_info    0x0000000000000000      0x9c8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_abbrev  0x0000000000000000      0x2e0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_loc     0x0000000000000000      0x6d4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_aranges
+                0x0000000000000000       0x78 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_ranges  0x0000000000000000      0x218 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_line    0x0000000000000000      0x771 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_str     0x0000000000000000      0x48a CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .debug_frame   0x0000000000000000       0xf8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .text._sbrk    0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .bss.heap_end.0
+                0x0000000000000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_info    0x0000000000000000      0x123 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_abbrev  0x0000000000000000       0xf5 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_loc     0x0000000000000000       0x78 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_ranges  0x0000000000000000       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_line    0x0000000000000000      0x164 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_str     0x0000000000000000      0x290 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .comment       0x0000000000000000       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .debug_frame   0x0000000000000000       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000000000       0x10 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x10 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000000       0x30 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0x98 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x38 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000       0xb4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000000       0x30 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x20 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .bss.errno     0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000000       0x5c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x2 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000       0xa0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000000       0x44 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x32 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_interrupts     0x0000000000000000 0x0000000000000400 xr
+m_text           0x0000000000000400 0x000000000001fc00 xr
+m_data           0x0000000020000000 0x0000000000020000 rw
+m_data2          0x0000000080000000 0x0000000001000000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+LOAD CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+START GROUP
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg_nano.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x0000000000000000      0x2a8
+                0x0000000000000000                __VECTOR_TABLE = .
+                0x0000000000000000                __Vectors = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x2a8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+                0x0000000000000000                __isr_vector
+                0x00000000000002a8                . = ALIGN (0x4)
+
+.resource_table
+                0x0000000000000400       0x10
+                0x0000000000000400                . = ALIGN (0x8)
+ *(.resource_table)
+ .resource_table
+                0x0000000000000400       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+                0x0000000000000400                resource_table
+                0x0000000000000410                . = ALIGN (0x8)
+
+.text           0x0000000000000410     0x20cc
+                0x0000000000000410                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000410       0x40 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000450       0x7c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                0x0000000000000450                _stack_init
+                0x0000000000000458                _mainCRTStartup
+                0x0000000000000458                _start
+ .text          0x00000000000004cc      0x588 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+                0x00000000000004cc                Reset_Handler
+                0x0000000000000558                VPU_G2_DriverIRQHandler
+                0x0000000000000558                PWM2_DriverIRQHandler
+                0x0000000000000558                CAAM_ERROR_DriverIRQHandler
+                0x0000000000000558                DebugMon_Handler
+                0x0000000000000558                EDMA1_0_15_DriverIRQHandler
+                0x0000000000000558                CPU_Error_AXI_DriverIRQHandler
+                0x0000000000000558                BCH_DriverIRQHandler
+                0x0000000000000558                VPU_G1_DriverIRQHandler
+                0x0000000000000558                SNVS_Consolidated_DriverIRQHandler
+                0x0000000000000558                MIPI_CSI1_DriverIRQHandler
+                0x0000000000000558                MECC_ERR_DriverIRQHandler
+                0x0000000000000558                PWM4_DriverIRQHandler
+                0x0000000000000558                LCDIF1_DriverIRQHandler
+                0x0000000000000558                RDC_DriverIRQHandler
+                0x0000000000000558                GPIO3_Combined_0_15_DriverIRQHandler
+                0x0000000000000558                USB2_WAKEUP_DriverIRQHandler
+                0x0000000000000558                DDR_ERR_DriverIRQHandler
+                0x0000000000000558                I2S2_DriverIRQHandler
+                0x0000000000000558                I2C3_DriverIRQHandler
+                0x0000000000000558                HS_CP0_DriverIRQHandler
+                0x0000000000000558                GPMI_DriverIRQHandler
+                0x0000000000000558                MU3_AUDIO_DriverIRQHandler
+                0x0000000000000558                ISI_DriverIRQHandler
+                0x0000000000000558                I2C2_DriverIRQHandler
+                0x0000000000000558                ENET_QOS_PMT_DriverIRQHandler
+                0x0000000000000558                MIPI_CSI2_DriverIRQHandler
+                0x0000000000000558                GPIO2_Combined_16_31_DriverIRQHandler
+                0x0000000000000558                PERFMON1_DriverIRQHandler
+                0x0000000000000558                UsageFault_Handler
+                0x0000000000000558                SCTR_IRQ0_DriverIRQHandler
+                0x0000000000000558                CAAM_IRQ0_DriverIRQHandler
+                0x0000000000000558                DDR_PerformanceMonitor_DriverIRQHandler
+                0x0000000000000558                DefaultISR
+                0x0000000000000558                CPU_PerformanceUnit_DriverIRQHandler
+                0x0000000000000558                CAN_FD1_DriverIRQHandler
+                0x0000000000000558                CPU_Error_L2RAM_DriverIRQHandler
+                0x0000000000000558                I2S3_DriverIRQHandler
+                0x0000000000000558                SDMA2_DriverIRQHandler
+                0x0000000000000558                SRC_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT4_DriverIRQHandler
+                0x0000000000000558                HS_CP1_DriverIRQHandler
+                0x0000000000000558                ENET1_MAC0_Rx_Tx_Done0_DriverIRQHandler
+                0x0000000000000558                USDHC1_DriverIRQHandler
+                0x0000000000000558                WDOG1_DriverIRQHandler
+                0x0000000000000558                SDMA1_DriverIRQHandler
+                0x0000000000000558                GPIO1_Combined_16_31_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT7_DriverIRQHandler
+                0x0000000000000558                MIPI_DSI_DriverIRQHandler
+                0x0000000000000558                TZASC_DriverIRQHandler
+                0x0000000000000558                GPIO5_Combined_0_15_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT0_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT2_DriverIRQHandler
+                0x0000000000000558                GPU2D_DriverIRQHandler
+                0x0000000000000558                RTIC_DriverIRQHandler
+                0x0000000000000558                ENET1_1588_DriverIRQHandler
+                0x0000000000000558                CAN_FD1_ERROR_DriverIRQHandler
+                0x0000000000000558                EDMA1_ERR_DriverIRQHandler
+                0x0000000000000558                GPT2_DriverIRQHandler
+                0x0000000000000558                SCTR_IRQ1_DriverIRQHandler
+                0x0000000000000558                VPU_DriverIRQHandler
+                0x0000000000000558                I2S1_DriverIRQHandler
+                0x0000000000000558                SNVS_Security_DriverIRQHandler
+                0x0000000000000558                I2S7_DriverIRQHandler
+                0x0000000000000558                AUD2HTX_DriverIRQHandler
+                0x0000000000000558                PCIE_EDMA_DriverIRQHandler
+                0x0000000000000558                PDM_ERROR_DriverIRQHandler
+                0x0000000000000558                I2S56_DriverIRQHandler
+                0x0000000000000558                ML_DriverIRQHandler
+                0x0000000000000558                SJC_DriverIRQHandler
+                0x0000000000000558                CAAM_IRQ1_DriverIRQHandler
+                0x0000000000000558                PCIE_CTRL1_2_DriverIRQHandler
+                0x0000000000000558                PERFMON2_DriverIRQHandler
+                0x0000000000000558                GPT6_DriverIRQHandler
+                0x0000000000000558                EDMA1_16_31_DriverIRQHandler
+                0x0000000000000558                GPT5_DriverIRQHandler
+                0x0000000000000558                DDR_DriverIRQHandler
+                0x0000000000000558                GPT1_DriverIRQHandler
+                0x0000000000000558                CAAM_IRQ2_DriverIRQHandler
+                0x0000000000000558                SNVS_DriverIRQHandler
+                0x0000000000000558                CSU_DriverIRQHandler
+                0x0000000000000558                USDHC3_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT5_DriverIRQHandler
+                0x0000000000000558                QOS_DriverIRQHandler
+                0x0000000000000558                HDMI_TX_DriverIRQHandler
+                0x0000000000000558                FlexSPI_DriverIRQHandler
+                0x0000000000000558                DEWARP_DriverIRQHandler
+                0x0000000000000558                GPIO1_Combined_0_15_DriverIRQHandler
+                0x0000000000000558                USDHC2_DriverIRQHandler
+                0x0000000000000558                WDOG3_DriverIRQHandler
+                0x0000000000000558                MemManage_Handler
+                0x0000000000000558                USB1_WAKEUP_DriverIRQHandler
+                0x0000000000000558                PDM_EVENT_DriverIRQHandler
+                0x0000000000000558                I2C4_DriverIRQHandler
+                0x0000000000000558                USB1_DriverIRQHandler
+                0x0000000000000558                GPIO3_Combined_16_31_DriverIRQHandler
+                0x0000000000000558                AUDIO_XCVR1_DriverIRQHandler
+                0x0000000000000558                PWM1_DriverIRQHandler
+                0x0000000000000558                MU3_M7_DriverIRQHandler
+                0x0000000000000558                PCIE_CTRL1_3_DriverIRQHandler
+                0x0000000000000558                GPT4_DriverIRQHandler
+                0x0000000000000558                MU2_A53_DriverIRQHandler
+                0x0000000000000558                I2C1_DriverIRQHandler
+                0x0000000000000558                AUDIO_XCVR_DriverIRQHandler
+                0x0000000000000558                SDMA3_DriverIRQHandler
+                0x0000000000000558                CM7_CTI_DriverIRQHandler
+                0x0000000000000558                DAP_DriverIRQHandler
+                0x0000000000000558                Reserved16_DriverIRQHandler
+                0x0000000000000558                ENET_QOS_DriverIRQHandler
+                0x0000000000000558                I2C6_DriverIRQHandler
+                0x0000000000000558                ENET1_DriverIRQHandler
+                0x0000000000000558                ISP2_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT3_DriverIRQHandler
+                0x0000000000000558                MECC_DriverIRQHandler
+                0x0000000000000558                MECC_S_DriverIRQHandler
+                0x0000000000000558                PCIE_CTRL1_1_DriverIRQHandler
+                0x0000000000000558                APBHDMA_DriverIRQHandler
+                0x0000000000000558                ENET1_MAC0_Rx_Tx_Done1_DriverIRQHandler
+                0x0000000000000558                GPC_DriverIRQHandler
+                0x0000000000000558                GPIO2_Combined_0_15_DriverIRQHandler
+                0x0000000000000558                GPT3_DriverIRQHandler
+                0x0000000000000558                CAN_FD2_DriverIRQHandler
+                0x0000000000000558                CCM_IRQ2_DriverIRQHandler
+                0x0000000000000558                PCIE_CTRL1_0_DriverIRQHandler
+                0x0000000000000558                LCDIF2_DriverIRQHandler
+                0x0000000000000558                WDOG2_DriverIRQHandler
+                0x0000000000000558                ANAMIX_DriverIRQHandler
+                0x0000000000000558                MECC_S_ERR_DriverIRQHandler
+                0x0000000000000558                USB2_DriverIRQHandler
+                0x0000000000000558                GPIO4_Combined_0_15_DriverIRQHandler
+                0x0000000000000558                I2C5_DriverIRQHandler
+                0x0000000000000558                GPIO4_Combined_16_31_DriverIRQHandler
+                0x0000000000000558                ISP1_DriverIRQHandler
+                0x0000000000000558                GPIO5_Combined_16_31_DriverIRQHandler
+                0x0000000000000558                PCIE_CTRL1_ERR_DriverIRQHandler
+                0x0000000000000558                ASRC_DriverIRQHandler
+                0x0000000000000558                CAN_FD2_ERROR_DriverIRQHandler
+                0x0000000000000558                BusFault_Handler
+                0x0000000000000558                GPU3D_DriverIRQHandler
+                0x0000000000000558                PDM_HWVAD_ERROR_DriverIRQHandler
+                0x0000000000000558                PCIE_CTRL1_DriverIRQHandler
+                0x0000000000000558                CCM_IRQ1_DriverIRQHandler
+                0x0000000000000558                CPU_CTI_Trigger_DriverIRQHandler
+                0x0000000000000558                PDM_HWVAD_EVENT_DriverIRQHandler
+                0x0000000000000558                MU1_M7_DriverIRQHandler
+                0x0000000000000558                MU2_AUDIO_DriverIRQHandler
+                0x0000000000000558                PWM3_DriverIRQHandler
+                0x0000000000000558                AUDIO_XCVR0_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT6_DriverIRQHandler
+                0x0000000000000558                GPIO1_INT1_DriverIRQHandler
+                0x0000000000000558                ISI_CH1_DriverIRQHandler
+                0x0000000000000558                SRC_Combined_DriverIRQHandler
+                0x0000000000000558                MU1_A53_DriverIRQHandler
+                0x000000000000055c                NMI_Handler
+                0x0000000000000560                HardFault_Handler
+                0x0000000000000564                SVC_Handler
+                0x0000000000000568                PendSV_Handler
+                0x000000000000056c                SysTick_Handler
+                0x0000000000000570                Reserved16_IRQHandler
+                0x0000000000000574                DAP_IRQHandler
+                0x0000000000000578                SDMA1_IRQHandler
+                0x000000000000057c                GPU3D_IRQHandler
+                0x0000000000000580                SNVS_IRQHandler
+                0x0000000000000584                LCDIF1_IRQHandler
+                0x0000000000000588                LCDIF2_IRQHandler
+                0x000000000000058c                VPU_G1_IRQHandler
+                0x0000000000000590                VPU_G2_IRQHandler
+                0x0000000000000594                QOS_IRQHandler
+                0x0000000000000598                WDOG3_IRQHandler
+                0x000000000000059c                HS_CP1_IRQHandler
+                0x00000000000005a0                APBHDMA_IRQHandler
+                0x00000000000005a4                ML_IRQHandler
+                0x00000000000005a8                BCH_IRQHandler
+                0x00000000000005ac                GPMI_IRQHandler
+                0x00000000000005b0                ISI_IRQHandler
+                0x00000000000005b4                MIPI_CSI1_IRQHandler
+                0x00000000000005b8                MIPI_DSI_IRQHandler
+                0x00000000000005bc                SNVS_Consolidated_IRQHandler
+                0x00000000000005c0                SNVS_Security_IRQHandler
+                0x00000000000005c4                CSU_IRQHandler
+                0x00000000000005c8                USDHC1_IRQHandler
+                0x00000000000005cc                USDHC2_IRQHandler
+                0x00000000000005d0                USDHC3_IRQHandler
+                0x00000000000005d4                GPU2D_IRQHandler
+                0x00000000000005d8                UART1_IRQHandler
+                0x00000000000005dc                UART2_IRQHandler
+                0x00000000000005e0                UART3_IRQHandler
+                0x00000000000005e4                UART4_IRQHandler
+                0x00000000000005e8                VPU_IRQHandler
+                0x00000000000005ec                ECSPI1_IRQHandler
+                0x00000000000005f0                ECSPI2_IRQHandler
+                0x00000000000005f4                ECSPI3_IRQHandler
+                0x00000000000005f8                SDMA3_IRQHandler
+                0x00000000000005fc                I2C1_IRQHandler
+                0x0000000000000600                I2C2_IRQHandler
+                0x0000000000000604                I2C3_IRQHandler
+                0x0000000000000608                I2C4_IRQHandler
+                0x000000000000060c                RDC_IRQHandler
+                0x0000000000000610                USB1_IRQHandler
+                0x0000000000000614                USB2_IRQHandler
+                0x0000000000000618                ISI_CH1_IRQHandler
+                0x000000000000061c                HDMI_TX_IRQHandler
+                0x0000000000000620                PDM_HWVAD_EVENT_IRQHandler
+                0x0000000000000624                PDM_HWVAD_ERROR_IRQHandler
+                0x0000000000000628                GPT6_IRQHandler
+                0x000000000000062c                SCTR_IRQ0_IRQHandler
+                0x0000000000000630                SCTR_IRQ1_IRQHandler
+                0x0000000000000634                ANAMIX_IRQHandler
+                0x0000000000000638                I2S3_IRQHandler
+                0x000000000000063c                GPT5_IRQHandler
+                0x0000000000000640                GPT4_IRQHandler
+                0x0000000000000644                GPT3_IRQHandler
+                0x0000000000000648                GPT2_IRQHandler
+                0x000000000000064c                GPT1_IRQHandler
+                0x0000000000000650                GPIO1_INT7_IRQHandler
+                0x0000000000000654                GPIO1_INT6_IRQHandler
+                0x0000000000000658                GPIO1_INT5_IRQHandler
+                0x000000000000065c                GPIO1_INT4_IRQHandler
+                0x0000000000000660                GPIO1_INT3_IRQHandler
+                0x0000000000000664                GPIO1_INT2_IRQHandler
+                0x0000000000000668                GPIO1_INT1_IRQHandler
+                0x000000000000066c                GPIO1_INT0_IRQHandler
+                0x0000000000000670                GPIO1_Combined_0_15_IRQHandler
+                0x0000000000000674                GPIO1_Combined_16_31_IRQHandler
+                0x0000000000000678                GPIO2_Combined_0_15_IRQHandler
+                0x000000000000067c                GPIO2_Combined_16_31_IRQHandler
+                0x0000000000000680                GPIO3_Combined_0_15_IRQHandler
+                0x0000000000000684                GPIO3_Combined_16_31_IRQHandler
+                0x0000000000000688                GPIO4_Combined_0_15_IRQHandler
+                0x000000000000068c                GPIO4_Combined_16_31_IRQHandler
+                0x0000000000000690                GPIO5_Combined_0_15_IRQHandler
+                0x0000000000000694                GPIO5_Combined_16_31_IRQHandler
+                0x0000000000000698                ISP1_IRQHandler
+                0x000000000000069c                ISP2_IRQHandler
+                0x00000000000006a0                I2C5_IRQHandler
+                0x00000000000006a4                I2C6_IRQHandler
+                0x00000000000006a8                WDOG1_IRQHandler
+                0x00000000000006ac                WDOG2_IRQHandler
+                0x00000000000006b0                MIPI_CSI2_IRQHandler
+                0x00000000000006b4                PWM1_IRQHandler
+                0x00000000000006b8                PWM2_IRQHandler
+                0x00000000000006bc                PWM3_IRQHandler
+                0x00000000000006c0                PWM4_IRQHandler
+                0x00000000000006c4                CCM_IRQ1_IRQHandler
+                0x00000000000006c8                CCM_IRQ2_IRQHandler
+                0x00000000000006cc                GPC_IRQHandler
+                0x00000000000006d0                MU1_A53_IRQHandler
+                0x00000000000006d4                SRC_IRQHandler
+                0x00000000000006d8                I2S56_IRQHandler
+                0x00000000000006dc                RTIC_IRQHandler
+                0x00000000000006e0                CPU_PerformanceUnit_IRQHandler
+                0x00000000000006e4                CPU_CTI_Trigger_IRQHandler
+                0x00000000000006e8                SRC_Combined_IRQHandler
+                0x00000000000006ec                I2S1_IRQHandler
+                0x00000000000006f0                I2S2_IRQHandler
+                0x00000000000006f4                MU1_M7_IRQHandler
+                0x00000000000006f8                DDR_PerformanceMonitor_IRQHandler
+                0x00000000000006fc                DDR_IRQHandler
+                0x0000000000000700                DEWARP_IRQHandler
+                0x0000000000000704                CPU_Error_AXI_IRQHandler
+                0x0000000000000708                CPU_Error_L2RAM_IRQHandler
+                0x000000000000070c                SDMA2_IRQHandler
+                0x0000000000000710                SJC_IRQHandler
+                0x0000000000000714                CAAM_IRQ0_IRQHandler
+                0x0000000000000718                CAAM_IRQ1_IRQHandler
+                0x000000000000071c                FlexSPI_IRQHandler
+                0x0000000000000720                TZASC_IRQHandler
+                0x0000000000000724                PDM_EVENT_IRQHandler
+                0x0000000000000728                PDM_ERROR_IRQHandler
+                0x000000000000072c                I2S7_IRQHandler
+                0x0000000000000730                PERFMON1_IRQHandler
+                0x0000000000000734                PERFMON2_IRQHandler
+                0x0000000000000738                CAAM_IRQ2_IRQHandler
+                0x000000000000073c                CAAM_ERROR_IRQHandler
+                0x0000000000000740                HS_CP0_IRQHandler
+                0x0000000000000744                CM7_CTI_IRQHandler
+                0x0000000000000748                ENET1_MAC0_Rx_Tx_Done0_IRQHandler
+                0x000000000000074c                ENET1_MAC0_Rx_Tx_Done1_IRQHandler
+                0x0000000000000750                ENET1_IRQHandler
+                0x0000000000000754                ENET1_1588_IRQHandler
+                0x0000000000000758                ASRC_IRQHandler
+                0x000000000000075c                PCIE_CTRL1_0_IRQHandler
+                0x0000000000000760                PCIE_CTRL1_1_IRQHandler
+                0x0000000000000764                PCIE_CTRL1_2_IRQHandler
+                0x0000000000000768                PCIE_CTRL1_3_IRQHandler
+                0x000000000000076c                PCIE_EDMA_IRQHandler
+                0x0000000000000770                AUDIO_XCVR0_IRQHandler
+                0x0000000000000774                AUDIO_XCVR1_IRQHandler
+                0x0000000000000778                AUD2HTX_IRQHandler
+                0x000000000000077c                EDMA1_ERR_IRQHandler
+                0x0000000000000780                EDMA1_0_15_IRQHandler
+                0x0000000000000784                EDMA1_16_31_IRQHandler
+                0x0000000000000788                ENET_QOS_PMT_IRQHandler
+                0x000000000000078c                ENET_QOS_IRQHandler
+                0x0000000000000790                MU2_A53_IRQHandler
+                0x0000000000000794                MU2_AUDIO_IRQHandler
+                0x0000000000000798                MU3_M7_IRQHandler
+                0x000000000000079c                MU3_AUDIO_IRQHandler
+                0x00000000000007a0                PCIE_CTRL1_IRQHandler
+                0x00000000000007a4                PCIE_CTRL1_ERR_IRQHandler
+                0x00000000000007a8                CAN_FD1_IRQHandler
+                0x00000000000007ac                CAN_FD1_ERROR_IRQHandler
+                0x00000000000007b0                CAN_FD2_IRQHandler
+                0x00000000000007b4                CAN_FD2_ERROR_IRQHandler
+                0x00000000000007b8                AUDIO_XCVR_IRQHandler
+                0x00000000000007bc                DDR_ERR_IRQHandler
+                0x00000000000007c0                USB1_WAKEUP_IRQHandler
+                0x00000000000007c4                USB2_WAKEUP_IRQHandler
+                0x00000000000007c8                MECC_IRQHandler
+                0x00000000000007cc                MECC_ERR_IRQHandler
+                0x00000000000007d0                MECC_S_IRQHandler
+                0x00000000000007d4                MECC_S_ERR_IRQHandler
+ .text          0x0000000000000a54       0x10 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+                0x0000000000000a54                strlen
+ .text          0x0000000000000a64       0x30 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000000a64                __aeabi_uldivmod
+ .text          0x0000000000000a94      0x2d0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x0000000000000a94                __udivmoddi4
+ .text          0x0000000000000d64        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x0000000000000d64                __aeabi_ldiv0
+                0x0000000000000d64                __aeabi_idiv0
+ *(.text*)
+ .text.ECSPI_SlaveUserCallback
+                0x0000000000000d68       0x3c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                0x0000000000000d68                ECSPI_SlaveUserCallback
+ .text.startup.main
+                0x0000000000000da4      0x10c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                0x0000000000000da4                main
+ .text.BOARD_InitPins
+                0x0000000000000eb0       0x58 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+                0x0000000000000eb0                BOARD_InitPins
+ .text.BOARD_InitDebugConsole
+                0x0000000000000f08       0x44 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+                0x0000000000000f08                BOARD_InitDebugConsole
+ .text.BOARD_InitMemory
+                0x0000000000000f4c      0x1d4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+                0x0000000000000f4c                BOARD_InitMemory
+ .text.BOARD_RdcInit
+                0x0000000000001120       0x64 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+                0x0000000000001120                BOARD_RdcInit
+ .text.BOARD_BootClockRUN
+                0x0000000000001184      0x164 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+                0x0000000000001184                BOARD_BootClockRUN
+ .text.DbgConsole_Putchar
+                0x00000000000012e8       0x24 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x00000000000012e8                DbgConsole_Putchar
+ .text.DbgConsole_Init
+                0x000000000000130c       0x48 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x000000000000130c                DbgConsole_Init
+ .text.DbgConsole_Printf
+                0x0000000000001354      0x28c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+                0x0000000000001354                DbgConsole_Printf
+ .text.CLOCK_GetPllRefClkFreq
+                0x00000000000015e0       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000015e0                CLOCK_GetPllRefClkFreq
+ .text.CLOCK_InitFracPll
+                0x0000000000001600       0x54 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001600                CLOCK_InitFracPll
+ .text.CLOCK_InitAudioPll1
+                0x0000000000001654       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001654                CLOCK_InitAudioPll1
+ .text.CLOCK_InitAudioPll2
+                0x000000000000167c       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x000000000000167c                CLOCK_InitAudioPll2
+ .text.CLOCK_GetFracPllFreq
+                0x00000000000016a8       0x40 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000016a8                CLOCK_GetFracPllFreq
+ .text.CLOCK_GetIntegerPllFreq
+                0x00000000000016e8       0x36 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000016e8                CLOCK_GetIntegerPllFreq
+ *fill*         0x000000000000171e        0x2 
+ .text.CLOCK_GetPllFreq
+                0x0000000000001720       0xb4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x0000000000001720                CLOCK_GetPllFreq
+ .text.CLOCK_SetRootDivider
+                0x00000000000017d4       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000017d4                CLOCK_SetRootDivider
+ .text.CLOCK_EnableClock
+                0x00000000000017f4       0x50 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                0x00000000000017f4                CLOCK_EnableClock
+ .text.ECSPI_CommonIRQHandler
+                0x0000000000001844       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_SendTransfer
+                0x000000000000186c       0x44 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .text.ECSPI_GetInstance
+                0x00000000000018b0       0x2c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x00000000000018b0                ECSPI_GetInstance
+ .text.ECSPI_SlaveGetDefaultConfig
+                0x00000000000018dc       0x32 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x00000000000018dc                ECSPI_SlaveGetDefaultConfig
+ *fill*         0x000000000000190e        0x2 
+ .text.ECSPI_SetChannelConfig
+                0x0000000000001910      0x120 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001910                ECSPI_SetChannelConfig
+ .text.ECSPI_SlaveInit
+                0x0000000000001a30       0x58 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001a30                ECSPI_SlaveInit
+ .text.ECSPI_MasterTransferCreateHandle
+                0x0000000000001a88       0x4c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001a88                ECSPI_MasterTransferCreateHandle
+ .text.ECSPI_MasterTransferNonBlocking
+                0x0000000000001ad4       0x62 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001ad4                ECSPI_MasterTransferNonBlocking
+ .text.ECSPI_MasterTransferAbort
+                0x0000000000001b36       0x1e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001b36                ECSPI_MasterTransferAbort
+ .text.ECSPI_MasterTransferHandleIRQ
+                0x0000000000001b54       0x92 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001b54                ECSPI_MasterTransferHandleIRQ
+ .text.ECSPI_SlaveTransferHandleIRQ
+                0x0000000000001be6        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001be6                ECSPI_SlaveTransferHandleIRQ
+ *fill*         0x0000000000001bea        0x2 
+ .text.ECSPI_SlaveTransferCreateHandle
+                0x0000000000001bec       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001bec                ECSPI_SlaveTransferCreateHandle
+ .text.ECSPI1_DriverIRQHandler
+                0x0000000000001c04       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001c04                ECSPI1_DriverIRQHandler
+ .text.ECSPI2_DriverIRQHandler
+                0x0000000000001c18       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001c18                ECSPI2_DriverIRQHandler
+ .text.ECSPI3_DriverIRQHandler
+                0x0000000000001c2c       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                0x0000000000001c2c                ECSPI3_DriverIRQHandler
+ .text.RDC_SetMasterDomainAssignment
+                0x0000000000001c40        0xa CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+                0x0000000000001c40                RDC_SetMasterDomainAssignment
+ *fill*         0x0000000000001c4a        0x2 
+ .text.AUDIOMIX_InitAudioPll
+                0x0000000000001c4c       0x64 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+                0x0000000000001c4c                AUDIOMIX_InitAudioPll
+ .text.HAL_UartInit
+                0x0000000000001cb0       0x6c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+                0x0000000000001cb0                HAL_UartInit
+ .text.HAL_UartReceiveBlocking
+                0x0000000000001d1c       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+                0x0000000000001d1c                HAL_UartReceiveBlocking
+ .text.HAL_UartSendBlocking
+                0x0000000000001d3c       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+                0x0000000000001d3c                HAL_UartSendBlocking
+ .text.UART_GetInstance
+                0x0000000000001d54       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001d54                UART_GetInstance
+ .text.UART_GetDefaultConfig
+                0x0000000000001d8c       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001d8c                UART_GetDefaultConfig
+ .text.UART_SetBaudRate
+                0x0000000000001db4      0x13c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001db4                UART_SetBaudRate
+ .text.UART_Init
+                0x0000000000001ef0      0x154 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000001ef0                UART_Init
+ .text.UART_WriteBlocking
+                0x0000000000002044       0x22 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000002044                UART_WriteBlocking
+ .text.UART_ReadBlocking
+                0x0000000000002066       0x66 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x0000000000002066                UART_ReadBlocking
+ .text.UART1_DriverIRQHandler
+                0x00000000000020cc       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x00000000000020cc                UART1_DriverIRQHandler
+ .text.UART2_DriverIRQHandler
+                0x00000000000020ec       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x00000000000020ec                UART2_DriverIRQHandler
+ .text.UART3_DriverIRQHandler
+                0x000000000000210c       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x000000000000210c                UART3_DriverIRQHandler
+ .text.UART4_DriverIRQHandler
+                0x000000000000212c       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                0x000000000000212c                UART4_DriverIRQHandler
+ .text.GetFracPllFreq
+                0x000000000000214c       0x44 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x000000000000214c                GetFracPllFreq
+ .text.GetIntegerPllFreq
+                0x0000000000002190       0x44 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000002190                GetIntegerPllFreq
+ .text.SystemCoreClockUpdate
+                0x00000000000021d4       0x9c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x00000000000021d4                SystemCoreClockUpdate
+ .text.SystemInitHook
+                0x0000000000002270        0x2 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000002270                SystemInitHook
+ *fill*         0x0000000000002272        0x2 
+ .text.SystemInit
+                0x0000000000002274       0x1c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000000002274                SystemInit
+ .text.exit     0x0000000000002290       0x28 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+                0x0000000000002290                exit
+ .text.__libc_init_array
+                0x00000000000022b8       0x48 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+                0x00000000000022b8                __libc_init_array
+ .text.memset   0x0000000000002300       0x10 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                0x0000000000002300                memset
+ .text._exit    0x0000000000002310        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                0x0000000000002310                _exit
+ *(.rodata)
+ *(.rodata*)
+ .rodata.ECSPI_SlaveUserCallback.str1.1
+                0x0000000000002314       0x85 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .rodata.main.str1.1
+                0x0000000000002399       0xac CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                                         0xaf (size before relaxing)
+ *fill*         0x0000000000002445        0x3 
+ .rodata.g_audioPll1Config
+                0x0000000000002448       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+                0x0000000000002448                g_audioPll1Config
+ .rodata.g_audioPll2Config
+                0x0000000000002458       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+                0x0000000000002458                g_audioPll2Config
+ .rodata.g_saiPLLConfig
+                0x0000000000002468       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+                0x0000000000002468                g_saiPLLConfig
+ .rodata.s_ecspiClock
+                0x0000000000002478       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .rodata.s_ecspiIRQ
+                0x0000000000002488        0x8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .rodata.s_UartAdapterBase
+                0x0000000000002490       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .rodata.CSWTCH.36
+                0x00000000000024a4        0x6 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ *fill*         0x00000000000024aa        0x2 
+ .rodata.s_uartClock
+                0x00000000000024ac       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .rodata._global_impure_ptr
+                0x00000000000024c0        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+                0x00000000000024c0                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00000000000024c4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000000024c4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x00000000000024c4        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x00000000000024c4        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000000024c4                _init
+ .init          0x00000000000024c8        0x8 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x00000000000024d0        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x00000000000024d0                _fini
+ .fini          0x00000000000024d4        0x8 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x00000000000024dc                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00000000000024dc        0x0
+ .vfp11_veneer  0x00000000000024dc        0x0 linker stubs
+
+.v4_bx          0x00000000000024dc        0x0
+ .v4_bx         0x00000000000024dc        0x0 linker stubs
+
+.iplt           0x00000000000024dc        0x0
+ .iplt          0x00000000000024dc        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00000000000024dc        0x8
+                0x00000000000024dc                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x00000000000024dc        0x8 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x00000000000024e4        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                                          0x8 (size before relaxing)
+                0x00000000000024e4                __exidx_end = .
+
+.rel.dyn        0x00000000000024e4        0x0
+ .rel.iplt      0x00000000000024e4        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ctors          0x00000000000024e4        0x0
+                0x00000000000024e4                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x00000000000024e4                __CTOR_END__ = .
+
+.dtors          0x00000000000024e4        0x0
+                0x00000000000024e4                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x00000000000024e4                __DTOR_END__ = .
+
+.preinit_array  0x00000000000024e4        0x0
+                0x00000000000024e4                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00000000000024e4                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000000024e4        0x4
+                0x00000000000024e4                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00000000000024e4        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x00000000000024e8                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000000024e8        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00000000000024e8        0x4 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x00000000000024ec                __etext = .
+                0x00000000000024ec                __DATA_ROM = .
+
+.data           0x0000000020000000       0x64 load address 0x00000000000024ec
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __DATA_RAM = .
+                0x0000000020000000                __data_start__ = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                0x0000000020000000                SystemCoreClock
+ .data.impure_data
+                0x0000000020000004       0x60 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ *(.jcr*)
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                __data_end__ = .
+                0x0000000000000000                __CACHE_REGION_START = ORIGIN (m_interrupts)
+                0x0000000000000000                __CACHE_REGION_SIZE = 0x0
+                0x0000000000002550                __NDATA_ROM = (__DATA_ROM + SIZEOF (.data))
+
+.igot.plt       0x0000000020000064        0x0 load address 0x0000000000002550
+ .igot.plt      0x0000000020000064        0x0 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ncache.init    0x0000000080000000        0x0 load address 0x0000000000002550
+                0x0000000080000000                __noncachedata_start__ = .
+ *(NonCacheable.init)
+                0x0000000080000000                . = ALIGN (0x4)
+                0x0000000080000000                __noncachedata_init_end__ = .
+                0x0000000080000000                . = __noncachedata_init_end__
+
+.ncache         0x0000000080000000        0x0
+ *(NonCacheable)
+                0x0000000080000000                . = ALIGN (0x4)
+                0x0000000080000000                __noncachedata_end__ = .
+                0x0000000000002550                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x0000000000020000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x0000000000000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.bss            0x0000000020000064      0x188 load address 0x0000000000002550
+                0x0000000020000064                . = ALIGN (0x4)
+                0x0000000020000064                __START_BSS = .
+                0x0000000020000064                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000020000064       0x1c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.g_s_handle
+                0x0000000020000080       0x24 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                0x0000000020000080                g_s_handle
+ .bss.isTransferCompleted
+                0x00000000200000a4        0x1 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                0x00000000200000a4                isTransferCompleted
+ *fill*         0x00000000200000a5        0x3 
+ .bss.slaveRxData
+                0x00000000200000a8      0x100 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                0x00000000200000a8                slaveRxData
+ .bss.s_debugConsole
+                0x00000000200001a8       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .bss.s_ecspiHandle
+                0x00000000200001bc       0x10 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .bss.s_ecspiMasterIsr
+                0x00000000200001cc        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .bss.s_ecspiSlaveIsr
+                0x00000000200001d0        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .bss.s_uartHandle
+                0x00000000200001d4       0x14 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .bss.s_uartIsr
+                0x00000000200001e8        0x4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ *(COMMON)
+                0x00000000200001ec                . = ALIGN (0x4)
+                0x00000000200001ec                __bss_end__ = .
+                0x00000000200001ec                __END_BSS = .
+
+.heap           0x00000000200001ec      0x404 load address 0x00000000000026d8
+                0x00000000200001f0                . = ALIGN (0x8)
+ *fill*         0x00000000200001ec        0x4 
+                0x00000000200001f0                __end__ = .
+                0x00000000200001f0                PROVIDE (end = .)
+                0x00000000200001f0                __HeapBase = .
+                0x00000000200005f0                . = (. + HEAP_SIZE)
+ *fill*         0x00000000200001f0      0x400 
+                0x00000000200005f0                __HeapLimit = .
+                0x00000000200005f0                __heap_limit = .
+
+.stack          0x00000000200005f0      0x400 load address 0x0000000000002adc
+                0x00000000200005f0                . = ALIGN (0x8)
+                0x00000000200009f0                . = (. + STACK_SIZE)
+ *fill*         0x00000000200005f0      0x400 
+                0x0000000020020000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x000000002001fc00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x0000000020020000                PROVIDE (__stack = __StackTop)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x1c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x000000000000006e       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .ARM.attributes
+                0x00000000000000a2       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .ARM.attributes
+                0x00000000000000d6       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .ARM.attributes
+                0x000000000000010a       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .ARM.attributes
+                0x000000000000013e       0x39 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .ARM.attributes
+                0x0000000000000177       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .ARM.attributes
+                0x00000000000001ab       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .ARM.attributes
+                0x00000000000001df       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .ARM.attributes
+                0x0000000000000213       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .ARM.attributes
+                0x0000000000000247       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .ARM.attributes
+                0x000000000000027b       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .ARM.attributes
+                0x00000000000002af       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .ARM.attributes
+                0x00000000000002e3       0x1f CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+ .ARM.attributes
+                0x0000000000000302       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .ARM.attributes
+                0x0000000000000336       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000000036a       0x32 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000039c       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000003d0       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000404       0x17 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000000000000041b       0x1e /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000439       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000000000000046d       0x1e /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000048b       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000000004bf       0x1e /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(release/ecspi_polling_b2b_transfer_slave.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x10c04
+ .debug_info    0x0000000000000000      0xe5d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_info    0x0000000000000e5d      0x632 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_info    0x000000000000148f     0x16ad CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_info    0x0000000000002b3c     0x1832 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_info    0x000000000000436e       0x9c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .debug_info    0x000000000000440a     0x141d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_info    0x0000000000005827     0x2975 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_info    0x000000000000819c     0x2827 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_info    0x000000000000a9c3     0x1244 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_info    0x000000000000bc07      0x857 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_info    0x000000000000c45e      0xdb2 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_info    0x000000000000d210     0x2cd7 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_info    0x000000000000fee7      0xd1d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_abbrev   0x0000000000000000     0x23b4
+ .debug_abbrev  0x0000000000000000      0x285 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_abbrev  0x0000000000000285       0xf2 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_abbrev  0x0000000000000377      0x38f CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_abbrev  0x0000000000000706      0x1fa CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_abbrev  0x0000000000000900       0x61 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .debug_abbrev  0x0000000000000961      0x38e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_abbrev  0x0000000000000cef      0x395 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_abbrev  0x0000000000001084      0x4eb CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_abbrev  0x000000000000156f      0x31c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_abbrev  0x000000000000188b      0x190 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_abbrev  0x0000000000001a1b      0x2e2 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_abbrev  0x0000000000001cfd      0x4f8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_abbrev  0x00000000000021f5      0x1bf CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_loc      0x0000000000000000     0x679b
+ .debug_loc     0x0000000000000000      0x24c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_loc     0x000000000000024c      0x5e2 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_loc     0x000000000000082e      0x29d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_loc     0x0000000000000acb      0x120 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_loc     0x0000000000000beb     0x13d7 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_loc     0x0000000000001fc2     0x17bf CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_loc     0x0000000000003781     0x1087 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_loc     0x0000000000004808      0x28b CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_loc     0x0000000000004a93      0x1fa CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_loc     0x0000000000004c8d      0x23c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_loc     0x0000000000004ec9     0x15a1 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_loc     0x000000000000646a      0x331 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_aranges  0x0000000000000000      0x4e0
+ .debug_aranges
+                0x0000000000000000       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_aranges
+                0x0000000000000028       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_aranges
+                0x0000000000000050       0x30 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_aranges
+                0x0000000000000080       0x20 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_aranges
+                0x00000000000000a0       0x18 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .debug_aranges
+                0x00000000000000b8       0x50 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_aranges
+                0x0000000000000108       0xf8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_aranges
+                0x0000000000000200       0xc0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_aranges
+                0x00000000000002c0       0x70 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_aranges
+                0x0000000000000330       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_aranges
+                0x0000000000000368       0x40 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_aranges
+                0x00000000000003a8       0xf8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_aranges
+                0x00000000000004a0       0x40 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_ranges   0x0000000000000000      0xbe0
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_ranges  0x0000000000000038       0x48 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_ranges  0x0000000000000080       0x80 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_ranges  0x0000000000000100       0xc8 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_ranges  0x00000000000001c8      0x140 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_ranges  0x0000000000000308      0x370 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_ranges  0x0000000000000678      0x268 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_ranges  0x00000000000008e0       0x60 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_ranges  0x0000000000000940       0x28 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_ranges  0x0000000000000968       0x30 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_ranges  0x0000000000000998      0x218 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_ranges  0x0000000000000bb0       0x30 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_line     0x0000000000000000     0x63f8
+ .debug_line    0x0000000000000000      0x471 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_line    0x0000000000000471      0x2dc CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_line    0x000000000000074d      0x7cd CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_line    0x0000000000000f1a      0x3b1 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_line    0x00000000000012cb      0x127 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .debug_line    0x00000000000013f2      0xc92 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_line    0x0000000000002084      0xedb CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_line    0x0000000000002f5f      0xef7 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_line    0x0000000000003e56      0x480 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_line    0x00000000000042d6      0x2ae CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_line    0x0000000000004584      0x33f CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_line    0x00000000000048c3     0x1800 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_line    0x00000000000060c3      0x335 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_str      0x0000000000000000     0x86b9
+ .debug_str     0x0000000000000000     0x1366 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                                       0x143c (size before relaxing)
+ .debug_str     0x0000000000001366      0x104 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+                                        0x313 (size before relaxing)
+ .debug_str     0x000000000000146a     0x1565 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+                                       0x17f6 (size before relaxing)
+ .debug_str     0x00000000000029cf      0xa23 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+                                       0x20da (size before relaxing)
+ .debug_str     0x00000000000033f2       0x8e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+                                        0x289 (size before relaxing)
+ .debug_str     0x0000000000003480      0x617 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+                                       0x1350 (size before relaxing)
+ .debug_str     0x0000000000003a97      0xc15 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+                                       0x1fee (size before relaxing)
+ .debug_str     0x00000000000046ac     0x10c0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+                                       0x2a6e (size before relaxing)
+ .debug_str     0x000000000000576c     0x104d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+                                       0x1d0c (size before relaxing)
+ .debug_str     0x00000000000067b9      0xf8f CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+                                       0x13cf (size before relaxing)
+ .debug_str     0x0000000000007748      0x29a CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+                                       0x124d (size before relaxing)
+ .debug_str     0x00000000000079e2      0xc45 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+                                       0x2c2d (size before relaxing)
+ .debug_str     0x0000000000008627       0x92 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+                                        0x9ea (size before relaxing)
+
+.comment        0x0000000000000000       0x4d
+ .comment       0x0000000000000000       0x4d CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+                                         0x4e (size before relaxing)
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/empty_rsc_table.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .comment       0x000000000000004d       0x4e CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+
+.debug_frame    0x0000000000000000      0xd58
+ .debug_frame   0x0000000000000000       0x54 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/ecspi_polling_b2b_transfer_slave.c.obj
+ .debug_frame   0x0000000000000054       0x30 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/pin_mux.c.obj
+ .debug_frame   0x0000000000000084       0x64 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/board.c.obj
+ .debug_frame   0x00000000000000e8       0x34 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/ecspi/polling_b2b_transfer/slave/clock_config.c.obj
+ .debug_frame   0x000000000000011c      0x128 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+ .debug_frame   0x0000000000000244      0x2b0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+ .debug_frame   0x00000000000004f4      0x238 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_ecspi.c.obj
+ .debug_frame   0x000000000000072c       0xe4 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+ .debug_frame   0x0000000000000810       0x6c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+ .debug_frame   0x000000000000087c       0x9c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+ .debug_frame   0x0000000000000918      0x2c0 CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+ .debug_frame   0x0000000000000bd8       0x8c CMakeFiles/ecspi_polling_b2b_transfer_slave.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+ .debug_frame   0x0000000000000c64       0x28 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000c8c       0x2c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000cb8       0x20 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000cd8       0x2c /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000d04       0x34 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000000d38       0x20 /mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)

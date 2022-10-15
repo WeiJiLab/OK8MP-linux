@@ -1,0 +1,25 @@
+Scanning dependencies of target pdm_sdma_transfer.elf
+[  9%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_clock.c.obj
+[ 13%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/fsl_sbrk.c.obj
+[  9%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_pdm.c.obj
+[ 22%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_common.c.obj
+[ 22%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sdma_transfer/pin_mux.c.obj
+[ 27%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sdma_transfer/board.c.obj
+[ 36%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_assert.c.obj
+[ 36%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sdma_transfer/pdm_sdma_transfer.c.obj
+[ 40%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sdma_transfer/clock_config.c.obj
+[ 50%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_pdm_sdma.c.obj
+[ 50%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/boards/evkmimx8mp/driver_examples/pdm/pdm_sdma_transfer/empty_rsc_table.c.obj
+[ 54%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_gpio.c.obj
+[ 59%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_sdma.c.obj
+[ 63%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/utilities/debug_console_lite/fsl_debug_console.c.obj
+[ 68%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_uart.c.obj
+[ 72%] Building ASM object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/gcc/startup_MIMX8ML8_cm7.S.obj
+[ 77%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_rdc.c.obj
+[ 86%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/drivers/fsl_audiomix.c.obj
+[ 86%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/uart/fsl_adapter_iuart.c.obj
+[ 95%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/components/lists/fsl_component_generic_list.c.obj
+[ 95%] Building C object CMakeFiles/pdm_sdma_transfer.elf.dir/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/devices/MIMX8ML8/system_MIMX8ML8_cm7.c.obj
+[100%] Linking C executable release/pdm_sdma_transfer.elf
+/mnt/OK8MP/OK8MP-linux-sdk/OK8MP-FreeRTOS/tools/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/bin/ld: warning: -z relro ignored
+[100%] Built target pdm_sdma_transfer.elf
