@@ -1,0 +1,74 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "GLES3.Bloom": {
+      "AllRequirements": [
+        {
+          "Name": "EGL",
+          "Type": "feature"
+        },
+        {
+          "Name": "OpenGLES",
+          "Type": "feature"
+        },
+        {
+          "Extends": "OpenGLES",
+          "Name": "OpenGLES3",
+          "Type": "feature",
+          "Version": "3"
+        }
+      ],
+      "CreationYear": "2016",
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "GLES3.Bloom_${WindowSystem}${FSLGEN_GENERATOR_EXE_FILE_EXTENSION}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release",
+                "Coverage"
+              ]
+            },
+            {
+              "Name": "WindowSystem",
+              "Options": [
+                "FB",
+                "Wayland",
+                "Wayland_IVI",
+                "X11"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_EXE_FILE_EXTENSION",
+              "Options": [
+                "_d",
+                "",
+                "_c"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSL_GENERATOR_CMAKE_BUILD_CONFIG",
+              "Options": [
+                "Debug",
+                "Release",
+                "Debug"
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}

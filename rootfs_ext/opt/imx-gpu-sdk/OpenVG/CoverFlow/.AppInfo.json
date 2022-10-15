@@ -1,0 +1,68 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "OpenVG.CoverFlow": {
+      "AllRequirements": [
+        {
+          "Name": "EGL",
+          "Type": "feature"
+        },
+        {
+          "Name": "OpenVG",
+          "Type": "feature"
+        }
+      ],
+      "CreationYear": "2014",
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "OpenVG.CoverFlow_${WindowSystem}${FSLGEN_GENERATOR_EXE_FILE_EXTENSION}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release",
+                "Coverage"
+              ]
+            },
+            {
+              "Name": "WindowSystem",
+              "Options": [
+                "FB",
+                "Wayland",
+                "Wayland_IVI",
+                "X11"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_EXE_FILE_EXTENSION",
+              "Options": [
+                "_d",
+                "",
+                "_c"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSL_GENERATOR_CMAKE_BUILD_CONFIG",
+              "Options": [
+                "Debug",
+                "Release",
+                "Debug"
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "G2D.DFGraphicsBasic2D": {
+      "AllRequirements": [
+        {
+          "Name": "EarlyAccess",
+          "Type": "feature"
+        },
+        {
+          "Name": "G2D",
+          "Type": "feature"
+        }
+      ],
+      "CreationYear": "2014",
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "G2D.DFGraphicsBasic2D${FSLGEN_GENERATOR_EXE_FILE_EXTENSION}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release",
+                "Coverage"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_EXE_FILE_EXTENSION",
+              "Options": [
+                "_d",
+                "",
+                "_c"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSL_GENERATOR_CMAKE_BUILD_CONFIG",
+              "Options": [
+                "Debug",
+                "Release",
+                "Debug"
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}

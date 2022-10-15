@@ -1,0 +1,50 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "Console.ConsoleMinimal101": {
+      "AllRequirements": [],
+      "CreationYear": "2019",
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "Console.ConsoleMinimal101${FSLGEN_GENERATOR_EXE_FILE_EXTENSION}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release",
+                "Coverage"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_EXE_FILE_EXTENSION",
+              "Options": [
+                "_d",
+                "",
+                "_c"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSL_GENERATOR_CMAKE_BUILD_CONFIG",
+              "Options": [
+                "Debug",
+                "Release",
+                "Debug"
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "PlatformName": "Yocto",
+  "ResolvedPackageList": {
+    "OpenCL.FastFourierTransform": {
+      "AllRequirements": [
+        {
+          "Name": "EarlyAccess",
+          "Type": "feature"
+        },
+        {
+          "Name": "OpenCL",
+          "Type": "feature",
+          "Version": "1"
+        },
+        {
+          "Extends": "OpenCL",
+          "Name": "OpenCL1.2",
+          "Type": "feature",
+          "Version": "1.2"
+        }
+      ],
+      "CreationYear": "2016",
+      "GeneratorReport": {
+        "ExecutableReport": {
+          "EnvironmentVariableResolveMethod": 0,
+          "ExeFormatString": "OpenCL.FastFourierTransform${FSLGEN_GENERATOR_EXE_FILE_EXTENSION}",
+          "UseAsRelative": false
+        },
+        "VariableReport": {
+          "DefaultOptions": {
+            "config": 1
+          },
+          "VariableReportList": [
+            {
+              "Name": "config",
+              "Options": [
+                "Debug",
+                "Release",
+                "Coverage"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSLGEN_GENERATOR_EXE_FILE_EXTENSION",
+              "Options": [
+                "_d",
+                "",
+                "_c"
+              ]
+            },
+            {
+              "LinkTargetName": "config",
+              "Name": "FSL_GENERATOR_CMAKE_BUILD_CONFIG",
+              "Options": [
+                "Debug",
+                "Release",
+                "Debug"
+              ]
+            }
+          ]
+        }
+      },
+      "Type": "Executable"
+    }
+  }
+}
