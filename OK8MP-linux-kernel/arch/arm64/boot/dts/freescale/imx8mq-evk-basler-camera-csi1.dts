@@ -1,0 +1,14 @@
+#include "imx8mq-evk.dts"
+#include "imx8mq-evk-basler-camera-csi.dtsi"
+
+&csi1_bridge {
+	status = "okay";
+};
+
+&mipi_csi_1 {
+	status = "okay";
+};
+
+&basler_camera_mipi1 {
+	status = "okay";
+};

@@ -1,0 +1,103 @@
+
+&csi1_bridge {
+	dma-coherent;
+	bsl,dma-invalidate;
+	status = "disabled";
+};
+
+&csi2_bridge {
+	dma-coherent;
+	bsl,dma-invalidate;
+	status = "disabled";
+};
+
+&mipi_csi_1 {
+	#address-cells = <1>;
+	#size-cells = <0>;
+	rxhs-settle = <0x07>;
+	status = "disabled";
+
+	/* When the second clock is changed, the link-frequencies entry in
+	 * the basler_camera_mipi1_ep node also needs to be updated. */
+	assigned-clock-rates = <266000000>, <125000000>, <66000000>;
+
+	port {
+		mipi1_sensor_ep: endpoint@0 {
+			remote-endpoint = <&basler_camera_mipi1_ep>;
+
+			/* If the following entries are changed, then
+			 * the entries in the basler_camera_mipi1_ep node
+			 * need to updated too. */
+			clock-lanes = <0>;
+			data-lanes = <1 2 3 4>;
+		};
+	};
+};
+
+&mipi_csi_2 {
+	#address-cells = <1>;
+	#size-cells = <0>;
+	rxhs-settle = <0x07>;
+	status = "disabled";
+
+	/* When the second clock is changed, the link-frequencies entry in
+	 * the basler_camera_mipi2_ep node also needs to be updated. */
+	assigned-clock-rates = <266000000>, <125000000>, <66000000>;
+
+	port {
+		mipi2_sensor_ep: endpoint@0 {
+			remote-endpoint = <&basler_camera_mipi2_ep>;
+
+			/* If the following entries are changed, then
+			 * the entries in the basler_camera_mipi2_ep node
+			 * need to updated too. */
+			clock-lanes = <0>;
+			data-lanes = <1 2 3 4>;
+		};
+	};
+};
+
+/delete-node/ &ov5640_mipi;
+/delete-node/ &ov5640_mipi2;
+
+&i2c1 {
+	basler_camera_mipi2: basler_camera_mipi@36 {
+		compatible = "basler,basler-camera";
+		reg = <0x36>;
+		status = "disabled";
+
+		port {
+			basler_camera_mipi2_ep: endpoint {
+				remote-endpoint = <&mipi2_sensor_ep>;
+
+				/* IMPORTANT: The following three entries needs to be held
+				 * in sync with the information stored in the mipi2_sensor_ep node. */
+				data-lanes = <1 2 3 4>;
+				clock-lanes = <0>;
+				link-frequencies = /bits/ 64 <248000000>;
+			};
+		};
+	};
+};
+
+&i2c2{
+	clock-frequency = <400000>;
+
+	basler_camera_mipi1: basler_camera_mipi@36 {
+		compatible = "basler,basler-camera";
+		reg = <0x36>;
+		status = "disabled";
+
+		port {
+			basler_camera_mipi1_ep: endpoint {
+				remote-endpoint = <&mipi1_sensor_ep>;
+
+				/* IMPORTANT: The following three entries needs to be held
+				 * in sync with the information stored in the mipi1_sensor_ep node. */
+				data-lanes = <1 2 3 4>;
+				clock-lanes = <0>;
+				link-frequencies = /bits/ 64 <248000000>;
+			};
+		};
+	};
+};
