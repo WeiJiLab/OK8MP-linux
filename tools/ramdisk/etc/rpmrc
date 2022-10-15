@@ -1,0 +1,1 @@
+arch_compat: imx8mmevk: all any noarch aarch64 aarch64_mx8mm imx8mmevk
