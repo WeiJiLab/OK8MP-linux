@@ -1,0 +1,2 @@
+enable logrotate.service
+enable logrotate.timer

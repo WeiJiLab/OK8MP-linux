@@ -1,0 +1,10 @@
+[Unit]
+Description=matrix-browser
+After=weston.service lighttpd.service
+[Service]
+RestartSec=1000ms
+Restart=on-failure
+ExecStart=/usr/bin/forlinx/matrix-browser.sh
+
+[Install]
+WantedBy=multi-user.target

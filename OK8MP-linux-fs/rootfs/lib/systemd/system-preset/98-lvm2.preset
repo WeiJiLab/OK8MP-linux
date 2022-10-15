@@ -1,0 +1,5 @@
+disable lvm2-monitor.service
+disable dm-event.socket
+disable dm-event.service
+disable blk-availability.service
+disable lvm2-pvscan@.service

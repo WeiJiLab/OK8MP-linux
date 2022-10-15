@@ -1,0 +1,8 @@
+[Unit]
+Description=uartsdio8987
+After=basic.service X.service thermal-zone-init.service
+[Service]
+ExecStart=/sbin/modprobe moal mod_para=nxp/wifi_mod_para.conf
+[Install]
+WantedBy=multi-user.target
+

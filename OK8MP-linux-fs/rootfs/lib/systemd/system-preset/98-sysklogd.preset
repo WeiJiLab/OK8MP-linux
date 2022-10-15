@@ -1,0 +1,2 @@
+enable syslogd.service
+enable klogd.service

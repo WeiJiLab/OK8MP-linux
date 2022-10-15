@@ -1,0 +1,8 @@
+[Unit]
+Description=autorun
+After=basic.service X.service thermal-zone-init.service
+[Service]
+ExecStart=/etc/init.d/autorun.sh
+[Install]
+WantedBy=multi-user.target
+
