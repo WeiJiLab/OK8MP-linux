@@ -1,0 +1,5 @@
+ID="fsl-imx-xwayland"
+NAME="NXP i.MX Release Distro"
+VERSION="4.14-sumo (sumo)"
+VERSION_ID="4.14-sumo"
+PRETTY_NAME="NXP i.MX Release Distro 4.14-sumo (sumo)"
