@@ -1,0 +1,102 @@
+VPU Linux unittest for V4L2 driver with video decoder and encoder
+
+For decoder
+The YUV frame is tiled NV12 pixel format (semi-planar, 2 planes 420 Y + UV)
+which is got from the decoder, and for the unittest the actual output is
+converted to linear YV12 3 planes 420 Y + U + V. The YUV frame buffer is hence
+The usage as follow:
+Usage: ./mxc_v4l2_vpu_dec.out ifile [PATH] ifmt [IFMT] ofmt [OFMT] [OPTIONS]
+OPTIONS:
+    --help          Show usage manual.
+    PATH            Specify the input file path.
+    IFMT            Specify input file encode format number. Format comparsion table:
+                        VPU_VIDEO_UNDEFINED    0
+                        VPU_VIDEO_AVC          1
+                        VPU_VIDEO_VC1          2
+                        VPU_VIDEO_MPEG2        3
+                        VPU_VIDEO_AVS          4
+                        VPU_VIDEO_ASP          5
+                        VPU_VIDEO_JPEG         6
+                        VPU_VIDEO_RV8          7
+                        VPU_VIDEO_RV9          8
+                        VPU_VIDEO_VP6          9
+                        VPU_VIDEO_SPK          10
+                        VPU_VIDEO_VP8          11
+                        VPU_VIDEO_AVC_MVC      12
+                        VPU_VIDEO_HEVC         13
+                        VPU_PIX_FMT_DIVX       14
+    OFMT            Specify decode format number. Format comparsion table:
+                        V4L2_PIX_FMT_NV12      0
+                        V4L2_PIX_FMT_YUV420    1
+                        VPU_PIX_FMT_TILED_8    2
+                        VPU_PIX_FMT_TILED_10   3
+    ofile path      Specify the output file path.
+    loop times      Specify loop decode times to the same file. If the times not set, the loop continues.
+    frames count    Specify the count of decode frames. Default total decode.
+    bs count        Specify the count of input buffer block size, the unit is Kb.
+    iqc count       Specify the count of input reqbuf.
+    oqc count       Specify the count of output reqbuf.
+    dev device      Specify the VPU decoder device node(generally /dev/video12).
+
+EXAMPLES:
+case 1: decode h264 stream to test.yuv
+    ./mxc_v4l2_vpu_dec.out ifile decode.264 ifmt 1 ofmt 1 ofile test.yuv
+case 2: decode h265 stream and don't output file
+    ./mxc_v4l2_vpu_dec.out ifile decode.265 ifmt 13 ofmt 1
+case 3: decode mpeg4 stream and don't output file and specify decode 100 frames and loop 10 times
+    ./mxc_v4l2_vpu_dec.out ifile decode.m4v ifmt 5 ofmt 1 frames 100 loop 10
+case 4: decode mpeg2 stream and specify device node, input buffer block size, input reqbuf counts and output content type
+	./mxc_v4l2_vpu_dec.out ifile decode.m2v ifmt 3 ofmt 1 dev /dev/video12 bs 1000 iqc 10 oct 1
+And you can reference usage manual
+    ./mxc_v4l2_vpu_dec.out --help
+
+For encoder:
+
+for the input file it is YV12 3 planes 420 Y + U + V, and it is converted to NV12 when passed to the driver in the unittest and the output file is compressed file, for the bitrate, the unit is k, when pass bitrate 300, it means 300k.
+
+run the command as follows：
+./mxc_v4l2_vpu_enc.out ifile file_name WIDTH width_num HEIGHT height_num OWIDTH output_width_num OHEIGHT output_height_num GOP gop_num QP qp_num MAXBR max_bitrate TARBR target_bitrate MINBR min_bitrate ofile file_name
+
+for example:
+./mxc_v4l2_vpu_enc.out ifile test.yuv WIDTH 1920 HEIGHT 1080 OWIDTH 1920 OHEIGHT 1080 GOP 3 QP 22 MAXBR 9000 TARBR 7000 MINBR 6000 ofile test.h264
+
+Alternative for encoder:
+fot the bitrate, the unit is b
+
+run the command as follows:
+./mxc_v4l2_vpu_test.out \
+	ifile --key <key> --name <filename> --fmt <fmt> --size <width> <height> --framenum <number> --loop <loop times> \
+	camera --key <key> --device <devnode> --fmt <fmt> --size <width> <height> --framerate <f> --framenum <number> \
+	encoder --key <key> --source <key no> --device <devnode> --size <width> <height> --framerate <f> --profile <profile> --level <level> \
+		--gop <gop> --bframes <number> --mode <mode> --qp <qp> --bitrate <br> --lowlatency <mode> --crop <left> <top> <width> <height> \
+	ofile --key <key> --name <filename> --source <key no> \
+	convert --key <key> --source <key no> --fmt <fmt>
+
+for examples:
+encode input file and output to file:
+	./mxc_v4l2_vpu_test.out \
+		ifile --key 0 --name test.yuv  --fmt nv12 --size 1920 1080 --framenum 10 \
+		encoder --key 1 --source 0 --size 1920 1080 --framerate 30 --bitrate 4194304 --lowlatency 0 \
+		ofile --key 2 --source 1 --name test.h264
+
+encode camera and output to file:
+	./mxc_v4l2_vpu_test.out \
+		camera  --key 0 --device /dev/video0 --size 1920 1080 --fmt nv12 --framerate 30 --framenum 300 \
+		encoder --key 1 --source 0 --size 1920 1080 --framerate 30 \
+		ofile --key 4 --source 1 --name camera.h264
+
+one camera with 2 encoder streams:
+	./mxc_v4l2_vpu_test.out \
+		camera  --key 0 --device /dev/video0 --size 1920 1080 --fmt nv12 --framerate 30 \
+		encoder --key 1 --source 0 --size 1920 1080 --framerate 30 \
+		encoder --key 2 --source 0 --size 1280 720 --framerate 30 \
+		ofile --key 4 --source 1 --name camera_1.h264 \
+		ofile --key 5 --source 2 --name camera_2.h264
+
+convert file fmt from I420 to nv12 and encode:
+	./mxc_v4l2_vpu_test.out \
+		ifile --key 0 --name test_i420.yuv --fmt I420 --size 1920 1080 \
+		convert --key 3 --source 0 --fmt nv12 \
+		encoder --key 1 --source 3 --size 1920 1080 --framerate 30 --bitrate 4194304 --lowlatency 0 \
+		ofile --key 2 --source 1 --name test.h264
+
