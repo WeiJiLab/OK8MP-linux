@@ -1,0 +1,17 @@
+digraph "GenICam"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="GenApi Node Interfaces\l and Access Mode Check\l Functions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group___gen_api___public_interface.html"];
+  Node3 [label="GenApi Node Reference\l Classes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group___gen_api___public_impl.html"];
+  Node5 [label="GenICam Base Module\l Exceptions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group___base___public_impl.html"];
+  Node0 [label="GenICam",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 [label="GenApi Node Ptr Classes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group___gen_api___public_utilities.html"];
+  Node4 [label="GenICam Base Module\l Type Definitions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group___base___public_utilities.html"];
+  Node0->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node5 [shape=plaintext, dir="back", style="solid"];
+}

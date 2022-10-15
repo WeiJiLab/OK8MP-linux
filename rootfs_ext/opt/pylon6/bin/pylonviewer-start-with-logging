@@ -1,0 +1,11 @@
+#! /bin/sh
+
+# Copyright (c) 2016-2020 Basler AG
+
+# Enable pylonViewer logging for this run. The logfile will be created in /tmp/pylonLog.txt
+
+
+this_script_full_path=`readlink -f "$0"` # Absolute path this script
+this_script_directory=`dirname "$this_script_full_path"` # the directory
+
+${this_script_directory}/pylon-start-with-logging ${this_script_directory}/pylonviewer

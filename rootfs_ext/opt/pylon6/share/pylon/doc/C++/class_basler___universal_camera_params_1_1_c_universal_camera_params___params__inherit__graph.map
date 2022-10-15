@@ -1,0 +1,5 @@
+<map id="Basler_UniversalCameraParams::CUniversalCameraParams_Params" name="Basler_UniversalCameraParams::CUniversalCameraParams_Params">
+<area shape="rect" id="node3" href="$class_pylon_1_1_c_device_specific_instant_camera_t.html" title="Pylon::CDeviceSpecificInstant\lCameraT\&lt; CBaslerUniversalInstant\lCameraTraits \&gt;" alt="" coords="9,199,240,255"/>
+<area shape="rect" id="node2" href="$class_basler___universal_camera_params_1_1_c_universal_camera_params___params__v6__1__0.html" title="A parameter class containing all parameters as members that are available for Basler camera devices..." alt="" coords="19,5,231,61"/>
+<area shape="rect" id="node4" href="$class_pylon_1_1_c_basler_universal_instant_camera.html" title="Extends the CInstantCamera by universal parameter interface classes combining all interface types..." alt="" coords="22,303,227,344"/>
+</map>

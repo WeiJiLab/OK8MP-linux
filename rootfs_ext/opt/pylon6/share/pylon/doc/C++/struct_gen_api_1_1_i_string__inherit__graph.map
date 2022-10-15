@@ -1,0 +1,6 @@
+<map id="GenApi::IString" name="GenApi::IString">
+<area shape="rect" id="node4" href="$struct_pylon_1_1_i_string_ex.html" title="Extends the GenApi::IString interface with convenience methods. " alt="" coords="30,229,147,256"/>
+<area shape="rect" id="node2" href="$struct_gen_api_1_1_i_value.html" title="Interface for value properties. " alt="" coords="33,80,144,107"/>
+<area shape="rect" id="node3" href="$struct_gen_api_1_1_i_base.html" title="Base interface common to all nodes. " alt="" coords="35,5,142,32"/>
+<area shape="rect" id="node5" href="$class_pylon_1_1_c_string_parameter.html" title="CStringParameter class used to simplify access to GenApi parameters. " alt="" coords="5,304,172,331"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Pylon::CInstantInterface&lt; T &gt;" name="Pylon::CInstantInterface&lt; T &gt;">
+<area shape="rect" id="node2" href="$struct_pylon_1_1_i_interface.html" title="An interface is used to represent a frame grabber board, a network card, etc. " alt="" coords="44,80,163,107"/>
+<area shape="rect" id="node3" href="$struct_pylon_1_1_i_device_factory.html" title="Interface to be implemented by device factories used to create devices. " alt="" coords="27,5,179,32"/>
+</map>

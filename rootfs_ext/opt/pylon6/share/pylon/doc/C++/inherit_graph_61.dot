@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Pylon::SBGR8Pixel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_pylon_1_1_s_b_g_r8_pixel.html",tooltip="Describes the memory layout of a BGR8 pixel. This pixel is used in Windows bitmaps. "];
+}

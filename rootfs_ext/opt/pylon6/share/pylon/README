@@ -1,0 +1,511 @@
+pylon 6 Camera Software Suite for Linux
+================================================================
+
+
+System Requirements
+===================
+
+GigE Vision Cameras
+-------------------
+A GigE network adapter that supports jumbo frames is recommended. For best 
+performance and reliability, Basler recommends using an adapter of the Intel 
+PRO 1000, I210, I340, and I350 series.
+
+USB3 Vision Cameras
+-------------------
+For U3V devices, a USB3-capable USB controller is required. For best
+performance and stability, Basler highly recommends a kernel version >= 3.13.x.
+
+CoaXPress Cameras
+-----------------
+For CXP devices a CXP interface card is required. Basler recommends using the
+Basler CXP-12 Interface Card 1C. CXP is only supported on Linux x86_64 systems.
+
+
+Documentation
+=============
+
+The installation includes a "<path to pylon>/share/pylon/doc" subfolder
+containing the pylon C, C++, and BCON Programmer's Guides and the API reference
+documentation. To read the documentation, open the index.html file with an 
+internet browser.
+The doc folder also contains the pylon SDK Samples Manual, which provides 
+detailed descriptions of the samples provided.
+
+
+Environment Variables
+=====================
+
+From pylon 5.0 upwards, no additional environment variables are required to
+run pylon-based applications.
+
+For development, though, the compiler must know where pylon is installed.
+The pylon samples use the PYLON_ROOT environment variable to find the relevant
+information.
+If you want to use GenTL with pylon, see the "GenTL Producers" section below.
+
+For your convenience, Basler created the pylon-setup-env.sh script, located in
+the <path to pylon>/bin directory, which can carry out the complete setup.
+
+To set up the environment for a pylon installation in <path to pylon>, execute:
+  source <path to pylon>/bin/pylon-setup-env.sh <path to pylon>
+
+If you want the environment for the standard installation to be persistent, you
+can add
+   source <path to pylon>/bin/pylon-setup-env.sh <path to pylon>
+to ~/.bashrc
+
+For special use cases, you can do a manual environment setup as follows:
+
+   export PYLON_ROOT=<path to pylon>
+
+Even though there is currently only one variable needed, using pylon-setup-env.sh
+is still the preferred way to set up your environment, as Basler may add more
+variables in the future.
+
+
+Sample Programs
+===============
+
+The installation includes a set of sample programs. These sample
+programs are simple command line programs showing the basic pylon use cases.
+They are located in the "<path to pylon>/share/pylon/Samples" folder.
+There you will find a folder for C, C++, and the Bcon Adapter samples.
+Each folder contains a top-level makefile that can be used to build the
+individual sample programs. In order to build those samples, you should copy them
+to a writable location, e.g., somewhere in your home directory.
+
+* C++ samples:
+   change to the C++ folder of the copied samples and execute:
+   source <path to pylon>/bin/pylon-setup-env.sh <path to pylon>
+   make
+   ./Grab/Grab
+
+* C samples:
+   change to the C folder of the copied samples and execute:
+   source <path to pylon>/bin/pylon-setup-env.sh <path to pylon>
+   make
+   ./SimpleGrab/SimpleGrab
+
+
+Camera Emulator
+===============
+
+In addition to camera transport layers like GigE Vision or USB3 Vision, pylon
+offers a transport layer that can create simple camera emulation devices. This
+allows you to develop applications without the need for a physical camera. It is
+also useful if you want to develop a multi-camera application and don't have
+enough cameras at hand.
+Besides emulating image acquisition and standard camera features, camera
+emulation devices also offer features that a physical camera doesn't offer:
+- You can display custom test images, e.g., to optimize your image processing algorithms.
+- You can generate failed buffers, e.g., to test your exception handling routines.
+
+The number of available emulator devices can be controlled by exporting the
+PYLON_CAMEMU environment variable. For example,
+
+   export PYLON_CAMEMU=2
+
+will provide two emulator devices. These devices are accessible both by using
+the pylon API and the pylon Viewer program (if available).
+
+When PYLON_CAMEMU is not set, no emulator devices are provided.
+Note: A maximum of 256 emulator devices are supported.
+
+For more information about the camera emulator, refer to the Basler Product
+Documentation.
+
+
+GenTL Producers
+===============
+
+In addition to the pylon Camera Software Suite for Linux, this release contains
+GenTL 1.5-compliant producers for USB3 Vision, GigE Vision, and CoaXPress standards.
+As mentioned above, CoaXPress is only supported on systems with x86_64 architecture.
+
+To use the Basler GenTL producers you need to set up the GENICAM_GENTL32_PATH
+or GENICAM_GENTL64_PATH variable. The <path to pylon>/bin/pylon-setup-env.sh mentioned
+in the "Environment Variables" section will do this for you.
+If you do not use this script, you will have to set up your environment as follows:
+
+   export GENICAM_GENTL32_PATH=<path to pylon>/lib/gentlproducer/gtl
+   export GENICAM_GENTL64_PATH=<path to pylon>/lib/gentlproducer/gtl:<path to pylon>/lib/pylonCXP/bin
+
+
+Network Adapter Configuration
+=============================
+
+This section describes the correct configuration of the network adapter to which
+a camera is connected. To configure your network adapter, use the tools supplied
+with your operating system. You can use the Basler pylon IP Configurator (if available) 
+to configure the IP settings of the camera.
+
+IP Address
+-----------
+An easy way to establish a connection to a camera is to assign a fixed IP
+address to the network adapter to which the camera will be connected.
+
+When using one or more cameras connected to only one network adapter
+via a switch, Basler recommends that you use Auto IP (also known as Automatic
+Private IP Addressing, LLA, or Zeroconf). Because Basler GigE cameras
+support the Auto IP feature, a Basler GigE camera will be automatically detected
+when it is connected to a network adapter configured for Auto IP. When Auto IP
+is used, both the camera and the network adapter will automatically choose an
+unassigned IP address within the 169.254.255.255 subnet. It is important that
+the network adapter is configured to use Auto IP.
+If none of these settings is available, choose DHCP. Most implementations will
+fall back to Auto IP if they don't receive a DHCP answer.
+
+If for any reason the network adapter can't be configured to use Auto IP,
+assign a fixed, static IP address within the 169.254.255.255 subnet. Make sure
+the address is not already used.
+
+If you don't use a DHCP server for IP address configuration, Basler recommends
+turning off the DHCP option on the camera to reduce the camera's startup time.
+
+Attention: When multiple cameras are to be connected to different network
+adapters either by using multiple network adapters or by using a multi-port
+network adapter, Auto IP won't work. The network address for each network
+adapter must be in a different subnet! Assign a fixed IP address from a
+different subnet to each adapter a camera is connected to.
+
+Example: A computer has two network adapters: eth1 and eth2. One camera is to
+be connected to each network adapter. Assign the address 192.168.1.1 to eth1
+and 192.168.2.1 to eth2, and use the subnet mask 255.255.255.0 for both
+adapters. Use the IP Configurator (see above) to assign a persistent IP
+address from the 192.168.1.255 subnet to the camera connected to eth1 and a
+persistent IP address from the 192.168.2.255 subnet to the camera connected to
+eth2.
+
+An alternative to assigning fixed IP addresses to network adapters and cameras
+is to run a DHCP server. In that case, DHCP must be enabled on the cameras.
+DHCP can be enabled by using the Basler pylon IP Configurator.
+
+
+Performance Optimization
+========================
+
+To increase performance and to minimize CPU usage when grabbing images, the
+following settings should be considered:
+
+GigE Vision Cameras
+-------------------
+* Enable jumbo frames.
+  Many GigE network adapters support so-called jumbo frames, i.e., network
+  packets larger than the usual 1500 bytes. To enable jumbo frames, the maximum
+  transfer unit (MTU) size of the computer's network adapter must be set to a high
+  value. Basler recommends using a value of 8192.
+
+* Increase the packet size.
+  When jumbo frames are enabled, the camera's packet size must be increased to
+  benefit from the larger packets.
+  If you're working with the pylon Viewer, you can set the packet
+  size by first selecting a camera from the tree in the "Devices" pane. In the
+  "Features" pane, expand the features group that shows the camera's name, expand
+  the "Host Transport Layer" parameters group, and set the "Packet Size" parameter
+  to 8192. If you're writing your own application, use the camera API to set the
+  PacketSize parameter to 8192.
+  When using jumbo frames, make sure your network infrastructure supports them. If
+  you're using switches and/or routers, you may have to configure them to 
+  enable jumbo frames.  
+
+* Real-time priority.
+  The GigE Vision implementation of the Basler pylon software uses a thread for
+  receiving image data. Basler pylon tries to set the thread priority of the
+  receive thread to real-time thread priority. This requires special permissions.
+  For further infomation, see the section "Permissions for Real-Time Thread
+  Priorities" below.
+
+USB Vision Cameras
+------------------
+* To get the best perfomance, you should use the
+  <path to pylon>/share/pylon/setup-usb.sh script, which will increase the USB
+  kernel space and the file handle limit. Moreover, it will install the udev
+  rule to allow access to U3V cameras for all users.
+  If you want to make these system changes yourself, refer to next sections on
+  how to do this.
+
+* Increasing Packet Size
+  For faster USB transfers, you should increase the packet size. If you're
+  working with the pylon Viewer, you can do this by changing the
+  "Stream Parameters" -> "Maximum Transfer Size" value from inside the
+  pylon Viewer. If you're writing your own application, use the camera API
+  to set the "Maximum Transfer Size".
+  After increasing the package size, you will likely run out of kernel space
+  and see corresponding error messages in the console. The default value set
+  by the kernel is 16 MB. To change the value (in this example to 1000 MB), you can
+  execute as root:
+    echo 1000 > /sys/module/usbcore/parameters/usbfs_memory_mb
+  This would assign a maximum of 1000 MB to the USB stack.
+
+* Increasing File Handle Limit
+  For using multiple cameras, it may be necessary to raise the handle limit.
+  Typically, this is configured to 1024 handles per process. Raise this limit
+  using the ulimit command, e.g.,
+  ulimit -Sn 4096
+  This would set the limit for the process to 4096 file handles.
+  To change the settings permanently on a ubuntu system, edit
+  /etc/security/limits.conf and add the line:
+    *    hard    nofile    4096
+
+* Adapt the Real-Time Attributes
+  The USB module uxapi tries to raise the priority of critical threads above
+  normal. This requires special permissions. For further infomation, see the
+  "Permissions for Real-Time Thread Priorities" section below.
+
+
+Permissions for Real-Time Thread Priorities
+===========================================
+
+To minimize jitter and packet loss, the pylon implementation tries to set
+the receive thread's priority to real-time thread priority. Therefore,
+applications based on pylon require the necessary privileges to be allowed
+to change the receive thread's scheduling policy.
+
+However, for systems with a Linux kernel 2.6.13 or newer, it is possible to
+allow processes without root privileges to set the real-time scheduling policy.
+On Ubuntu systems, you can control the maximum real-time priority for non-privileged
+processes on a per user or group basis via the /etc/security/limits.conf file.
+
+For example, adding the line
+
+   *      -      rtprio      99
+
+to /etc/security/limits.conf allows all users to launch applications that will
+set thread priorities to real-time priority. Changing /etc/security/limits.conf
+requires root privileges.
+
+After changing the /etc/security/limits.conf file, you must log off and on again.
+For more details about the /etc/security/limits.conf file, see the
+limits.conf man page.
+
+Basler recommends that for all users who will launch a pylon-based application,
+a maximum real-time priority >=1 be specified.
+
+For kernel 2.6.12 or older, Basler recommends either starting pylon-based applications
+with root privileges or setting the SUID bit of pylon-based applications.
+
+Note: When the SUID bit of an application is set, the runtime linker ignores
+the value for the LD_LIBRARY_PATH variable when launching that application.
+
+You can use the Basler pylon Viewer (if available) to check if the
+pylon GigE library has the required permissions for setting real-time thread
+priorities. After starting the pylon Viewer, open a camera device from the
+list of devices. In the "Features" pane, expand the "Stream Parameters" node.
+The "ReceiveThreadPriority" parameter indicates the thread priority of the
+receive thread. If the value is zero, the library didn't have the required
+permissions for setting real-time thread priorities.
+A value greater than zero indicates that the thread is scheduled with real-time
+thread priorities.
+
+
+
+Troubleshooting
+===============
+
+* Problem: When trying to grab images from multiple cameras, the error message
+  "PrepareGrab (StartStreaming) failed for device" or "Insufficient system
+  resources exist to complete the API" are displayed.
+
+  Solution: This condition can occur when the number of available open file
+  descriptors is exhausted. The limit can often be raised for the current
+  process with the command: ulimit -n <number>
+
+
+GigE Vision Cameras
+-------------------
+* Problem: I can't see my camera in my application, even after waiting for
+  more than one minute. (Note: Depending on the camera's and adapter's
+  IP configuration, it can take up to one minute until a valid IP address is
+  assigned to the camera.)
+
+  Solution:
+  If the Basler IP Configurator is available, start the Basler IP
+  Configurator (<path to pylon>/bin/ipconfigurator).
+  Is the camera shown in the IP Configurator?
+  If the camera's status is "Not Reachable", check the camera's IP address and
+  the adapter's IP address. Both the camera and the network adapter must use IP
+  addresses within the same subnet. Refer to the "Network Adapter Configuration"
+  section above.
+
+  If the camera is not shown in the IP Configurator, the most likely reason
+  is an enabled firewall. Disable the firewall for those network adapters cameras
+  will be connected to. If you don't have a firewall, enabled reverse-path
+  filtering in the kernel may prevent detection of the camera. Refer to the
+  next problem description for further details.
+
+* Problem: My application can't see my camera. I'm not able to
+  reconfigure the camera to make it visible again.
+
+  Solution:
+  First make sure you don't have a firewall enabled on the network
+  adapter the camera is connected to.
+  If you still can't see the camera, reverse-path filtering in the kernel may
+  prevent your application from detecting the camera. This can happen if the 
+  camera's IP address is not within the same subnet as the network adapter 
+  the camera is attached to.
+  To check whether filtering is turned on, run the following command:
+    sysctl -a 2>/dev/null | grep '\.rp_filter'
+
+  In the output look for the following lines:
+   net.ipv4.conf.all.rp_filter=1
+   net.ipv4.conf.eth1.rp_filter=1
+
+  where "eth1" is the network adapter the camera is connected to.
+  The "net.ipv4.conf.all.rp_filter" is a global switch that must be turned off.
+  The "net.ipv4.conf.eth1.rp_filter" shows whether filtering for the specified
+  network adapter is enabled. To disable filtering, you must first turn off
+  filtering for "all" and the specific network adapter (in this
+  sample "eth1"). Use the following commands to change the filtering behavior
+  at runtime:
+    sudo sysctl net.ipv4.conf.all.rp_filter=0
+    sudo sysctl net.ipv4.conf.eth1.rp_filter=0
+
+  Restart your application and check whether the camera(s) are
+  detected. Reconfigure the camera(s) and use "Write Configuration" to make
+  your changes persistent. You can re-enable filtering by executing the same
+  commands but set a value of 1. If you want to turn off filtering permanently,
+  you can edit the same values in /etc/sysctl.conf.
+
+  From Linux kernel version 2.6.32 onwards, the rp_filter settings allow strict
+  and loose filtering. To accept asymmetrically routed packets, modify /etc/sysctl.conf:
+    net.ipv4.conf.default.rp_filter = 2
+    net.ipv4.conf.all.rp_filter = 2
+
+* Problem: When grabbing images, the CPU load is higher than expected.
+
+  Solution: Ensure that jumbo frames are enabled and large network packets are
+  used as described above in the "Performance Optimization" section.
+
+* Problem: Grabbing images leads to errors with error code 0x81010014.
+  This error code indicates that the computer received incomplete images, i.e.,
+  network packets have been dropped.
+
+  Solution 1: Ensure that jumbo frames are enabled as described above in the
+  "Performance Optimization" section. Also make sure that the camera's packet
+  size is set to a high value, if possible 8192.
+
+  Solution 2: Increase the maximum UDP receive buffer size to a value that is
+  large enough, e.g., by issuing the sudo sysctl net.core.rmem_max=2097152
+  command. This allows pylon to increase the socket buffer size to 2 MB to
+  ensure stable image acquisition. To make this setting persistent, you can
+  add the net.core.rmem_max setting to the /etc/sysctl.conf file.
+
+  Solution 3: Ensure that the application has the required permissions to set
+  the pylon receive thread's priority to real-time thread priority as described
+  in the "Permissions for Real-Time Thread Priorities" section above.
+
+  Solution 4: Check the cable. For GigE, Cat 5e cables are recommended. Poor
+  cable quality or damaged cables can lead to unrecoverable transmission errors.
+
+  Solution 5: The amount of data produced by the camera(s) exceeds the amount
+  of bandwidth the network adapter(s) or the computer can provide. Reduce the camera
+  frame rate by increasing the camera's "Inter Packet Delay" parameter. When
+  using the pylon API, the inter packet delay is controlled via the GevSCPD
+  parameter.
+
+* Problem: My application seems to acquire images but no images are displayed.
+
+  Solution 1: Start your application from the command line to see if it
+  prints any messages.
+
+  Solution 2: Your application only receives incomplete frames. In that case,
+  error messages such as "Failed to grab image: GX status 0x81010014" are displayed.
+  Please refer to the previous problem for tips about how to solve this issue.
+
+  Solution 3: No error messages are printed. All data packets transmitted
+  from the camera seem to be discarded. Make sure that the camera's current
+  packet size doesn't exceed the network adapter's MTU size.
+
+  If the packet size is less than or equal to the MTU size, but greater than
+  1500, stop image acquisition and set the camera's packet size to 1500.
+  Restart image acquisition. If an image is displayed using this packet size,
+  either jumbo frames are not enabled on the network adapter or the adapter
+  doesn't support jumbo frames. If you're using a switch or router, make sure
+  they support a MTU greater than 1500, too.
+
+  Solution 3: Grabbing images is failing for other reasons. Please report the
+  error messages printed by your application to Basler technical support.
+
+
+USB3 Vision Cameras
+-------------------
+* Problem: The camera is not found during enumeration.
+
+  Solution: Check the user permissions on the device. You must have read/write
+  permissions. See the output of
+    ls -lR /dev/bus/usb
+  to check if you have read/write permissions. To set up the correct udev rules,
+  execute:
+    ./setup-usb.sh
+  from within the directory containing this README.
+
+
+CoaXPress Cameras
+-----------------
+* Problem: The camera is not found during enumeration.
+
+  Solution 1: The CoaXPress driver is not installed. If you're using the Basler
+  CXP-12 interface card, use the following command:
+    lsmod | grep menable 
+  In the output, look for a line like
+    menable               131072  0
+
+  If it doesn't exist, the CoaXPress driver is not installed properly. If you 
+  installed the pylon Debian package, you will find a Debian package called 
+  'menable-dkms_*.deb' in the <path to pylon>/share/pylon folder. This can be
+  installed using
+    sudo apt-get install <path to pylon>/share/pylon/menable-dkms_*.deb
+
+  If you're using a system not based on Debian, you will have to compile the driver
+  yourself.
+  To install the CoaXPress driver, follow these steps: 
+    1. Change to the directory where you want to extract the driver to.
+    2. Extract the driver archive:
+        sudo tar -C ./ -xzf /opt/pylon/share/pylon/menable-driver-*.tar.gz
+    3. Follow the instructions described in the file ./menable-driver-*/linux/INSTALL
+
+  If you don't have a Basler interface card, refer to the manufacturer's documentation 
+  For information about how to install the driver.
+
+  Solution 2: The user has to be a member of the "video" group. See the output of
+    groups
+  to check if your user belongs to it.
+  To add a user to the "video" group, execute:
+    sudo usermod -a -G video <username>
+
+
+Known Issues
+============
+
+* Same IP address for camera and network interface.
+  If the camera has been assigned a permanent IP address that equals the address
+  assigned to the network adapter, the camera will not be accessible.
+
+  Either change the network adapter's address or use a different computer to assign a
+  different IP address to the camera.
+
+
+Version Information
+===================
+
+pylon has been built using the following tools.
+
+Linux x86 32 bit/64 bit:
+    Build System: Ubuntu 16.04
+    Architecture: i686/x86_64
+    libc-2.23.so
+    libstdc++.so.6.0.21
+
+Linux armhf:
+    Build System: Ubuntu 16.04
+    Architecture: armv7l
+    libc-2.23.so
+    libstdc++.so.6.0.21
+
+Linux arm64:
+    Build System: Ubuntu 16.04
+    Architecture: aarch64 (armv8)
+    libc-2.23.so
+    libstdc++.so.6.0.21
+

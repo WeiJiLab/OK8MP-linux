@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_pylon_1_1_c_instant_camera_array.html" title="Supports grabbing with multiple camera devices. " alt="" coords="5,56,196,83"/>
+<area shape="rect" id="node2" href="$class_pylon_1_1_c_device_specific_instant_camera_array_t.html" title="Pylon::CDeviceSpecificInstant\lCameraArrayT\&lt; CBaslerUniversalInstant\lCamera \&gt;" alt="" coords="244,5,505,61"/>
+<area shape="rect" id="node4" href="$class_pylon_1_1_c_device_specific_instant_camera_array_t.html" title="Implementation Detail: Header only implementation class for creating device specific Instant Camera A..." alt="" coords="274,85,475,126"/>
+<area shape="rect" id="node3" href="$class_pylon_1_1_c_basler_universal_instant_camera_array.html" title="Universal instant camera array. " alt="" coords="553,13,759,54"/>
+</map>

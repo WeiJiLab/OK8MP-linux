@@ -1,0 +1,15 @@
+digraph "Pylon::CConfigurationEventHandler"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Pylon::CConfigurationEvent\lHandler",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Pylon::CAcquireContinuous\lConfiguration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_acquire_continuous_configuration.html",tooltip="Changes the configuration of the camera to free-running continuous acquisition. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Pylon::CAcquireSingleFrame\lConfiguration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_acquire_single_frame_configuration.html",tooltip="An instant camera configuration for single frame acquisition, Use together with CInstantCamera::GrabO..."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Pylon::CActionTriggerConfiguration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_action_trigger_configuration.html",tooltip="Changes the configuration of the camera so that it is triggered by the first available action command..."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Pylon::CSoftwareTriggerConfiguration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_software_trigger_configuration.html",tooltip="Changes the configuration of the camera so that the acquisition of frames is triggered by software tr..."];
+}

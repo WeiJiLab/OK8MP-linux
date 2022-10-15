@@ -1,0 +1,10 @@
+digraph "Pylon::CVideoWriter"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Pylon::CVideoWriter",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Basler_VideoWriterParams\l::CVideoWriterParams_Params",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_basler___video_writer_params_1_1_c_video_writer_params___params.html",tooltip="A parameter class containing all parameters as members that are available for Video Writer..."];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Basler_VideoWriterParams\l::CVideoWriterParams_Params_v6_1_0",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_basler___video_writer_params_1_1_c_video_writer_params___params__v6__1__0.html",tooltip="A parameter class containing all parameters as members that are available for Video Writer..."];
+}

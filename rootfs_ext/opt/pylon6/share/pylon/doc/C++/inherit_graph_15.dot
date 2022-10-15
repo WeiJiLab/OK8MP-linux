@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GenApi::GVCP_CHUNK\l_TRAILER",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_gen_api_1_1_g_v_c_p___c_h_u_n_k___t_r_a_i_l_e_r.html",tooltip="header of a GVCP request packet "];
+}

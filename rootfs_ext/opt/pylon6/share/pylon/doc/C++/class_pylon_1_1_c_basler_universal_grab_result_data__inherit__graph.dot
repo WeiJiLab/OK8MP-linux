@@ -1,0 +1,13 @@
+digraph "Pylon::CBaslerUniversalGrabResultData"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Pylon::CBaslerUniversalGrab\lResultData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Pylon::CGrabResultData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_grab_result_data.html",tooltip="Makes the data for one grabbed buffer available. "];
+  Node3 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Basler_UniversalChunkData\lParams::CUniversalChunkDataParams_\lParams",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_basler___universal_chunk_data_params_1_1_c_universal_chunk_data_params___params.html",tooltip="A parameter class containing all parameters as members that are available for chunk data of Basler ca..."];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Basler_UniversalChunkData\lParams::CUniversalChunkDataParams\l_Params_v6_1_0",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_basler___universal_chunk_data_params_1_1_c_universal_chunk_data_params___params__v6__1__0.html",tooltip="A parameter class containing all parameters as members that are available for chunk data of Basler ca..."];
+}

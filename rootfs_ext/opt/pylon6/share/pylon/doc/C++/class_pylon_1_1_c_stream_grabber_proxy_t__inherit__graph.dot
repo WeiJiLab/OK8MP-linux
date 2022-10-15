@@ -1,0 +1,8 @@
+digraph "Pylon::CStreamGrabberProxyT&lt; TParams &gt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Pylon::CStreamGrabberProxy\lT\< TParams \>",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Pylon::CNodeMapProxyT\l\< TParams \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_node_map_proxy_t.html",tooltip="Implementation Detail: This class wraps programming interfaces that are generated from GenICam parame..."];
+}

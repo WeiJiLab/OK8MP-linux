@@ -1,0 +1,8 @@
+<map id="Pylon::CBooleanParameter" name="Pylon::CBooleanParameter">
+<area shape="rect" id="node2" href="$struct_pylon_1_1_i_boolean_ex.html" title="Extends the GenApi::IBoolean interface with convenience methods. " alt="" coords="5,229,136,256"/>
+<area shape="rect" id="node3" href="$struct_gen_api_1_1_i_boolean.html" title="Interface for Boolean properties. " alt="" coords="9,155,133,181"/>
+<area shape="rect" id="node4" href="$struct_gen_api_1_1_i_value.html" title="Interface for value properties. " alt="" coords="87,80,198,107"/>
+<area shape="rect" id="node6" href="$struct_pylon_1_1_i_value_ex.html" title="Extends the GenApi::IValue interface with convenience methods. " alt="" coords="157,155,273,181"/>
+<area shape="rect" id="node5" href="$struct_gen_api_1_1_i_base.html" title="Base interface common to all nodes. " alt="" coords="89,5,196,32"/>
+<area shape="rect" id="node7" href="$class_pylon_1_1_c_parameter.html" title="CParameter class used to simplify access to GenApi parameters. " alt="" coords="160,229,293,256"/>
+</map>

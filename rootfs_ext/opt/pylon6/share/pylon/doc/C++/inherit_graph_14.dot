@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GenApi::CPointer\< T, B \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_gen_api_1_1_c_pointer.html",tooltip="Encapsulates a GenApi pointer dealing with the dynamic_cast automatically. "];
+}

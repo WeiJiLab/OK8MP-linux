@@ -1,0 +1,10 @@
+digraph "Basler_UniversalChunkDataParams::CUniversalChunkDataParams_Params_v6_1_0"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Basler_UniversalChunkData\lParams::CUniversalChunkDataParams\l_Params_v6_1_0",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Basler_UniversalChunkData\lParams::CUniversalChunkDataParams_\lParams",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_basler___universal_chunk_data_params_1_1_c_universal_chunk_data_params___params.html",tooltip="A parameter class containing all parameters as members that are available for chunk data of Basler ca..."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Pylon::CBaslerUniversalGrab\lResultData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_basler_universal_grab_result_data.html",tooltip="The Universal grab result data. "];
+}

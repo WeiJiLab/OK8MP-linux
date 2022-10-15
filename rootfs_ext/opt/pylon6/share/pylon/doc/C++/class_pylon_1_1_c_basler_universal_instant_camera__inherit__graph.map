@@ -1,0 +1,9 @@
+<map id="Pylon::CBaslerUniversalInstantCamera" name="Pylon::CBaslerUniversalInstantCamera">
+<area shape="rect" id="node2" href="$class_pylon_1_1_c_device_specific_instant_camera_t.html" title="Pylon::CDeviceSpecificInstant\lCameraT\&lt; CBaslerUniversalInstant\lCameraTraits \&gt;" alt="" coords="855,67,1085,123"/>
+<area shape="rect" id="node3" href="$class_pylon_1_1_c_instant_camera.html" title="Provides convenient access to a camera device. " alt="" coords="622,17,781,43"/>
+<area shape="rect" id="node4" href="$class_basler___instant_camera_params_1_1_c_instant_camera_params___params.html" title="A parameter class containing all parameters as members that are available for Instant Camera..." alt="" coords="325,5,548,47"/>
+<area shape="rect" id="node5" href="$class_basler___instant_camera_params_1_1_c_instant_camera_params___params__v6__1__0.html" title="A parameter class containing all parameters as members that are available for Instant Camera..." alt="" coords="5,5,277,47"/>
+<area shape="rect" id="node6" href="$class_basler___universal_camera_params_1_1_c_universal_camera_params___params.html" title="A parameter class containing all parameters as members that are available for Basler camera devices..." alt="" coords="596,75,807,116"/>
+<area shape="rect" id="node7" href="$class_basler___universal_camera_params_1_1_c_universal_camera_params___params__v6__1__0.html" title="A parameter class containing all parameters as members that are available for Basler camera devices..." alt="" coords="331,70,543,126"/>
+<area shape="rect" id="node8" href="$struct_pylon_1_1_c_basler_universal_instant_camera_traits.html" title="Lists all the types used by the universal instant camera class. " alt="" coords="599,140,804,181"/>
+</map>

@@ -1,0 +1,101 @@
+div.fragment {
+	padding:0.5em;
+	margin-bottom:1em;
+}
+
+.tabs, .tabs2, .tabs3 {
+	background-image: url('tab_2.png');
+}
+
+.tabs2 {
+	margin-top:1px;
+}
+
+.tabs3 {
+    margin-top:1px;
+}
+
+.tablist li {
+	background-image: url('tab_2.png');
+}
+
+.tablist li.current a {
+	background-image: url('tab_1.png');
+	color: #646363;
+	 text-shadow: 0px 1px 1px rgba(255,255,255,0.9);
+}
+
+.tablist a {
+	background-image:url('tab_4.png');
+	text-shadow: 0px 1px 1px rgba(0,0,0, 0.6);
+	color: #fff;
+}
+
+.tablist a:visited {
+    color:#fff;
+}
+
+.tablist a:hover {
+	background-image: url('tab_3.png');
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.7);
+	color: #fff;
+}
+
+/* Hide "C" and "N" icons 1/2 */
+.icon {
+	height: 0px;
+	width: 0px;
+	border-radius: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+/* Hide "C" and "N" icons 2/2 */
+.icona {
+	width: 0px;
+	height: 0px;
+}
+
+/* Fix small border around top image */
+div.header
+{
+	margin:  0px;
+	border-bottom: 0px;
+}
+
+/* Fix small border around top image */
+#titlearea
+{
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	border-bottom: 0px;
+}
+
+H1
+{
+	border-top: 20px;
+	margin-top: 20px;
+	padding-top: 1cm;
+}
+
+#projectname
+{
+	font: 100% Tahoma, Arial,sans-serif;
+	margin: 0px;
+	padding: 2px 0px;
+}
+
+#projectbrief
+{
+	font: 100% Tahoma, Arial,sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+#projectnumber
+{
+	font: 100% Tahoma, Arial,sans-serif;
+	margin: 0px;
+	padding: 0px;
+}

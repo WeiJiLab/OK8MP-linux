@@ -1,0 +1,7 @@
+<map id="Pylon::IIntegerEx" name="Pylon::IIntegerEx">
+<area shape="rect" id="node6" href="$class_pylon_1_1_c_integer_parameter.html" title="CIntegerParameter class used to simplify access to GenApi parameters. " alt="" coords="48,304,221,331"/>
+<area shape="rect" id="node2" href="$struct_gen_api_1_1_i_integer.html" title="Interface for integer properties. " alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node3" href="$struct_gen_api_1_1_i_value.html" title="Interface for value properties. " alt="" coords="79,80,190,107"/>
+<area shape="rect" id="node5" href="$struct_pylon_1_1_i_value_ex.html" title="Extends the GenApi::IValue interface with convenience methods. " alt="" coords="147,155,263,181"/>
+<area shape="rect" id="node4" href="$struct_gen_api_1_1_i_base.html" title="Base interface common to all nodes. " alt="" coords="81,5,188,32"/>
+</map>

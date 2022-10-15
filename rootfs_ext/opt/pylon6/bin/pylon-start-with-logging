@@ -1,0 +1,115 @@
+#! /bin/sh
+
+# Copyright (c) 2016-2020 Basler AG
+
+# Enable pylon logging for this run. The logfile will be created in /tmp/pylonLog.txt.
+# You can use pylon-based applications as a parameter to this script file to run it with logging enabled.
+
+# Get application to start with logging
+app_to_start="$1"
+if [ -z "$app_to_start" ]; then
+
+    # Print short manpage
+    echo "Usage: $0 <Application>"
+    echo ""
+    echo "Enable pylon logging for this run. The logfile will be created in /tmp/pylonLog.txt."
+    exit 0
+fi
+
+# Get OS name
+OS_NAME=`uname`
+
+# Command readlink with option f ist not supported on OSX
+test "$OS_NAME" = Darwin && readlink() {
+
+    # Will implement GNU's readlink -f behavior on OS X.
+    TARGET=$2
+
+    cd "`dirname "$TARGET"`"
+    TARGET="`basename "$TARGET"`"
+
+    # Iterate down a (possible) chain of symlinks
+    while [ -L "$TARGET" ]
+    do
+        TARGET="`readlink "$TARGET"`"
+        cd "`dirname "$TARGET"`"
+        TARGET="`basename "$TARGET"`"
+    done
+
+    # Compute the canonicalized name by finding the physical path 
+    # for the directory we're in and appending the target file.
+    DIR=`pwd -P`
+    RESULT="$DIR/$TARGET"
+
+    # Convert possible relative path to an absolute path
+    echo "$(cd "$(dirname "$RESULT")"; pwd)/$(basename "$RESULT")"
+}
+
+# determine the directory this script resides in
+this_script_full_path=`readlink -f "$0"` # Absolute path this script
+this_script_directory=`dirname "$this_script_full_path"` # the directory
+
+# this script is in the $PYLON_BASE/bin,
+# so set PYLON_BASE to the parent of this dir
+# if you put this script into a different directory
+# you'll need to modify the "${this_script_directory}/.." accordingly.
+PYLON_BASE="${this_script_directory}/.."
+
+# Use the installed property file
+if [ "$OS_NAME" = Linux ]; then
+    PROPERTIES_INSTALLED=`readlink -f "$PYLON_BASE/share/pylon/log/config/DebugLoggingUnix.properties"`
+else
+    PROPERTIES_INSTALLED=`readlink -f "$PYLON_BASE/pylon/log/config/DebugLoggingUnix.properties"`
+fi
+
+# Check if file is present
+if [ -e "$PROPERTIES_INSTALLED" ]; then
+    export GENICAM_LOG_CONFIG_V3_1="$PROPERTIES_INSTALLED"
+fi
+
+# When present use an editable copy in the $HOME directory
+PROPERTIES_HOME="$HOME/DebugLoggingUnix.properties"
+if [ -e "$PROPERTIES_HOME" ]; then
+    export GENICAM_LOG_CONFIG_V3_1="$PROPERTIES_HOME"
+fi
+
+if [ -z "$GENICAM_LOG_CONFIG_V3_1" ]; then
+    echo "Error: File 'DebugLoggingUnix.properties' not found"
+    exit 1
+fi
+
+# Start the application
+echo "Logging activated using $GENICAM_LOG_CONFIG_V3_1"
+echo "Waiting for application to exit ..."
+echo
+
+if [ "$OS_NAME" = Linux ]; then
+    "$app_to_start"
+else
+    # Get name and directory
+    app_to_start_name=$(basename "${app_to_start}")
+    app_to_start_dir=$(readlink -f `dirname "${app_to_start}"`)
+
+    # Get extension and name without extension
+    app_to_start_ext="${app_to_start_name##*.}"
+    app_to_start_base="${app_to_start_name%.*}"
+
+    # Case for different file types
+    case "$app_to_start_ext" in
+        *app*)
+            "$app_to_start_dir/$app_to_start_name/Contents/MacOS/$app_to_start_base"
+            ;;
+        *)
+            "$app_to_start"
+            ;;
+    esac
+fi
+
+if [ -e "/tmp/pylonLog.txt" ]; then
+    if [ "$OS_NAME" = Linux ]; then
+        echo
+        echo "To view the logfile please open /tmp/pylonLog.txt"
+    else
+        open "/tmp/pylonLog.txt"
+    fi
+fi

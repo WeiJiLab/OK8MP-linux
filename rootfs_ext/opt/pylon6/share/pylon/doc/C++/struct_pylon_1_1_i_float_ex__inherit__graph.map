@@ -1,0 +1,7 @@
+<map id="Pylon::IFloatEx" name="Pylon::IFloatEx">
+<area shape="rect" id="node6" href="$class_pylon_1_1_c_float_parameter.html" title="CFloatParameter class used to simplify access to GenApi parameters. " alt="" coords="45,304,208,331"/>
+<area shape="rect" id="node2" href="$struct_gen_api_1_1_i_float.html" title="Interface for float properties. " alt="" coords="5,155,112,181"/>
+<area shape="rect" id="node3" href="$struct_gen_api_1_1_i_value.html" title="Interface for value properties. " alt="" coords="71,80,182,107"/>
+<area shape="rect" id="node5" href="$struct_pylon_1_1_i_value_ex.html" title="Extends the GenApi::IValue interface with convenience methods. " alt="" coords="137,155,253,181"/>
+<area shape="rect" id="node4" href="$struct_gen_api_1_1_i_base.html" title="Base interface common to all nodes. " alt="" coords="73,5,180,32"/>
+</map>

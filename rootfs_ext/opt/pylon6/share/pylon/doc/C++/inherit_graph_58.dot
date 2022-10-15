@@ -1,0 +1,15 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Pylon::IProperties",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_pylon_1_1_i_properties.html",tooltip="interface for a property container "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Pylon::CInfoBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_info_base.html",tooltip="Base implementation for PYLON info container. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Pylon::CDeviceInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_device_info.html",tooltip="Holds information about an enumerated device. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Pylon::CInterfaceInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_interface_info.html",tooltip="Class used for storing information about an interface object provided by a transport layer..."];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Pylon::CTlInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pylon_1_1_c_tl_info.html",tooltip="Class used for storing the result of the transport layer enumeration process. "];
+}

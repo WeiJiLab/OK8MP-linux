@@ -1,0 +1,5 @@
+<map id="Pylon::CBaslerUniversalGrabResultData" name="Pylon::CBaslerUniversalGrabResultData">
+<area shape="rect" id="node2" href="$class_pylon_1_1_c_grab_result_data.html" title="Makes the data for one grabbed buffer available. " alt="" coords="350,5,517,32"/>
+<area shape="rect" id="node3" href="$class_basler___universal_chunk_data_params_1_1_c_universal_chunk_data_params___params.html" title="A parameter class containing all parameters as members that are available for chunk data of Basler ca..." alt="" coords="304,56,563,112"/>
+<area shape="rect" id="node4" href="$class_basler___universal_chunk_data_params_1_1_c_universal_chunk_data_params___params__v6__1__0.html" title="A parameter class containing all parameters as members that are available for chunk data of Basler ca..." alt="" coords="5,56,256,112"/>
+</map>

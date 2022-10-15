@@ -1,0 +1,16 @@
+Basler AG is constantly working on improving their products and services. This is
+why Basler has integrated a third-party tracking tool for analyzing user interactions
+in the pylon software. This tool automatically collects the following information:
+
+* menu items clicked
+* cameras connected to the computer of the user
+* camera settings changed
+* system specifications (e.g., processor, RAM, graphics card)
+
+The tool will not collect any personal data. The data mentioned above is stored on a 
+server for a period of 12 months. After that, the data will be deleted automatically. 
+Basler uses this data to improve the pylon software and Basler cameras.
+
+The pylon software allows you to enable/disable data tracking. However, if you disable it, 
+you will not be able to benefit from certain services, e.g., notifications about new camera 
+firmware or software updates.
