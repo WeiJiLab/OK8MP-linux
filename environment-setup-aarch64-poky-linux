@@ -1,0 +1,13 @@
+#! /bin/sh
+export MAKE_JOBS=`cat /proc/cpuinfo | grep "processor" | wc -l`
+
+if [ ! -d /opt/fsl-imx-xwayland/ ] ; then
+./tools/fsl-imx-xwayland-glibc-x86_64-meta-toolchain-qt5-aarch64-imx8mpevk-toolchain-5.4-zeus.sh << EOF
+
+Y
+EOF
+echo "install qt5-aarch64-imx8mpevk-gcc success"
+
+fi
+
+. /opt/fsl-imx-xwayland/5.4-zeus/environment-setup-aarch64-poky-linux
