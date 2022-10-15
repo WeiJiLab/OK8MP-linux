@@ -1,0 +1,18 @@
+This directory contains two examples called ax_sample and cloning sample.
+
+RUNNING
+
+  Using the examples requires the included folder 'test_images' folder and a 'test_model/inception_v3.pb'.
+  This model can be downloaded and converted to a suitable format using the get_model.sh script.
+  Running this script requires Bash, Python and Tensorflow and is intended for use on a Ubuntu host.
+
+REBUILDING
+
+  Using the Yocto SDK Toolchain for a supporting image these examples can be re-built using commands similar to the following:
+    mkdir /home/user/examples-build
+    cd /home/user/examples-build
+    cmake $SDK_SYSROOT/usr/share/ml-security/examples
+    make
+  
+  This should result in a binary which works on a device running the accompanying image. 
+  

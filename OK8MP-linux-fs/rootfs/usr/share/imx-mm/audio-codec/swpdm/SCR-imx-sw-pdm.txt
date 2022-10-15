@@ -1,0 +1,10 @@
+
+Package:                     imx-sw-pdm-*.bin
+Outgoing License:            LA_OPT_NXP_Software_License v11 February 2020 - Production Use - Section 2.3 applies
+License File:                COPYING
+Package Category:            Multimedia
+Type of Content:             binary
+Description and comments:    NXP PDM to PCM Software Decimation SIMD Library
+Release Location:            Mirror
+Origin:                      NXP (proprietary)
+

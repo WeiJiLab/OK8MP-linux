@@ -1,0 +1,2 @@
+/usr/bin/ld.gold
+/usr/bin/aarch64-poky-linux-ld.gold 100

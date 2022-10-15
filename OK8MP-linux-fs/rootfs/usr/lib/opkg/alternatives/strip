@@ -1,0 +1,2 @@
+/usr/bin/strip
+/usr/bin/aarch64-poky-linux-strip 100

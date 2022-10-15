@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: XCB Image library
+Description: XCB image convenience library
+Version: 0.4.0
+Requires: xcb xcb-shm
+Libs: -L${libdir} -lxcb-image 
+Cflags: -I${includedir}

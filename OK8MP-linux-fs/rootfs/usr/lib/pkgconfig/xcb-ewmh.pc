@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: XCB EWMH library
+Description: XCB EWMH binding
+Version: 0.4.1
+Requires: xcb
+Libs: -L${libdir} -lxcb-ewmh 
+Cflags: -I${includedir}

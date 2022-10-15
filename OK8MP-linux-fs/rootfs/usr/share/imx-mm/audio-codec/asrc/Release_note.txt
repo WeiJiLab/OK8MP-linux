@@ -1,0 +1,36 @@
+Release notes for ASRC Library Users
+=============================
+--  'test' directory contains the C test code using asrc libaray
+--  'include' directory contains the C header to build asrc test code and wrapper
+
+Based on DSPCCoeffs_1112_SJG co-efficients & DSPC-ASRC-imx8-v2.02
+
+Build Type: arm64
+
+ASRC Library build with interpolation=128m and attenuation=120/140dB supporting sample rates convertion X->Y
+where X,Y = {44100, 48000, 88200, 96000, 176400, 192000 , 352800, 384000 };
+
+Building the ASRC Sample Test
+-------------------------
+cd test
+make
+
+Running the ASRC test utility
+------------------------
+Expects input in wav format(.wav) and generates .raw/.wav
+
+./asrc-test
+
+Usage: ./asrc-test
+        --- help (h): this screen
+        --- inputFile(x): raw audio data to process
+        --- outputFile(z): output file for converted audio
+        --- outFreq (o): output Frequency
+        --- quality (q): quality to be either 0 or 1
+        --- inputClockOffset(k): optional input clock offset in Hz, to add to processing to simulate asynchronous clocks
+        --- blocksize (b): (optional) block size to be used
+
+Example:
+./asrc-test -x ../input/sr44100_s32_1khz.wav -z out_441k_48k.wav -o 48000 -b 128 -q 1
+
+End of file reached

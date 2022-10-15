@@ -1,0 +1,4 @@
+/bin/hostname
+/bin/busybox.nosuid 50
+/bin/hostname.coreutils 90
+/bin/hostname.net-tools 100

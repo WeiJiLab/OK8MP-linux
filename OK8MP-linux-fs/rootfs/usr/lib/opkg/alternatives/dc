@@ -1,0 +1,3 @@
+/usr/bin/dc
+/usr/bin/dc.bc 100
+/bin/busybox.nosuid 50

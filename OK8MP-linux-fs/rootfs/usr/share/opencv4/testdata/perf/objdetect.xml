@@ -1,0 +1,1582 @@
+<?xml version="1.0" ?><opencv_storage>
+ <!-- resumed -->
+<detect_SCascade--SCascade----cv-cascadeandhog-cascades-inria_caltech-17-01-2013-xml----cv-cascadeandhog-images-image_00000000_0-png-->
+  <rects>
+    <kind>196608</kind>
+    <type>28</type>
+    <min>41.</min>
+    <max>460.</max>
+    <last>
+      <x>718</x>
+      <y>0</y>
+      <val>103.</val></last>
+    <rng1>
+      <x>573</x>
+      <y>0</y>
+      <val>284.</val></rng1>
+    <rng2>
+      <x>208</x>
+      <y>0</y>
+      <cn>2</cn>
+      <val>79.</val></rng2></rects></detect_SCascade--SCascade----cv-cascadeandhog-cascades-inria_caltech-17-01-2013-xml----cv-cascadeandhog-images-image_00000000_0-png-->
+ <!-- resumed -->
+ <!-- resumed -->
+ <!-- resumed -->
+ <!-- resumed -->
+ <!-- resumed -->
+ <!-- resumed -->
+ <!-- resumed -->
+<OCL_HOGFixture_HOG--HOG>
+  <found_locations>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>2</cols>
+      <dt>"4i"</dt>
+      <data>
+        231 186 74 148 621 159 96 191</data></val></found_locations></OCL_HOGFixture_HOG--HOG>
+ <!-- resumed -->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-shared-lena-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        212 199 179 179</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-shared-lena-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-shared-lena-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        212 199 179 179</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-shared-lena-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-shared-lena-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        212 199 179 179</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-shared-lena-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-bttf301-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>"4i"</dt>
+      <data>
+        62 22 59 59 133 91 51 51 209 99 52 52 324 41 55 55 455 68 53 53
+        504 120 53 53</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-bttf301-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-bttf301-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>2</cols>
+      <dt>"4i"</dt>
+      <data>
+        55 15 73 73 317 33 69 69</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-bttf301-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-bttf301-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-bttf301-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-class57-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <min>39.</min>
+    <max>1161.</max>
+    <last>
+      <x>56</x>
+      <y>0</y>
+      <val>48.</val></last>
+    <rng1>
+      <x>16</x>
+      <y>0</y>
+      <cn>2</cn>
+      <val>41.</val></rng1>
+    <rng2>
+      <x>0</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>501.</val></rng2></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-class57-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-class57-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>"4i"</dt>
+      <data>
+         461 470 79 79 656 481 72 72 797 490 71 71 954 478 69 69 1116 498 72 72</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-class57-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-class57-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt-xml----cv-cascadeandhog-images-class57-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-shared-lena-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        213 199 183 183</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-shared-lena-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-shared-lena-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        213 199 183 183</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-shared-lena-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-shared-lena-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        213 199 183 183</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-shared-lena-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-bttf301-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>"4i"</dt>
+      <data>
+        62 23 57 57 133 91 51 51 211 100 50 50 324 40 55 55 455 68 53 53
+        504 121 52 52</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-bttf301-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-bttf301-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>2</cols>
+      <dt>"4i"</dt>
+      <data>
+        56 16 72 72 318 33 69 69</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-bttf301-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-bttf301-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-bttf301-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-class57-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <min>39.</min>
+    <max>1160.</max>
+    <last>
+      <x>57</x>
+      <y>0</y>
+      <val>47.</val></last>
+    <rng1>
+      <x>10</x>
+      <y>0</y>
+      <val>282.</val></rng1>
+    <rng2>
+      <x>4</x>
+      <y>0</y>
+      <val>188.</val></rng2></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-class57-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-class57-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"4i"</dt>
+      <data>
+        463 472 73 73 653 480 75 75 799 491 69 69 1118 499 69 69</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-class57-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-class57-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2-xml----cv-cascadeandhog-images-class57-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-shared-lena-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        214 202 175 175</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-shared-lena-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-shared-lena-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        214 202 175 175</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-shared-lena-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-shared-lena-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        214 202 175 175</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-shared-lena-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-bttf301-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>"4i"</dt>
+      <data>
+        62 23 58 58 133 91 52 52 209 100 51 51 324 40 54 54 456 69 51 51
+        503 120 53 53</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-bttf301-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-bttf301-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>"4i"</dt>
+      <data>
+        55 16 71 71 316 33 69 69 496 108 69 69</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-bttf301-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-bttf301-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-bttf301-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-class57-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <min>35.</min>
+    <max>1162.</max>
+    <last>
+      <x>59</x>
+      <y>0</y>
+      <val>44.</val></last>
+    <rng1>
+      <x>25</x>
+      <y>0</y>
+      <val>571.</val></rng1>
+    <rng2>
+      <x>8</x>
+      <y>0</y>
+      <cn>2</cn>
+      <val>40.</val></rng2></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-class57-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-class57-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"4i"</dt>
+      <data>
+        415 565 180 180 461 469 76 76 655 479 76 76 796 488 71 71</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-class57-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-class57-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        415 565 180 180</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt_old-xml----cv-cascadeandhog-images-class57-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-shared-lena-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        218 204 170 170</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-shared-lena-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-shared-lena-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        218 204 170 170</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-shared-lena-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-shared-lena-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        218 204 170 170</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-shared-lena-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-bttf301-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>"4i"</dt>
+      <data>
+        62 23 56 56 133 91 52 52 209 100 50 50 324 40 56 56 455 68 54 54
+        503 120 53 53</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-bttf301-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-bttf301-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"4i"</dt>
+      <data>
+        56 17 71 71 125 82 72 72 317 33 71 71 448 59 72 72</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-bttf301-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-bttf301-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-bttf301-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-class57-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <min>6.</min>
+    <max>1162.</max>
+    <last>
+      <x>57</x>
+      <y>0</y>
+      <val>44.</val></last>
+    <rng1>
+      <x>29</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>221.</val></rng1>
+    <rng2>
+      <x>14</x>
+      <y>0</y>
+      <cn>3</cn>
+      <val>41.</val></rng2></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-class57-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-class57-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>"4i"</dt>
+      <data>
+        262 288 72 72 312 6 87 87 411 560 183 183 461 469 79 79 655 480
+        76 76 798 488 70 70</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-class57-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-class57-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>2</cols>
+      <dt>"4i"</dt>
+      <data>
+        309 4 94 94 411 560 183 183</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-haarcascade_frontalface_alt2_old-xml----cv-cascadeandhog-images-class57-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-shared-lena-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        204 185 211 211</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-shared-lena-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-shared-lena-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        204 185 211 211</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-shared-lena-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-shared-lena-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>1</cols>
+      <dt>"4i"</dt>
+      <data>
+        204 185 211 211</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-shared-lena-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-bttf301-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>"4i"</dt>
+      <data>
+        61 23 59 59 130 88 59 59 208 99 53 53 321 37 62 62 453 68 54 54
+        503 121 53 53</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-bttf301-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-bttf301-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>"4i"</dt>
+      <data>
+        55 18 69 69 125 84 68 68 317 33 70 70</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-bttf301-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-bttf301-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-bttf301-png---90->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-class57-png---30->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <min>32.</min>
+    <max>1161.</max>
+    <last>
+      <x>57</x>
+      <y>0</y>
+      <val>50.</val></last>
+    <rng1>
+      <x>57</x>
+      <y>0</y>
+      <cn>3</cn>
+      <val>44.</val></rng1>
+    <rng2>
+      <x>1</x>
+      <y>0</y>
+      <cn>2</cn>
+      <val>50.</val></rng2></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-class57-png---30->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-class57-png---64->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>"4i"</dt>
+      <data>
+        274 476 72 72 464 470 75 75 952 476 72 72</data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-class57-png---64->
+<OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-class57-png---90->
+  <faces>
+    <kind>196608</kind>
+    <type>28</type>
+    <val type_id="opencv-matrix">
+      <rows>0</rows>
+      <cols>0</cols>
+      <dt>u</dt>
+      <data></data></val></faces></OCL_Cascade_Image_MinSize_CascadeClassifier--CascadeClassifier----cv-cascadeandhog-cascades-lbpcascade_frontalface-xml----cv-cascadeandhog-images-class57-png---90->
+ <!-- resumed -->
+ <!-- resumed -->
+<Perf_Objdetect_QRCode--detect---version_1_down-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        159 167 404 170 418 391 82 381</data></val></corners></Perf_Objdetect_QRCode--detect---version_1_down-jpg->
+<Perf_Objdetect_QRCode--detect---version_1_left-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        213 265 250 98 471 108 500 284</data></val></corners></Perf_Objdetect_QRCode--detect---version_1_left-jpg->
+<Perf_Objdetect_QRCode--detect---version_1_right-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        359 126 406 274 171 288 169 129</data></val></corners></Perf_Objdetect_QRCode--detect---version_1_right-jpg->
+<Perf_Objdetect_QRCode--detect---version_1_up-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        229 334 460 334 456 458 268 450</data></val></corners></Perf_Objdetect_QRCode--detect---version_1_up-jpg->
+<Perf_Objdetect_QRCode--detect---version_1_top-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        211 157 433 158 438 388 203 385</data></val></corners></Perf_Objdetect_QRCode--detect---version_1_top-jpg->
+<Perf_Objdetect_QRCode--detect---version_5_down-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        172 155 397 158 408 362 119 352</data></val></corners></Perf_Objdetect_QRCode--detect---version_5_down-jpg->
+<Perf_Objdetect_QRCode--detect---version_5_left-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        259 315 318 120 559 120 556 343</data></val></corners></Perf_Objdetect_QRCode--detect---version_5_left-jpg->
+<Perf_Objdetect_QRCode--detect---version_5_right-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        113 171 311 123 321 434 105 419</data></val></corners></Perf_Objdetect_QRCode--detect---version_5_right-jpg->
+<Perf_Objdetect_QRCode--detect---version_5_up-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        118 243 387 253 388 443 168 430</data></val></corners></Perf_Objdetect_QRCode--detect---version_5_up-jpg->
+<Perf_Objdetect_QRCode--detect---version_5_top-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        196 140 424 142 436 374 187 374</data></val></corners></Perf_Objdetect_QRCode--detect---version_5_top-jpg->
+<Perf_Objdetect_QRCode--detect---russian-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        228 142 489 137 503 410 221 408</data></val></corners></Perf_Objdetect_QRCode--detect---russian-jpg->
+<Perf_Objdetect_QRCode--detect---kanji-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        73 226 240 153 300 386 116 430</data></val></corners></Perf_Objdetect_QRCode--detect---kanji-jpg->
+<Perf_Objdetect_QRCode--detect---link_github_ocv-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        484 97 378 251 189 138 311 8</data></val></corners></Perf_Objdetect_QRCode--detect---link_github_ocv-jpg->
+<Perf_Objdetect_QRCode--detect---link_ocv-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        370 363 203 254 340 160 501 235</data></val></corners></Perf_Objdetect_QRCode--detect---link_ocv-jpg->
+<Perf_Objdetect_QRCode--detect---link_wiki_cv-jpg->
+  <corners>
+    <kind>196608</kind>
+    <type>12</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>4</cols>
+      <dt>"2i"</dt>
+      <data>
+        164 108 361 187 241 397 24 285</data></val></corners></Perf_Objdetect_QRCode--detect---link_wiki_cv-jpg->
+<Perf_Objdetect_QRCode--decode---version_1_down-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>16</cols>
+      <dt>u</dt>
+      <data>
+        97 81 113 100 113 101 99 113 37 104 114 101 51 63 74 88</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>20</x>
+      <y>20</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>5</x>
+      <y>16</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>7</x>
+      <y>3</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_1_down-jpg->
+<Perf_Objdetect_QRCode--decode---version_1_left-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>16</cols>
+      <dt>u</dt>
+      <data>
+        97 81 113 100 113 101 99 113 37 104 114 101 51 63 74 88</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>20</x>
+      <y>20</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>16</x>
+      <y>13</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>6</x>
+      <y>8</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_1_left-jpg->
+<Perf_Objdetect_QRCode--decode---version_1_right-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>16</cols>
+      <dt>u</dt>
+      <data>
+        97 81 113 100 113 101 99 113 37 104 114 101 51 63 74 88</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>20</x>
+      <y>20</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>12</x>
+      <y>16</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>19</x>
+      <y>3</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_1_right-jpg->
+<Perf_Objdetect_QRCode--decode---version_1_up-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>16</cols>
+      <dt>u</dt>
+      <data>
+        97 81 113 100 113 101 99 113 37 104 114 101 51 63 74 88</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>20</x>
+      <y>20</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>9</x>
+      <y>18</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>6</x>
+      <y>18</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_1_up-jpg->
+<Perf_Objdetect_QRCode--decode---version_1_top-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>16</cols>
+      <dt>u</dt>
+      <data>
+        97 81 113 100 113 101 99 113 37 104 114 101 51 63 74 88</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>20</x>
+      <y>20</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>3</x>
+      <y>15</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>15</x>
+      <y>20</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_1_top-jpg->
+<Perf_Objdetect_QRCode--decode---version_5_down-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>35.</min>
+    <max>122.</max>
+    <last>
+      <x>87</x>
+      <y>0</y>
+      <val>104.</val></last>
+    <rng1>
+      <x>83</x>
+      <y>0</y>
+      <val>51.</val></rng1>
+    <rng2>
+      <x>75</x>
+      <y>0</y>
+      <val>94.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>36</x>
+      <y>36</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>22</x>
+      <y>34</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>30</x>
+      <y>36</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_5_down-jpg->
+<Perf_Objdetect_QRCode--decode---version_5_left-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>35.</min>
+    <max>122.</max>
+    <last>
+      <x>87</x>
+      <y>0</y>
+      <val>104.</val></last>
+    <rng1>
+      <x>0</x>
+      <y>0</y>
+      <val>97.</val></rng1>
+    <rng2>
+      <x>65</x>
+      <y>0</y>
+      <val>56.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>36</x>
+      <y>36</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>11</x>
+      <y>23</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>32</x>
+      <y>5</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_5_left-jpg->
+<Perf_Objdetect_QRCode--decode---version_5_right-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>35.</min>
+    <max>122.</max>
+    <last>
+      <x>87</x>
+      <y>0</y>
+      <val>104.</val></last>
+    <rng1>
+      <x>38</x>
+      <y>0</y>
+      <val>67.</val></rng1>
+    <rng2>
+      <x>83</x>
+      <y>0</y>
+      <val>51.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>36</x>
+      <y>36</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>21</x>
+      <y>36</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>20</x>
+      <y>28</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_5_right-jpg->
+<Perf_Objdetect_QRCode--decode---version_5_up-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>35.</min>
+    <max>122.</max>
+    <last>
+      <x>87</x>
+      <y>0</y>
+      <val>104.</val></last>
+    <rng1>
+      <x>36</x>
+      <y>0</y>
+      <val>68.</val></rng1>
+    <rng2>
+      <x>47</x>
+      <y>0</y>
+      <val>85.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>36</x>
+      <y>36</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>20</x>
+      <y>12</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>4</x>
+      <y>24</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_5_up-jpg->
+<Perf_Objdetect_QRCode--decode---version_5_top-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>35.</min>
+    <max>122.</max>
+    <last>
+      <x>87</x>
+      <y>0</y>
+      <val>104.</val></last>
+    <rng1>
+      <x>62</x>
+      <y>0</y>
+      <val>90.</val></rng1>
+    <rng2>
+      <x>38</x>
+      <y>0</y>
+      <val>67.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>36</x>
+      <y>36</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>15</x>
+      <y>28</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>16</x>
+      <y>33</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---version_5_top-jpg->
+<Perf_Objdetect_QRCode--decode---russian-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>32.</min>
+    <max>209.</max>
+    <last>
+      <x>99</x>
+      <y>0</y>
+      <val>46.</val></last>
+    <rng1>
+      <x>38</x>
+      <y>0</y>
+      <val>208.</val></rng1>
+    <rng2>
+      <x>10</x>
+      <y>0</y>
+      <val>32.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>36</x>
+      <y>36</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>19</x>
+      <y>26</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>26</x>
+      <y>13</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---russian-jpg->
+<Perf_Objdetect_QRCode--decode---kanji-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>129.</min>
+    <max>233.</max>
+    <last>
+      <x>29</x>
+      <y>0</y>
+      <val>134.</val></last>
+    <rng1>
+      <x>23</x>
+      <y>0</y>
+      <val>146.</val></rng1>
+    <rng2>
+      <x>29</x>
+      <y>0</y>
+      <val>134.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>12</x>
+      <y>2</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>11</x>
+      <y>8</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---kanji-jpg->
+<Perf_Objdetect_QRCode--decode---link_github_ocv-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>46.</min>
+    <max>118.</max>
+    <last>
+      <x>31</x>
+      <y>0</y>
+      <val>118.</val></last>
+    <rng1>
+      <x>3</x>
+      <y>0</y>
+      <val>112.</val></rng1>
+    <rng2>
+      <x>6</x>
+      <y>0</y>
+      <val>47.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>1</x>
+      <y>5</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>17</x>
+      <y>12</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---link_github_ocv-jpg->
+<Perf_Objdetect_QRCode--decode---link_ocv-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>19</cols>
+      <dt>u</dt>
+      <data>
+        104 116 116 112 115 58 47 47 111 112 101 110 99 118 46 111 114
+        103 47</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>16</x>
+      <y>4</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>13</x>
+      <y>10</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---link_ocv-jpg->
+<Perf_Objdetect_QRCode--decode---link_wiki_cv-jpg->
+  <decoded_info_uint8_t>
+    <kind>196608</kind>
+    <type>0</type>
+    <min>46.</min>
+    <max>119.</max>
+    <last>
+      <x>44</x>
+      <y>0</y>
+      <val>110.</val></last>
+    <rng1>
+      <x>18</x>
+      <y>0</y>
+      <val>105.</val></rng1>
+    <rng2>
+      <x>33</x>
+      <y>0</y>
+      <val>112.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>65536</kind>
+    <type>5</type>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>28</x>
+      <y>28</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>3</x>
+      <y>9</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>20</x>
+      <y>7</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode--decode---link_wiki_cv-jpg->
+ <!-- resumed -->
+ <!-- resumed -->
+<Perf_Objdetect_QRCode_Multi--detectMulti---2_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>8</cols>
+      <dt>"2f"</dt>
+      <data>
+        816. 351. 5.84290039e+02 3.93604767e+02 5.33537964e+02
+        2.11214584e+02 7.41005798e+02 1.75306686e+02 1.37186295e+02
+        9.75926285e+01 324. 106. 2.85984772e+02 2.61837006e+02 78. 250.</data></val></corners></Perf_Objdetect_QRCode_Multi--detectMulti---2_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---3_close_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>8</cols>
+      <dt>"2f"</dt>
+      <data>
+        427. 305. 432. 195. 5.63702759e+02 2.00027893e+02 5.75158752e+02
+        3.14587311e+02 9.74701385e+01 2.10660492e+02 2.16747498e+02
+        2.02393738e+02 2.02170670e+02 3.11719971e+02 6.83709869e+01
+        3.18327362e+02</data></val></corners></Perf_Objdetect_QRCode_Multi--detectMulti---3_close_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---3_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>12</cols>
+      <dt>"2f"</dt>
+      <data>
+        7.89138031e+01 3.53798889e+02 24. 219. 1.78466339e+02
+        1.49979492e+02 2.44396027e+02 2.76055573e+02 3.29238037e+02
+        3.27435486e+02 5.07550446e+02 3.40403656e+02 4.98189911e+02
+        5.20593933e+02 3.03671783e+02 5.05237244e+02 4.05693512e+02
+        8.29583893e+01 5.64939514e+02 7.34036331e+01 5.79725220e+02
+        2.19148407e+02 4.10551575e+02 2.26271515e+02</data></val></corners></Perf_Objdetect_QRCode_Multi--detectMulti---3_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---4_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>8.8743965148925781e+01</min>
+    <max>5.4933288574218750e+02</max>
+    <last>
+      <x>15</x>
+      <y>0</y>
+      <val>2.6726406860351562e+02</val></last>
+    <rng1>
+      <x>7</x>
+      <y>0</y>
+      <val>1.8874525451660156e+02</val></rng1>
+    <rng2>
+      <x>1</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>1.0777532196044922e+02</val></rng2></corners></Perf_Objdetect_QRCode_Multi--detectMulti---4_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---5_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>7.2480003356933594e+01</min>
+    <max>6.2163311767578125e+02</max>
+    <last>
+      <x>19</x>
+      <y>0</y>
+      <val>1.9008435058593750e+02</val></last>
+    <rng1>
+      <x>15</x>
+      <y>0</y>
+      <val>3.0490051269531250e+02</val></rng1>
+    <rng2>
+      <x>11</x>
+      <y>0</y>
+      <val>3.5555883789062500e+02</val></rng2></corners></Perf_Objdetect_QRCode_Multi--detectMulti---5_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---6_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>1.0882705688476562e+02</min>
+    <max>8.4426794433593750e+02</max>
+    <last>
+      <x>23</x>
+      <y>0</y>
+      <val>2.3388528442382812e+02</val></last>
+    <rng1>
+      <x>14</x>
+      <y>0</y>
+      <val>1.7737380981445312e+02</val></rng1>
+    <rng2>
+      <x>2</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>5.3890673828125000e+02</val></rng2></corners></Perf_Objdetect_QRCode_Multi--detectMulti---6_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---7_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>4.8033161163330078e+00</min>
+    <max>7.3982092285156250e+02</max>
+    <last>
+      <x>27</x>
+      <y>0</y>
+      <val>7.3982092285156250e+02</val></last>
+    <rng1>
+      <x>10</x>
+      <y>0</y>
+      <val>262.</val></rng1>
+    <rng2>
+      <x>4</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>4.9536679077148438e+02</val></rng2></corners></Perf_Objdetect_QRCode_Multi--detectMulti---7_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--detectMulti---8_close_qrcodes-png->
+  <corners>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>7.8023712158203125e+01</min>
+    <max>1.4797048339843750e+03</max>
+    <last>
+      <x>31</x>
+      <y>0</y>
+      <val>1.0135423583984375e+03</val></last>
+    <rng1>
+      <x>21</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>4.0810534667968750e+02</val></rng1>
+    <rng2>
+      <x>17</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>4.7599661254882812e+02</val></rng2></corners></Perf_Objdetect_QRCode_Multi--detectMulti---8_close_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---2_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>2</len>
+    <idx>1</idx>
+    <min>46.</min>
+    <max>119.</max>
+    <last>
+      <x>44</x>
+      <y>0</y>
+      <val>110.</val></last>
+    <rng1>
+      <x>29</x>
+      <y>0</y>
+      <val>47.</val></rng1>
+    <rng2>
+      <x>40</x>
+      <y>0</y>
+      <val>105.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>2</len>
+    <idx>1</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>28</x>
+      <y>28</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>26</x>
+      <y>20</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>9</x>
+      <y>7</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---2_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---3_close_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>2</len>
+    <idx>1</idx>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>13</cols>
+      <dt>u</dt>
+      <data>
+        73 32 76 111 118 101 32 79 112 101 110 67 86</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>2</len>
+    <idx>0</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>18</x>
+      <y>24</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>19</x>
+      <y>24</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---3_close_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---3_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>3</len>
+    <idx>0</idx>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>13</cols>
+      <dt>u</dt>
+      <data>
+        73 32 76 111 118 101 32 79 112 101 110 67 86</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>3</len>
+    <idx>1</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>28</x>
+      <y>28</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>15</x>
+      <y>27</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>27</x>
+      <y>17</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---3_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---4_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>4</len>
+    <idx>3</idx>
+    <min>46.</min>
+    <max>118.</max>
+    <last>
+      <x>40</x>
+      <y>0</y>
+      <val>52.</val></last>
+    <rng1>
+      <x>15</x>
+      <y>0</y>
+      <val>99.</val></rng1>
+    <rng2>
+      <x>22</x>
+      <y>0</y>
+      <val>110.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>4</len>
+    <idx>1</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>2</x>
+      <y>11</y>
+      <val>255.</val></rng1>
+    <rng2>
+      <x>6</x>
+      <y>7</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---4_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---5_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>5</len>
+    <idx>4</idx>
+    <min>46.</min>
+    <max>118.</max>
+    <last>
+      <x>40</x>
+      <y>0</y>
+      <val>52.</val></last>
+    <rng1>
+      <x>14</x>
+      <y>0</y>
+      <val>46.</val></rng1>
+    <rng2>
+      <x>3</x>
+      <y>0</y>
+      <val>112.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>5</len>
+    <idx>4</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>28</x>
+      <y>28</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>25</x>
+      <y>27</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>10</x>
+      <y>17</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---5_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---6_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>6</len>
+    <idx>5</idx>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>u</dt>
+      <data>
+        69 88 84 82 65</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>6</len>
+    <idx>4</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>20</x>
+      <y>20</y>
+      <val>255.</val></last>
+    <rng1>
+      <x>14</x>
+      <y>0</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>16</x>
+      <y>8</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---6_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---7_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>7</len>
+    <idx>1</idx>
+    <min>46.</min>
+    <max>121.</max>
+    <last>
+      <x>29</x>
+      <y>0</y>
+      <val>52.</val></last>
+    <rng1>
+      <x>28</x>
+      <y>0</y>
+      <val>49.</val></rng1>
+    <rng2>
+      <x>8</x>
+      <y>0</y>
+      <val>103.</val></rng2></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>7</len>
+    <idx>1</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>6</x>
+      <y>22</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>0</x>
+      <y>15</y>
+      <val>0.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---7_qrcodes-png->
+<Perf_Objdetect_QRCode_Multi--decodeMulti---8_close_qrcodes-png->
+  <decoded_info_uint8_t>
+    <kind>262144</kind>
+    <type>0</type>
+    <len>8</len>
+    <idx>3</idx>
+    <val type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>6</cols>
+      <dt>u</dt>
+      <data>
+        80 111 108 105 110 97</data></val></decoded_info_uint8_t>
+  <straight_barcode>
+    <kind>327680</kind>
+    <type>5</type>
+    <len>8</len>
+    <idx>5</idx>
+    <min>0.</min>
+    <max>255.</max>
+    <last>
+      <x>24</x>
+      <y>24</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>12</x>
+      <y>6</y>
+      <val>0.</val></rng1>
+    <rng2>
+      <x>9</x>
+      <y>5</y>
+      <val>255.</val></rng2></straight_barcode></Perf_Objdetect_QRCode_Multi--decodeMulti---8_close_qrcodes-png->
+</opencv_storage>

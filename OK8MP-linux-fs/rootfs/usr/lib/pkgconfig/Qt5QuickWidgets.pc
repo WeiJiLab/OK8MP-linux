@@ -1,0 +1,13 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=/usr/include
+
+
+Name: Qt5 QuickWidgets
+Description: Qt QuickWidgets module
+Version: 5.15.0
+Libs: -L${libdir} -lQt5QuickWidgets 
+Cflags: -DQT_QUICKWIDGETS_LIB -I${includedir}/QtQuickWidgets -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Qml Qt5Quick Qt5Widgets
+

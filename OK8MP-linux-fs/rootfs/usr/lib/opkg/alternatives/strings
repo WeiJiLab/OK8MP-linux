@@ -1,0 +1,3 @@
+/usr/bin/strings
+/usr/bin/aarch64-poky-linux-strings 100
+/bin/busybox.nosuid 50

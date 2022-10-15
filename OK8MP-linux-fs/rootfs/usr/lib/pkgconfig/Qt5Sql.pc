@@ -1,0 +1,13 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=/usr/include
+
+
+Name: Qt5 Sql
+Description: Qt Sql module
+Version: 5.15.0
+Libs: -L${libdir} -lQt5Sql 
+Cflags: -DQT_SQL_LIB -I${includedir}/QtSql -I${includedir}
+Requires: Qt5Core
+

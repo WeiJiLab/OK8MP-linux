@@ -1,0 +1,2 @@
+#!/bin/sh
+GENICAM_GENTL64_PATH=/opt/dart-bcon-mipi/lib exec /opt/pylon6/bin/pylonviewer "${@}"

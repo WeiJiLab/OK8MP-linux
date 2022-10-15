@@ -1,0 +1,3 @@
+/etc/resolv.conf
+/etc/resolv-conf.connman 100
+/etc/resolv-conf.systemd 50

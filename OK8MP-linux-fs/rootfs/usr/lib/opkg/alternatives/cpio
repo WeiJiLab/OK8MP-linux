@@ -1,0 +1,3 @@
+/bin/cpio
+/bin/busybox.nosuid 50
+/bin/cpio.cpio 100

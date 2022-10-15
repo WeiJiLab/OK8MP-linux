@@ -1,0 +1,17 @@
+QT.gui.VERSION = 5.15.0
+QT.gui.name = QtGui
+QT.gui.module = Qt5Gui
+QT.gui.libs = $$QT_MODULE_LIB_BASE
+QT.gui.includes = $$QT_MODULE_INCLUDE_BASE $$QT_MODULE_INCLUDE_BASE/QtGui
+QT.gui.frameworks =
+QT.gui.bins = $$QT_MODULE_BIN_BASE
+QT.gui.plugin_types = platforms platforms/darwin xcbglintegrations platformthemes platforminputcontexts generic iconengines imageformats egldeviceintegrations
+QT.gui.depends = core
+QT.gui.uses = vulkan/nolink
+QT.gui.module_config = v2
+QT.gui.CONFIG = opengl
+QT.gui.DEFINES = QT_GUI_LIB
+QT.gui.enabled_features = accessibility action opengles2 clipboard colornames cssparser cursor desktopservices imageformat_xpm draganddrop opengl highdpiscaling im image_heuristic_mask image_text imageformat_bmp imageformat_jpeg imageformat_png imageformat_ppm imageformat_xbm imageformatplugin movie opengles3 opengles31 openvg pdf picture shortcut standarditemmodel systemtrayicon tabletevent texthtmlparser textmarkdownreader textmarkdownwriter textodfwriter validator vulkan whatsthis wheelevent
+QT.gui.disabled_features = angle combined-angle-lib dynamicgl opengles32 sessionmanager system-textmarkdownreader
+QT_CONFIG += accessibility action opengles2 clipboard colornames cssparser cursor desktopservices imageformat_xpm draganddrop opengl egl kms gbm freetype harfbuzz highdpiscaling im image_heuristic_mask image_text imageformat_bmp imageformat_jpeg imageformat_png imageformat_ppm imageformat_xbm imageformatplugin movie pdf picture shortcut standarditemmodel systemtrayicon tabletevent texthtmlparser textodfwriter validator whatsthis wheelevent
+QT_MODULES += gui

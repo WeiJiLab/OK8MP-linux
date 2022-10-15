@@ -1,0 +1,2 @@
+/usr/bin/readelf
+/usr/bin/aarch64-poky-linux-readelf 100

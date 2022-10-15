@@ -1,0 +1,2 @@
+/usr/bin/objcopy
+/usr/bin/aarch64-poky-linux-objcopy 100

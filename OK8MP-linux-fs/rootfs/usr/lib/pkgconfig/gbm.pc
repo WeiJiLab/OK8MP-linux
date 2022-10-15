@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: gbm
+Description: vivante gbm library
+Version: 17.2
+Libs: -L${libdir} -lgbm
+Libs.private: -ldl
+Cflags: -I${includedir} -DLINUX -D__GBM__

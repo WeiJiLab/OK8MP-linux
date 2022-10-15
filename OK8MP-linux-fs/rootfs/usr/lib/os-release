@@ -1,0 +1,5 @@
+ID="fsl-imx-xwayland"
+NAME="NXP i.MX Release Distro"
+VERSION="5.4-zeus (zeus)"
+VERSION_ID="5.4-zeus"
+PRETTY_NAME="NXP i.MX Release Distro 5.4-zeus (zeus)"

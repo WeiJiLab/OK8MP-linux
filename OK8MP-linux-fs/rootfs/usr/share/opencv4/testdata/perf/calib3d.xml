@@ -1,0 +1,996 @@
+<?xml version="1.0" ?><opencv_storage>
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles1-png---7x13->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>9.4336730957031250e+01</min>
+    <max>4.7849752807617188e+02</max>
+    <last>
+      <x>90</x>
+      <y>0</y>
+      <val>1.0000583648681641e+02</val></last>
+    <rng1>
+      <x>54</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>2.0213621520996094e+02</val></rng1>
+    <rng2>
+      <x>86</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>9.6797500610351562e+01</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles1-png---7x13->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles2-png---7x13->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>4.5381984710693359e+01</min>
+    <max>5.2131433105468750e+02</max>
+    <last>
+      <x>90</x>
+      <y>0</y>
+      <val>2.1497082519531250e+02</val></last>
+    <rng1>
+      <x>43</x>
+      <y>0</y>
+      <val>2.9789639282226562e+02</val></rng1>
+    <rng2>
+      <x>69</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>1.5589173889160156e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles2-png---7x13->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles3-png---7x13->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>6.1023143768310547e+01</min>
+    <max>5.4771752929687500e+02</max>
+    <last>
+      <x>90</x>
+      <y>0</y>
+      <val>2.3222872924804688e+02</val></last>
+    <rng1>
+      <x>72</x>
+      <y>0</y>
+      <val>3.4382427978515625e+02</val></rng1>
+    <rng2>
+      <x>29</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>1.9262422180175781e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles3-png---7x13->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles4-png---5x5->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>2.7361404418945312e+02</min>
+    <max>4.5659356689453125e+02</max>
+    <last>
+      <x>24</x>
+      <y>0</y>
+      <val>3.5508132934570312e+02</val></last>
+    <rng1>
+      <x>24</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>3.5508132934570312e+02</val></rng1>
+    <rng2>
+      <x>4</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>2.8804776000976562e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles4-png---5x5->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles5-png---5x5->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>2.1598440551757812e+02</min>
+    <max>3.9439779663085938e+02</max>
+    <last>
+      <x>24</x>
+      <y>0</y>
+      <val>2.6440426635742188e+02</val></last>
+    <rng1>
+      <x>22</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>3.3108300781250000e+02</val></rng1>
+    <rng2>
+      <x>4</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>2.4997789001464844e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles5-png---5x5->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles6-png---5x5->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>2.8240158081054688e+02</min>
+    <max>4.1960284423828125e+02</max>
+    <last>
+      <x>24</x>
+      <y>0</y>
+      <val>3.0906362915039062e+02</val></last>
+    <rng1>
+      <x>3</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>3.7128540039062500e+02</val></rng1>
+    <rng2>
+      <x>24</x>
+      <y>0</y>
+      <val>3.0597109985351562e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles6-png---5x5->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles7-png---3x9->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>2.3744476318359375e+02</min>
+    <max>5.1825677490234375e+02</max>
+    <last>
+      <x>26</x>
+      <y>0</y>
+      <val>2.8389642333984375e+02</val></last>
+    <rng1>
+      <x>16</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>2.7426248168945312e+02</val></rng1>
+    <rng2>
+      <x>10</x>
+      <y>0</y>
+      <val>4.7911111450195312e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles7-png---3x9->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles8-png---3x9->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>2.2886637878417969e+02</min>
+    <max>4.0411233520507812e+02</max>
+    <last>
+      <x>26</x>
+      <y>0</y>
+      <val>4.0411233520507812e+02</val></last>
+    <rng1>
+      <x>16</x>
+      <y>0</y>
+      <val>2.9988107299804688e+02</val></rng1>
+    <rng2>
+      <x>26</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>4.0411233520507812e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles8-png---3x9->
+<String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles9-png---3x9->
+  <ptvec>
+    <kind>196608</kind>
+    <type>13</type>
+    <min>2.2652360534667969e+02</min>
+    <max>4.2250006103515625e+02</max>
+    <last>
+      <x>26</x>
+      <y>0</y>
+      <val>2.4186732482910156e+02</val></last>
+    <rng1>
+      <x>4</x>
+      <y>0</y>
+      <cn>1</cn>
+      <val>2.6248535156250000e+02</val></rng1>
+    <rng2>
+      <x>8</x>
+      <y>0</y>
+      <val>3.3780123901367188e+02</val></rng2></ptvec></String_Size_asymm_circles_grid--asymm_circles_grid----cv-cameracalibration-asymmetric_circles-acircles9-png---3x9->
+<PointsNum_SolvePnPRansac--SolvePnPRansac--4>
+  <rvec>
+    <kind>65536</kind>
+    <type>6</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        2.6989618875200089e-02 1.7548548334127070e+00
+        3.2910765205514174e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>6</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -1.2216497380421021e+00 4.3882005964701065e+01
+        8.9845725598257587e+01</data></val></tvec></PointsNum_SolvePnPRansac--SolvePnPRansac--4>
+<PointsNum_SolvePnPRansac--SolvePnPRansac--27>
+  <rvec>
+    <kind>65536</kind>
+    <type>6</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        8.4628053847779083e-01 -1.6986123377462841e+00
+        -1.2835083034760035e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>6</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -2.3897319812195573e+01 3.1193723524974054e+01
+        1.1591688732897232e+02</data></val></tvec></PointsNum_SolvePnPRansac--SolvePnPRansac--27>
+<PointsNum_SolvePnPRansac--SolvePnPRansac--91>
+  <rvec>
+    <kind>65536</kind>
+    <type>6</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        8.5029381143706431e+01 4.3481508464543857e+01
+        2.1691684457848762e+01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>6</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        1.6323631145448424e+01 -1.4986142900449511e+02
+        4.0261972870888013e+02</data></val></tvec></PointsNum_SolvePnPRansac--SolvePnPRansac--91>
+<OCL_StereoBMFixture_StereoBM--StereoBM---32--11->
+  <disp>
+    <kind>655360</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>496.</max>
+    <last>
+      <x>639</x>
+      <y>552</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>305</x>
+      <y>503</y>
+      <val>496.</val></rng1>
+    <rng2>
+      <x>4</x>
+      <y>65</y>
+      <val>-16.</val></rng2></disp></OCL_StereoBMFixture_StereoBM--StereoBM---32--11->
+<OCL_StereoBMFixture_StereoBM--StereoBM---32--21->
+  <disp>
+    <kind>655360</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>496.</max>
+    <last>
+      <x>639</x>
+      <y>552</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>215</x>
+      <y>427</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>316</x>
+      <y>216</y>
+      <val>496.</val></rng2></disp></OCL_StereoBMFixture_StereoBM--StereoBM---32--21->
+<OCL_StereoBMFixture_StereoBM--StereoBM---64--11->
+  <disp>
+    <kind>655360</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>1008.</max>
+    <last>
+      <x>639</x>
+      <y>552</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>517</x>
+      <y>93</y>
+      <val>387.</val></rng1>
+    <rng2>
+      <x>226</x>
+      <y>454</y>
+      <val>530.</val></rng2></disp></OCL_StereoBMFixture_StereoBM--StereoBM---64--11->
+<OCL_StereoBMFixture_StereoBM--StereoBM---64--21->
+  <disp>
+    <kind>655360</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>1008.</max>
+    <last>
+      <x>639</x>
+      <y>552</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>596</x>
+      <y>172</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>182</x>
+      <y>141</y>
+      <val>429.</val></rng2></disp></OCL_StereoBMFixture_StereoBM--StereoBM---64--21->
+<OCL_StereoBMFixture_StereoBM--StereoBM---128--11->
+  <disp>
+    <kind>655360</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2032.</max>
+    <last>
+      <x>639</x>
+      <y>552</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>355</x>
+      <y>185</y>
+      <val>981.</val></rng1>
+    <rng2>
+      <x>202</x>
+      <y>452</y>
+      <val>503.</val></rng2></disp></OCL_StereoBMFixture_StereoBM--StereoBM---128--11->
+<OCL_StereoBMFixture_StereoBM--StereoBM---128--21->
+  <disp>
+    <kind>655360</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>1935.</max>
+    <last>
+      <x>639</x>
+      <y>552</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>454</x>
+      <y>149</y>
+      <val>54.</val></rng1>
+    <rng2>
+      <x>58</x>
+      <y>494</y>
+      <val>-16.</val></rng2></disp></OCL_StereoBMFixture_StereoBM--StereoBM---128--21->
+<TestStereoCorrespBM_BM--BM---1280x720--256->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>3793.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>1105</x>
+      <y>50</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>910</x>
+      <y>442</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespBM_BM--BM---1280x720--256->
+<TestStereoCorrespBM_BM--BM---1280x720--128->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2015.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>386</x>
+      <y>156</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>132</x>
+      <y>714</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespBM_BM--BM---1280x720--128->
+<TestStereoCorrespBM_BM--BM---640x480--256->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>1544.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>347</x>
+      <y>137</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>153</x>
+      <y>277</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespBM_BM--BM---640x480--256->
+<TestStereoCorrespBM_BM--BM---640x480--128->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>1984.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>109</x>
+      <y>106</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>438</x>
+      <y>119</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespBM_BM--BM---640x480--128->
+<TestStereoCorrespSGBM_SGBM--SGBM---1280x720--256--StereoSGBM--MODE_SGBM->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>4080.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>565</x>
+      <y>72</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>36</x>
+      <y>416</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---1280x720--256--StereoSGBM--MODE_SGBM->
+<TestStereoCorrespSGBM_SGBM--SGBM---1280x720--256--StereoSGBM--MODE_SGBM_3WAY->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>4080.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>150</x>
+      <y>321</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>489</x>
+      <y>268</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---1280x720--256--StereoSGBM--MODE_SGBM_3WAY->
+<TestStereoCorrespSGBM_SGBM--SGBM---1280x720--128--StereoSGBM--MODE_SGBM->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2032.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>-16.</val></last>
+    <rng1>
+      <x>1190</x>
+      <y>695</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>1007</x>
+      <y>201</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---1280x720--128--StereoSGBM--MODE_SGBM->
+<TestStereoCorrespSGBM_SGBM--SGBM---1280x720--128--StereoSGBM--MODE_SGBM_3WAY->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2032.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>1272</x>
+      <y>2</y>
+      <val>877.</val></rng1>
+    <rng2>
+      <x>820</x>
+      <y>629</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---1280x720--128--StereoSGBM--MODE_SGBM_3WAY->
+<TestStereoCorrespSGBM_SGBM--SGBM---640x480--256--StereoSGBM--MODE_SGBM->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>4034.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>34</x>
+      <y>200</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>306</x>
+      <y>146</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---640x480--256--StereoSGBM--MODE_SGBM->
+<TestStereoCorrespSGBM_SGBM--SGBM---640x480--256--StereoSGBM--MODE_SGBM_3WAY->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>4063.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>144</x>
+      <y>318</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>157</x>
+      <y>357</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---640x480--256--StereoSGBM--MODE_SGBM_3WAY->
+<TestStereoCorrespSGBM_SGBM--SGBM---640x480--128--StereoSGBM--MODE_SGBM->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2032.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>209</x>
+      <y>444</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>539</x>
+      <y>193</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---640x480--128--StereoSGBM--MODE_SGBM->
+<TestStereoCorrespSGBM_SGBM--SGBM---640x480--128--StereoSGBM--MODE_SGBM_3WAY->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2032.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>511</x>
+      <y>254</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>178</x>
+      <y>209</y>
+      <val>415.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---640x480--128--StereoSGBM--MODE_SGBM_3WAY->
+<TestStereoCorrespSGBM_SGBM--SGBM---1280x720--256--StereoSGBM--MODE_HH4->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>4080.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>1269</x>
+      <y>78</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>600</x>
+      <y>336</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---1280x720--256--StereoSGBM--MODE_HH4->
+<TestStereoCorrespSGBM_SGBM--SGBM---1280x720--128--StereoSGBM--MODE_HH4->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2032.</max>
+    <last>
+      <x>1279</x>
+      <y>719</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>699</x>
+      <y>663</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>887</x>
+      <y>662</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---1280x720--128--StereoSGBM--MODE_HH4->
+<TestStereoCorrespSGBM_SGBM--SGBM---640x480--256--StereoSGBM--MODE_HH4->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>4016.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>148</x>
+      <y>62</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>636</x>
+      <y>381</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---640x480--256--StereoSGBM--MODE_HH4->
+<TestStereoCorrespSGBM_SGBM--SGBM---640x480--128--StereoSGBM--MODE_HH4->
+  <dst>
+    <kind>65536</kind>
+    <type>3</type>
+    <min>-16.</min>
+    <max>2019.</max>
+    <last>
+      <x>639</x>
+      <y>479</y>
+      <val>0.</val></last>
+    <rng1>
+      <x>192</x>
+      <y>455</y>
+      <val>-16.</val></rng1>
+    <rng2>
+      <x>598</x>
+      <y>206</y>
+      <val>-16.</val></rng2></dst></TestStereoCorrespSGBM_SGBM--SGBM---640x480--128--StereoSGBM--MODE_HH4->
+<PointsNum_Algo_solvePnP--solvePnP---5--SOLVEPNP_EPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -9.96237159e-01 -6.77518845e-01 2.16095233e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.53090259e+03 3.26204987e+02 -5.94264343e+02</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---5--SOLVEPNP_EPNP->
+<PointsNum_Algo_solvePnP--solvePnP---5--SOLVEPNP_UPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -9.96237159e-01 -6.77518845e-01 2.16095233e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.53090259e+03 3.26204987e+02 -5.94264343e+02</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---5--SOLVEPNP_UPNP->
+<PointsNum_Algo_solvePnP--solvePnP---5--SOLVEPNP_DLS->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -9.96237159e-01 -6.77518845e-01 2.16095233e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.53090259e+03 3.26204987e+02 -5.94264343e+02</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---5--SOLVEPNP_DLS->
+<PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_ITERATIVE->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -7.75721446e-02 1.21338002e-01 -3.33137840e-01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        1.75779932e+03 2.61032422e+03 -3.97441870e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_ITERATIVE->
+<PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_EPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.71859518e-01 -1.09867670e-01 2.80132437e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.75785510e+03 -2.61031152e+03 4.51191553e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_EPNP->
+<PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_UPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.71859518e-01 -1.09867670e-01 2.80132437e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.75785510e+03 -2.61031152e+03 4.51191553e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_UPNP->
+<PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_DLS->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.71859518e-01 -1.09867670e-01 2.80132437e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.75785510e+03 -2.61031152e+03 4.51191553e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---27--SOLVEPNP_DLS->
+<PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_ITERATIVE->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.74701142e-01 -1.29744422e+00 -1.85102916e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        5.80576859e+01 -3.08669995e+03 -1.40865369e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_ITERATIVE->
+<PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_EPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        1.13331306e+00 3.27289909e-01 9.06168163e-01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -5.79957581e+01 3.08670630e+03 1.72461462e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_EPNP->
+<PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_UPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        1.13331306e+00 3.27289909e-01 9.06168163e-01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -5.79957581e+01 3.08670630e+03 1.72461462e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_UPNP->
+<PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_DLS->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        1.13331306e+00 3.27289909e-01 9.06168163e-01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -5.79957581e+01 3.08670630e+03 1.72461462e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---91--SOLVEPNP_DLS->
+<PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_P3P->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        1.75522518e+00 -1.98829567e+00 8.14289749e-01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        2.68490356e+03 -3.94802832e+03 3.39936011e+03</data></val></tvec></PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_P3P->
+<PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_EPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -9.96242821e-01 -6.77514493e-01 2.16095138e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.53089551e+03 3.26227356e+02 -5.94261597e+02</data></val></tvec></PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_EPNP->
+<PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_DLS->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -9.96242821e-01 -6.77514493e-01 2.16095138e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.53089551e+03 3.26227356e+02 -5.94261597e+02</data></val></tvec></PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_DLS->
+<PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_UPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -9.96242821e-01 -6.77514493e-01 2.16095138e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        3.53089551e+03 3.26227356e+02 -5.94261597e+02</data></val></tvec></PointsNum_Algo_solvePnPSmallPoints--solvePnPSmallPoints---5--SOLVEPNP_UPNP->
+<PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_ITERATIVE->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        9.01256442e-01 8.32762122e-02 -4.22612309e-01</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -2.73962769e+03 9.76111511e+02 -9.08437378e+02</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_ITERATIVE->
+<PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_EPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.11466251e-01 1.20623410e+00 2.45043230e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        2.73960669e+03 -9.76128174e+02 3.14725879e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_EPNP->
+<PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_UPNP->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.11466251e-01 1.20623410e+00 2.45043230e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        2.73960669e+03 -9.76128174e+02 3.14725879e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_UPNP->
+<PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_DLS->
+  <rvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        -1.11466251e-01 1.20623410e+00 2.45043230e+00</data></val></rvec>
+  <tvec>
+    <kind>65536</kind>
+    <type>5</type>
+    <val type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>f</dt>
+      <data>
+        2.73960669e+03 -9.76128174e+02 3.14725879e+03</data></val></tvec></PointsNum_Algo_solvePnP--solvePnP---6--SOLVEPNP_DLS->
+</opencv_storage>

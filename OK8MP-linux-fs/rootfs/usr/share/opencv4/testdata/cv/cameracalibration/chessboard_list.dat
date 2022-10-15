@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<boards>
+"chess1.png" "chess_corners1.dat"
+"chess2.png" "chess_corners2.dat"
+"chess3.png" "chess_corners3.dat"
+"chess4.png" "chess_corners4.dat"
+"chess5.png" "chess_corners5.dat"
+"chess6.png" "chess_corners6.dat"
+"chess7.png" "chess_corners7.dat"
+"chess8.png" "chess_corners8.dat"
+"chess9.png" "chess_corners9.dat"
+"small_chessboard1.png" "small_chessboard1.dat"
+"small_chessboard2.png" "small_chessboard2.dat"
+"small_chessboard3.png" "small_chessboard3.dat"
+"chessboard_hires.jpg" "chessboard_hires.dat"
+</boards></opencv_storage>

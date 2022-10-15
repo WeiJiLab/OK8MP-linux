@@ -1,0 +1,3 @@
+/bin/zcat
+/bin/busybox.nosuid 50
+/bin/zcat.gzip 100
