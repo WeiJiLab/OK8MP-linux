@@ -1,0 +1,2 @@
+#/bin/sh
+../../../bin/run-tests.sh conformance/interfaces/fork fork_17-1.run-test fork_17-2.run-test fork_16-1.run-test fork_1-1.run-test fork_13-1.run-test fork_14-1.run-test fork_11-1.run-test fork_9-1.run-test fork_8-1.run-test fork_21-1.run-test fork_3-1.run-test fork_6-1.run-test fork_19-1.run-test fork_18-1.run-test fork_22-1.run-test fork_2-1.run-test fork_7-1.run-test fork_12-1.run-test fork_4-1.run-test

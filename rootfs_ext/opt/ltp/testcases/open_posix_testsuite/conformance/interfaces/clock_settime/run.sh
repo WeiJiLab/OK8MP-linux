@@ -1,0 +1,2 @@
+#/bin/sh
+../../../bin/run-tests.sh conformance/interfaces/clock_settime clock_settime_17-1.run-test clock_settime_3-1.sh clock_settime_17-2.run-test clock_settime_4-2.run-test clock_settime_7-2.run-test clock_settime_15-1.sh clock_settime_1-1.run-test clock_settime_5-2.run-test clock_settime_8-1.run-test clock_settime_20-1.run-test clock_settime_6-1.run-test clock_settime_19-1.run-test clock_settime_16-1.sh clock_settime_18-1.sh clock_settime_5-1.run-test clock_settime_7-1.run-test clock_settime_4-1.run-test

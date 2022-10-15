@@ -1,0 +1,2 @@
+#/bin/sh
+../../../bin/run-tests.sh conformance/interfaces/lio_listio lio_listio_15-1.run-test lio_listio_1-1.run-test lio_listio_13-1.run-test lio_listio_14-1.run-test lio_listio_10-1.run-test lio_listio_9-1.run-test lio_listio_8-1.run-test lio_listio_3-1.run-test lio_listio_6-1.run-test lio_listio_18-1.run-test lio_listio_5-1.run-test lio_listio_2-1.run-test lio_listio_7-1.run-test lio_listio_12-1.run-test lio_listio_4-1.run-test

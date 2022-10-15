@@ -1,0 +1,3 @@
+stress/mqueues/multi_send_rev_2 compile PASSED
+stress/mqueues/multi_send_rev_1 compile PASSED
+stress/signals/sigismember_stress_1 compile PASSED

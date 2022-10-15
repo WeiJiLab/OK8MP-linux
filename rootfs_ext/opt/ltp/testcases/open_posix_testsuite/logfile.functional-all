@@ -1,0 +1,17 @@
+functional/mqueues/send_rev_2 compile PASSED
+functional/mqueues/send_rev_1 compile PASSED
+functional/semaphores/sem_conpro compile PASSED
+functional/semaphores/sem_philosopher compile PASSED
+functional/semaphores/sem_sleepingbarber compile PASSED
+functional/semaphores/sem_readerwriter compile PASSED
+functional/semaphores/sem_lock compile PASSED
+functional/threads/condvar/pthread_cond_wait_1 compile PASSED
+functional/threads/condvar/pthread_cond_wait_2 compile PASSED
+functional/threads/pi_test/pitest-3 compile PASSED
+functional/threads/pi_test/pitest-6 compile PASSED
+functional/threads/pi_test/pitest-4 compile PASSED
+functional/threads/pi_test/pitest-5 compile PASSED
+functional/threads/pi_test/pitest-2 compile PASSED
+functional/threads/pi_test/pitest-1 compile PASSED
+functional/threads/schedule/1-2 compile PASSED
+functional/threads/schedule/1-1 compile PASSED
