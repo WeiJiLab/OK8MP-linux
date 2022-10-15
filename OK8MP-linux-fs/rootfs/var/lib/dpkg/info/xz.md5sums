@@ -1,0 +1,8 @@
+ed881b67273325244c260f39e60460e1  usr/bin/lzmadec
+a151362cfa30e7711fc9d612b9b5b933  usr/bin/lzmainfo
+479b7ad1308a8e76a5581e24cab96d96  usr/bin/xz.xz
+1fe5aad81c7ce27a76c67d59914c0529  usr/bin/xzdec
+f77e21581902f59ccbb13cb12a40d7fe  usr/bin/xzdiff
+06bc0e8e4da9dfe7ebea6c006bcfbd67  usr/bin/xzgrep
+d8dd4b87bdf6e4dc07b661c02fadcec8  usr/bin/xzless
+18c2df75cf7d142f7fb02f6038187e2f  usr/bin/xzmore

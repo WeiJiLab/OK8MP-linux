@@ -1,0 +1,4 @@
+b36106a59ad2536850de0649b4d9baa0  lib/systemd/system/tee-supplicant.service
+6497d151ae20d0bde3cd11ca8107315d  lib/systemd/system-preset/98-optee-client.preset
+08ce92e201dd752c52dd872d78415500  usr/bin/tee-supplicant
+0aacf8067a558815630a5e7092231910  usr/lib/libteec.so.1.0

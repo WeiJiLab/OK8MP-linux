@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/extra
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/extra/sensor
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/extra/sensor/os08a20
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/extra/sensor/os08a20/os08a20.ko

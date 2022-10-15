@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/bash_completion
+/etc/bash_completion.d
+/etc/profile.d
+/etc/profile.d/bash_completion.sh
+/usr
+/usr/share
+/usr/share/bash-completion
+/usr/share/bash-completion/bash_completion

@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/lib
+/usr/lib/pulseaudio
+/usr/lib/pulseaudio/libpulsecore-12.2.so

@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/gio
+/usr/lib/gio/modules
+/usr/lib/libgio-2.0.so.0.6000.7
+/usr/lib/libglib-2.0.so.0.6000.7
+/usr/lib/libgmodule-2.0.so.0.6000.7
+/usr/lib/libgobject-2.0.so.0.6000.7
+/usr/lib/libgthread-2.0.so.0.6000.7
+/usr/libexec
+/usr/libexec/gio-querymodules
+/usr/lib/libgio-2.0.so.0
+/usr/lib/libglib-2.0.so.0
+/usr/lib/libgmodule-2.0.so.0
+/usr/lib/libgobject-2.0.so.0
+/usr/lib/libgthread-2.0.so.0

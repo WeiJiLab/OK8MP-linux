@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/lib
+/usr/lib/xorg
+/usr/lib/xorg/modules
+/usr/lib/xorg/modules/drivers
+/usr/lib/xorg/modules/drivers/modesetting_drv.so

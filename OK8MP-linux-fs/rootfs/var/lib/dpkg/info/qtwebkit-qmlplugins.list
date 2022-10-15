@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtWebKit
+/usr/lib/qml/QtWebKit/experimental
+/usr/lib/qml/QtWebKit/experimental/libqmlwebkitexperimentalplugin.so
+/usr/lib/qml/QtWebKit/experimental/qmldir
+/usr/lib/qml/QtWebKit/libqmlwebkitplugin.so
+/usr/lib/qml/QtWebKit/plugins.qmltypes
+/usr/lib/qml/QtWebKit/qmldir

@@ -1,0 +1,4 @@
+/.
+/etc
+/etc/modprobe.d
+/etc/modprobe.d/imx8-media-dev.conf

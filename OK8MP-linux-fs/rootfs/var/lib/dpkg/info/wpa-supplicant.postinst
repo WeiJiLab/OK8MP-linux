@@ -1,0 +1,33 @@
+#!/bin/sh
+set -e
+	# If we're offline, we don't need to do this.
+	if [ "x$D" = "x" ]; then
+		killall -q -HUP dbus-daemon || true
+	fi
+
+if type systemctl >/dev/null 2>/dev/null; then
+	OPTS=""
+
+	if [ -n "$D" ]; then
+		OPTS="--root=$D"
+	fi
+
+	if [ "disable" = "enable" ]; then
+		for service in wpa_supplicant.service; do
+			case "${service}" in
+			*@*)
+				systemctl ${OPTS} enable "${service}"
+				;;
+			esac
+		done
+	fi
+
+	if [ -z "$D" ]; then
+		systemctl daemon-reload
+		systemctl preset wpa_supplicant.service
+
+		if [ "disable" = "enable" ]; then
+			systemctl --no-block restart wpa_supplicant.service
+		fi
+	fi
+fi

@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/include
+/usr/include/X11
+/usr/include/X11/Xauth.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xau.pc
+/usr/lib/libXau.so

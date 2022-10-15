@@ -1,0 +1,9 @@
+4804b2eeb0957b2a42f4abd65363b908  usr/lib/plugins/audio/libqtaudio_alsa.so
+6fd2514d6da57d177526914fd987e7ba  usr/lib/plugins/audio/libqtmedia_pulse.so
+4e682f40dc09c2de9933fd8e52342a23  usr/lib/plugins/mediaservice/libgstaudiodecoder.so
+d19cc0d8349745de6b939d94f51ae568  usr/lib/plugins/mediaservice/libgstcamerabin.so
+37c9de01551a91449ff7a58abcbcd497  usr/lib/plugins/mediaservice/libgstmediacapture.so
+3a8795cb3b35e7c6794fb43183831162  usr/lib/plugins/mediaservice/libgstmediaplayer.so
+521f89fef103fb850ceee78591df6352  usr/lib/plugins/playlistformats/libqtmultimedia_m3u.so
+c966b3670194cceec72a8e0520d3aa2d  usr/lib/plugins/video/videonode/libeglvideonode.so
+bb1497cac9ba2bd7ebe0e76ff778481e  usr/lib/plugins/video/videonode/libimx6vivantevideonode.so

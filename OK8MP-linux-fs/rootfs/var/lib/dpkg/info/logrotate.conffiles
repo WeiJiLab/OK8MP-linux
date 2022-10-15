@@ -1,0 +1,4 @@
+/var/lib/logrotate.status
+/etc/logrotate.conf
+/etc/logrotate.d/btmp
+/etc/logrotate.d/wtmp

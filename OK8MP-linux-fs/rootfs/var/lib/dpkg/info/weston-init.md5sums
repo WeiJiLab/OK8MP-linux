@@ -1,0 +1,6 @@
+d10f36f6ff9778c3e24bd08e3eb2de6e  etc/profile.d/weston.sh
+a44c8de0e6465f4afc9d26fd6781f57e  etc/udev/rules.d/71-weston-drm.rules
+c105628f438c0d12702f4d08c622f19c  etc/xdg/weston/weston.ini
+b2af54b10b82096a5facade8454c4834  lib/systemd/system/weston@.service
+0def55ea50f66d95f9743f36ea0d4bc1  lib/systemd/system-preset/98-weston-init.preset
+cc88ff96b73bc7c69f0d725743efd0ca  usr/bin/weston-start

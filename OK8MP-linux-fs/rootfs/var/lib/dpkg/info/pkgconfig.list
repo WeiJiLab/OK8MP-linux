@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/bin
+/usr/bin/aarch64-poky-linux-gnu-pkg-config
+/usr/bin/pkg-config
+/usr/share
+/usr/share/aclocal
+/usr/share/aclocal/pkg.m4

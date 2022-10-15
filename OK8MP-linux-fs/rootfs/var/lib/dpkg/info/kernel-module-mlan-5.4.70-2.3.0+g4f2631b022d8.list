@@ -1,0 +1,12 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/wireless
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/wireless/nxp
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/wireless/nxp/mxm_wifiex
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/wireless/nxp/mxm_wifiex/wlan_src
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/wireless/nxp/mxm_wifiex/wlan_src/mlan.ko

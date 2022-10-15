@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/include
+/usr/include/EGL
+/usr/include/EGL/egl.h
+/usr/include/EGL/eglext.h
+/usr/include/EGL/eglplatform.h
+/usr/include/EGL/eglvivante.h
+/usr/include/KHR
+/usr/include/KHR/khrplatform.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/egl.pc

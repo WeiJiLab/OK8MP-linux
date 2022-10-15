@@ -1,0 +1,4 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  python-config /usr/bin/python3.7m-config-lib

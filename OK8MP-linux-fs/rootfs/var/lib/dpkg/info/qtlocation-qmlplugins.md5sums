@@ -1,0 +1,9 @@
+ccf0d3ee1fcbad21af31479e4edba447  usr/lib/qml/Qt/labs/location/liblocationlabsplugin.so
+a8d82948141248250b912ecc6704cbfd  usr/lib/qml/Qt/labs/location/plugins.qmltypes
+b6a86cbe17f77ce13e92cec338f0cc37  usr/lib/qml/Qt/labs/location/qmldir
+58e2948d9316996d9a2dec552f0088bf  usr/lib/qml/QtLocation/libdeclarative_location.so
+92a741b4b7cf98852c423a5b2a911b92  usr/lib/qml/QtLocation/plugins.qmltypes
+ac7c023bf24e098116a991f8f31fb3fc  usr/lib/qml/QtLocation/qmldir
+4927ea730971e3a94885dea30b3f0fbf  usr/lib/qml/QtPositioning/libdeclarative_positioning.so
+9e8d75c3a0ac4a14819de2d777335cd9  usr/lib/qml/QtPositioning/plugins.qmltypes
+9d381e6e96a1a2dff86e3a36a779b32e  usr/lib/qml/QtPositioning/qmldir

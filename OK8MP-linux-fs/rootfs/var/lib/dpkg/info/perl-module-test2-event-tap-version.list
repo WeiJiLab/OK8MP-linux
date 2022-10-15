@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/Test2
+/usr/lib/perl5/5.30.1/Test2/Event
+/usr/lib/perl5/5.30.1/Test2/Event/TAP
+/usr/lib/perl5/5.30.1/Test2/Event/TAP/Version.pm

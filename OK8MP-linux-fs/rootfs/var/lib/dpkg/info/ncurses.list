@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/bin
+/usr/bin/tput
+/usr/bin/tset
+/usr/share
+/usr/share/tabset
+/usr/share/tabset/std
+/usr/share/tabset/stdcrt
+/usr/share/tabset/vt100
+/usr/share/tabset/vt300

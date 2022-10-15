@@ -1,0 +1,9 @@
+#!/bin/sh
+set -e
+if [ -z "$D" ]; then
+	depmod -a 5.4.70-2.3.0+g4f2631b022d8
+else
+	# image.bbclass will call depmodwrapper after everything is installed,
+	# no need to do it here as well
+	:
+fi

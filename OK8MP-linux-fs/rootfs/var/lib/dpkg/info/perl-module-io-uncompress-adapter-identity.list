@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/IO
+/usr/lib/perl5/5.30.1/IO/Uncompress
+/usr/lib/perl5/5.30.1/IO/Uncompress/Adapter
+/usr/lib/perl5/5.30.1/IO/Uncompress/Adapter/Identity.pm

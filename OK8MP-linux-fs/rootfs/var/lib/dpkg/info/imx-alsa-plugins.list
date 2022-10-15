@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/lib
+/usr/lib/alsa-lib
+/usr/lib/alsa-lib/libasound_module_rate_asrcrate.so
+/usr/lib/alsa-lib/libasound_module_rate_asrcrate_fast.so

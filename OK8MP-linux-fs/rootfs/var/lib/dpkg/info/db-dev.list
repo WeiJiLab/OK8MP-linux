@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/db51
+/usr/include/db51/db.h
+/usr/include/db51/db_cxx.h
+/usr/lib
+/usr/include/db.h
+/usr/include/db_cxx.h
+/usr/lib/libdb.so

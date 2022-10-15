@@ -1,0 +1,6 @@
+d9abc850774a75ba891f166b9d9e485a  etc/udev/mount.blacklist
+fae2cad72ef8c3ab295ecb772469e34a  etc/udev/rules.d/automount.rules
+a125d5533413524c84a22466eca40ce3  etc/udev/rules.d/autonet.rules
+c676f4610e2a3dc5d406a8f5d33f6bf4  etc/udev/rules.d/localextra.rules
+ac1adf4830ea01c1433eef445ca3fc4e  etc/udev/scripts/mount.sh
+4f74d7b31b0d392a6c85333055cad9ad  etc/udev/scripts/network.sh

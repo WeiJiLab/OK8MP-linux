@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/find.findutils
+/usr/bin/locate
+/usr/bin/updatedb
+/usr/bin/xargs.findutils
+/usr/libexec
+/usr/libexec/bigram
+/usr/libexec/code
+/usr/libexec/frcode
+/var

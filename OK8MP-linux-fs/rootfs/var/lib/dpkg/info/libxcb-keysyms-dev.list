@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/include
+/usr/include/xcb
+/usr/include/xcb/xcb_keysyms.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xcb-keysyms.pc
+/usr/lib/libxcb-keysyms.so

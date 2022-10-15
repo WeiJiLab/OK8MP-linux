@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/bin
+/usr/bin/lsusb.usbutils
+/usr/bin/usb-devices
+/usr/bin/usbhid-dump

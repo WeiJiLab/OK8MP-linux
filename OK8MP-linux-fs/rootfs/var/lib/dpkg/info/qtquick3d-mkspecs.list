@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/mkspecs
+/usr/lib/mkspecs/modules
+/usr/lib/mkspecs/modules/qt_lib_quick3d.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3d_private.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3dassetimport.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3dassetimport_private.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3drender.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3drender_private.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3druntimerender.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3druntimerender_private.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3dutils.pri
+/usr/lib/mkspecs/modules/qt_lib_quick3dutils_private.pri

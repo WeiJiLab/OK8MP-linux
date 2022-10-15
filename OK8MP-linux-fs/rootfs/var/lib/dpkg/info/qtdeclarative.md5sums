@@ -1,0 +1,15 @@
+0ec12b3b6cc052a4be70aa48d98a6616  usr/lib/libQt5Qml.so.5.15.0
+4161f2760a2cf40d8462d79761b96614  usr/lib/libQt5QmlModels.so.5.15.0
+dce6f55ee8924e079893536ecfb46fc6  usr/lib/libQt5QmlWorkerScript.so.5.15.0
+d97be28a9981f82b57f327d2d2fcce32  usr/lib/libQt5Quick.so.5.15.0
+41b0b08bad58d0223388ef92b812fc8e  usr/lib/libQt5QuickParticles.so.5.15.0
+a9c128b4407eeb7c238895e31c4da31e  usr/lib/libQt5QuickShapes.so.5.15.0
+8aeac923e8b53c98e6fdeb10f1805aa1  usr/lib/libQt5QuickTest.so.5.15.0
+6292a5185bfe1bcb37451b52b042d8b7  usr/lib/libQt5QuickWidgets.so.5.15.0
+e10e8f562ce4ecdcf148abea99dd6fb2  usr/lib/metatypes/qt5qml_metatypes.json
+759d65d0211e5badbcd42d633cc26a65  usr/lib/metatypes/qt5qmlmodels_metatypes.json
+366d6f4aa546f08992402bd85898b8a8  usr/lib/metatypes/qt5qmlworkerscript_metatypes.json
+8ae7c54ac0a1665516029fa8de1e0460  usr/lib/metatypes/qt5quick_metatypes.json
+dce04d36dc02b53f4dc1a6ecac239fdf  usr/lib/metatypes/qt5quickparticles_metatypes.json
+ee7299b2d29e1429bee7caba74b34f50  usr/lib/metatypes/qt5quickshapes_metatypes.json
+63b76b2d887d8d416f6b8ceb8be985ec  usr/lib/metatypes/qt5quicktest_metatypes.json

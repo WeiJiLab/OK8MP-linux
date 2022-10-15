@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/bin
+/usr/bin/attr
+/usr/bin/getfattr
+/usr/bin/setfattr.attr

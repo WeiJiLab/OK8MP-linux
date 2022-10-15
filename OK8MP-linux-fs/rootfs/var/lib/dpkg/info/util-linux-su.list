@@ -1,0 +1,6 @@
+/.
+/bin
+/bin/su.util-linux
+/etc
+/etc/pam.d
+/etc/pam.d/su-l

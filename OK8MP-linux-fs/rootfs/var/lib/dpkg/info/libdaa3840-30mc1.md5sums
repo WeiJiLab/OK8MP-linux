@@ -1,0 +1,6 @@
+96cd1affa7b86bd9187c5cb8d5cbb9bb  opt/imx8-isp/bin/DAA3840_30MC_1080P.xml
+f9d559bd6d85583107902972d82039b1  opt/imx8-isp/bin/DAA3840_30MC_4K.xml
+15e9846cd47053865d8729632e84e88c  opt/imx8-isp/bin/daA3840_30mc.drv
+0977772692e27c215bb40f7e01835625  opt/imx8-isp/bin/dewarp_config/daA3840_30mc_1080P.json
+6690596c569dfd7266976276edad04fc  opt/imx8-isp/bin/dewarp_config/daA3840_30mc_4K.json
+60f2feb6c0f275768265b3f2573d3a1d  usr/lib/libdaA3840_30mc.so.1.0.0

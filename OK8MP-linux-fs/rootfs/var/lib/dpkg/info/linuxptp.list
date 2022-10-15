@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/bin
+/usr/bin/hwstamp_ctl
+/usr/bin/phc2sys
+/usr/bin/pmc
+/usr/bin/ptp4l

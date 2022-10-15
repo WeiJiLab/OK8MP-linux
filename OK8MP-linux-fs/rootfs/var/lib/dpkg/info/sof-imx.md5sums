@@ -1,0 +1,15 @@
+fd657dd51ae75c41d3daa1e14fd749e5  lib/firmware/imx/sof/sof-imx8.ldc
+e71ba218823ae0608312dd5a5e741048  lib/firmware/imx/sof/sof-imx8.ri
+eedbb88c6eb1dc2abb3d8aef0c93235a  lib/firmware/imx/sof/sof-imx8m.ldc
+110b882760ccf20e4d6de25b5c99c398  lib/firmware/imx/sof/sof-imx8m.ri
+fd657dd51ae75c41d3daa1e14fd749e5  lib/firmware/imx/sof/sof-imx8x.ldc
+a19b5d2856a795ae2b6867da81141a68  lib/firmware/imx/sof/sof-imx8x.ri
+85b38623e9fc1e0d1e3f670969aeaa2d  lib/firmware/imx/sof-tplg/sof-imx8-cs42888-mixer.tplg
+d00c80e8deed8b28cdeef5b33248437d  lib/firmware/imx/sof-tplg/sof-imx8-keyword-detect.tplg
+b50fa342853473d613f0857408566f46  lib/firmware/imx/sof-tplg/sof-imx8-wm8960-mixer.tplg
+909c004a0c03dde1cf4bb9adbeec0357  lib/firmware/imx/sof-tplg/sof-imx8mp-wm8960-mixer.tplg
+ca1e367eb5a6d5fc6ba5834a41088d33  lib/firmware/imx/sof-tplg/sof-imx8mp-wm8960.tplg
+2b3c805407c6e1472213de2127c37cde  lib/firmware/imx/sof-tplg/sof-imx8qxp-cs42888.tplg
+8e464a045e8caf1456f97a686c432234  lib/firmware/imx/sof-tplg/sof-imx8qxp-nocodec-sai.tplg
+e80f89dac4fe0fd9fffdde307ff57fb2  lib/firmware/imx/sof-tplg/sof-imx8qxp-nocodec.tplg
+d8820ef3875ddc24e8c40c289b648965  lib/firmware/imx/sof-tplg/sof-imx8qxp-wm8960.tplg

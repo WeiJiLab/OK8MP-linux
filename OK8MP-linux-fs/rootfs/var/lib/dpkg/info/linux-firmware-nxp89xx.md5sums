@@ -1,0 +1,7 @@
+4e95520c37ddb8b2e041bfb5df5f2dd4  lib/firmware/nxp/ed_mac_ctrl_V3_8987.conf
+5d0f6ade3139e263707d0bdb36784482  lib/firmware/nxp/ed_mac_ctrl_V3_8997.conf
+8ac9f8afe67e58a9e15b5cb216cbae25  lib/firmware/nxp/pcieuart8997_combo_v4.bin
+fd7dd0075ed06260eaf0477a5ea5105b  lib/firmware/nxp/sdiouart8987_combo_v0.bin
+8804ac90a2252bff876e3bb97d8d60d4  lib/firmware/nxp/txpwrlimit_cfg_8987.conf
+6704ad5f9dc067fe52b8fbf0451b80f2  lib/firmware/nxp/txpwrlimit_cfg_8997.conf
+af937aa948d6780c3dc68fac183870e2  lib/firmware/nxp/wifi_mod_para.conf

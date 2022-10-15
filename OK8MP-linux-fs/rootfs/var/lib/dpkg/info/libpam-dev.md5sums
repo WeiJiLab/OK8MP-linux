@@ -1,0 +1,10 @@
+b66e06f9d75dd78e17adc8832a8c2a97  usr/include/security/_pam_compat.h
+e629f0c762ec1e9629aa98f0ebd5ac65  usr/include/security/_pam_macros.h
+00a22ca57ddfafc4a2236ed8068aecc9  usr/include/security/_pam_types.h
+5654ba2c27c120e6c200db22036e33ed  usr/include/security/pam_appl.h
+1d0244949a3e361c25beef500342a78f  usr/include/security/pam_client.h
+6a290dc284ddc6e354bc13ade0ddb39a  usr/include/security/pam_ext.h
+d76e6a4d11339396351280880826acc2  usr/include/security/pam_filter.h
+b176b944fa3f25665e1d5ceba5bbb821  usr/include/security/pam_misc.h
+29559afcb0b59937b80860cd39c977f2  usr/include/security/pam_modules.h
+91cac838e2be54b3029d38fd717033bf  usr/include/security/pam_modutil.h

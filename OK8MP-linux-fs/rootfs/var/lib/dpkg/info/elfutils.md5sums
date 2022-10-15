@@ -1,0 +1,11 @@
+69e8913214474027cd4bca0ebd1aa3bc  usr/bin/eu-ar
+f127b70d45729998300784fe3138ca98  usr/bin/eu-elfclassify
+71ab92d8be3e3d1e9b5e752c1d92a361  usr/bin/eu-elfcmp
+b845061295e94eca56129fbeaca1d6bd  usr/bin/eu-elfcompress
+25f9c3d2c80e0327b0ecfaa0e8e75fde  usr/bin/eu-elflint
+ef4077ce0c5c8de594f1a1838c53ee76  usr/bin/eu-findtextrel
+02d1f97e533f09ff8b449911ea219010  usr/bin/eu-make-debug-archive
+6c1adccf02a0b2cb6e016af4d84a1986  usr/bin/eu-ranlib
+7029fbe062468f3f807b3cf0965a6ed2  usr/bin/eu-stack
+18292feeafb09f0d825de1c96bf98bab  usr/bin/eu-strings
+3e87f867a2aae1b64c2bfdb0b9e9b055  usr/bin/eu-unstrip

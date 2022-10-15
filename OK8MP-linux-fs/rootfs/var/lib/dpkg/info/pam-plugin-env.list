@@ -1,0 +1,4 @@
+/.
+/lib
+/lib/security
+/lib/security/pam_env.so

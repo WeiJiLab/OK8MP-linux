@@ -1,0 +1,9 @@
+626e8b25a3a3d33ad99595e3311213ad  usr/share/vulkan/registry/cgenerator.py
+f874b8174e84b42ddce7403167585049  usr/share/vulkan/registry/conventions.py
+87fa14039fa33094255a145c10608ef8  usr/share/vulkan/registry/generator.py
+038366a999d2e4110007fe70242d0f3b  usr/share/vulkan/registry/genvk.py
+d8f10f92542c52580165aca1508c1886  usr/share/vulkan/registry/reg.py
+41c02bfbe898f801453869e475f1d88a  usr/share/vulkan/registry/spec_tools/util.py
+a04acd80bf660cb7bed9e9af9d647726  usr/share/vulkan/registry/validusage.json
+0545d326261d351f5d7cb58b0ce8d0cf  usr/share/vulkan/registry/vk.xml
+bf8385afcbeb91bb36f1b2e26fec586d  usr/share/vulkan/registry/vkconventions.py

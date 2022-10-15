@@ -1,0 +1,8 @@
+d6a298fa80d2468565594061c486821f  usr/lib/gstreamer-1.0/libgstaiurdemux.so
+02e43e0778861ef8978141ff38b1e2c1  usr/lib/gstreamer-1.0/libgstbeepdec.so
+8a798602b48de36b6821d3eb695859c1  usr/lib/gstreamer-1.0/libgstimxcompositor.so
+fb4ba4af5eb266e3bfb479ce9731b0c6  usr/lib/gstreamer-1.0/libgstimxvideoconvert.so
+f703740f7b57878a81d3e42e1aea3cc2  usr/lib/gstreamer-1.0/libgstvpu.so
+a60ce047a5e71609d65c6f83f3610c41  usr/share/aiur_registry_1.0.arm.cf
+7a8cdcdc4ca8ea843a325f1b7f91178d  usr/share/beep_registry_1.0.arm.cf
+a18fd28b6213cde128ee75998cb10a58  usr/share/imx-gst1.0-plugin/1.0/opencv_haarcascades/haarcascade_frontalface_old_format.xml

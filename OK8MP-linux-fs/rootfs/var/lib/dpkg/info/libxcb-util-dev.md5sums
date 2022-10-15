@@ -1,0 +1,8 @@
+03582c79970264f63fc3df5f1e011ae3  usr/include/xcb/xcb_atom.h
+6bb8146eadebc485b92e5baffe397ee3  usr/include/xcb/xcb_aux.h
+b77b64ebca413909e79c2dc7e4e3ac98  usr/include/xcb/xcb_event.h
+da094aca0221374266bfa7857779a95c  usr/include/xcb/xcb_util.h
+481dd8c732a9613267378e12163060ad  usr/lib/pkgconfig/xcb-atom.pc
+a870663ce072739794b6ebf484f799f6  usr/lib/pkgconfig/xcb-aux.pc
+922b96f64507e4cc870c260bd4ecc58a  usr/lib/pkgconfig/xcb-event.pc
+91fe36a6bf3f113822a4e25af1d5fe7d  usr/lib/pkgconfig/xcb-util.pc

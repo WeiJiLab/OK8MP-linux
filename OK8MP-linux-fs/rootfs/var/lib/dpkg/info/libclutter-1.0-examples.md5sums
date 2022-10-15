@@ -1,0 +1,17 @@
+9a2ef638c5eaa8b90c3aa6868f45dd9c  usr/lib/clutter/examples/actor-model
+ceb5187de411591093eae1cb7abf7812  usr/lib/clutter/examples/basic-actor
+955b845180bc312a74b832a504bd9bbe  usr/lib/clutter/examples/bin-layout
+f4c5cacbbe98d4372374981812046ca4  usr/lib/clutter/examples/box-layout
+dceaaa60e487106735bd1b248216fbea  usr/lib/clutter/examples/canvas
+faae7719ccf53fb4ac5136872db1ef7d  usr/lib/clutter/examples/constraints
+1521fbd18ca4d07c79622c8525a3f460  usr/lib/clutter/examples/drag-action
+f34e74720f1c5ba8715e62fd36a736e4  usr/lib/clutter/examples/drop-action
+4609708d1ad79abce1eb43cc1b059581  usr/lib/clutter/examples/easing-modes
+6cb2027735aa683c9ad50403c319af5b  usr/lib/clutter/examples/flow-layout
+6cba9d2354b31312abab686cf0a17647  usr/lib/clutter/examples/grid-layout
+2055dfa233966c0c66b261bd2773367c  usr/lib/clutter/examples/image-content
+163dfaec5a03eda91d1786195f86f5ce  usr/lib/clutter/examples/layout-manager
+85569c7f5eee8eda4d5170a51d9f4392  usr/lib/clutter/examples/pan-action
+30db1fbd3a35896eeed359c7b1d442cb  usr/lib/clutter/examples/rounded-rectangle
+6004c0df36b00500c4fa4ffe80d0a8ef  usr/lib/clutter/examples/scroll-actor
+1b0ffe91b7c6c3b7ef112e33bd75316c  usr/lib/clutter/examples/threads

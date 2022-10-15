@@ -1,0 +1,2 @@
+dbb73817dc7530be06b7b71992df4216  usr/lib/xorg/modules/input/libinput_drv.so
+ef41bb6c6cddb67348a15d524e27766b  usr/share/X11/xorg.conf.d/40-libinput.conf

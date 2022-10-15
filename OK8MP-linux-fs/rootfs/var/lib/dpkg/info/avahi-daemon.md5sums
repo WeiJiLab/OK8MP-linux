@@ -1,0 +1,9 @@
+8d4be860ead4cacc2ba5f77e7fadb11d  etc/avahi/avahi-daemon.conf
+186990ae1edac95a88dbef6a36a07716  etc/avahi/hosts
+163993eb22784027158571332a17b215  etc/dbus-1/system.d/avahi-dbus.conf
+fc755814f5e52693a0483ab4f5494830  lib/systemd/system/avahi-daemon.service
+dcc6f6817f33310c13a3184acb2e4eda  lib/systemd/system/avahi-daemon.socket
+767681e8f8fd9d30bbc591ea61dee953  lib/systemd/system-preset/98-avahi-daemon.preset
+bc0b66ef94545580a4bf5045555ec585  usr/sbin/avahi-daemon
+873fb846057c8ab75d47ac09cc988639  usr/share/avahi/avahi-service.dtd
+6a1acb8d41a04bb03d30f0bbdd85b16b  usr/share/dbus-1/system-services/org.freedesktop.Avahi.service

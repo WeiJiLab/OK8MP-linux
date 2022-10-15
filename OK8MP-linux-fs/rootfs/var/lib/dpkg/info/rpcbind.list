@@ -1,0 +1,15 @@
+/.
+/etc
+/etc/rpcbind.conf
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/rpcbind.service
+/lib/systemd/system/rpcbind.socket
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-rpcbind.preset
+/usr
+/usr/bin
+/usr/bin/rpcinfo
+/usr/sbin
+/usr/sbin/rpcbind

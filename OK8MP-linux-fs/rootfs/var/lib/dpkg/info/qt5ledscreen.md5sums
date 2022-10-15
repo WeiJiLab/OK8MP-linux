@@ -1,0 +1,13 @@
+fe07f4a0be40fe88f8c7ceaca63a28b5  usr/share/qt5ledscreen-1.0/README.txt
+3d085cf29a2a3c2f9da5add1e84f6f5a  usr/share/qt5ledscreen-1.0/example_billboard.qml
+962d13beddf9fb26bea5a2e2734d5915  usr/share/qt5ledscreen-1.0/example_combo.qml
+fd3ca2b1d361ba6398770e29cb49c42b  usr/share/qt5ledscreen-1.0/example_hello.qml
+fca449157dab15b1c3d791c6c0ede3b0  usr/share/qt5ledscreen-1.0/images/background2.png
+46bddce93940697ec13ae08d824dfb13  usr/share/qt5ledscreen-1.0/images/billboard.png
+52f38d9a7720c1fd93e05ec48790fb99  usr/share/qt5ledscreen-1.0/images/logo1.png
+77e9a116e61e134562d38a749d1dabd4  usr/share/qt5ledscreen-1.0/images/logo2.png
+9e5775d9dfa3b2b921fa1a4d30048a28  usr/share/qt5ledscreen-1.0/images/logo3.png
+7a9646999101b8225ebff9a7ccdd019e  usr/share/qt5ledscreen-1.0/images/reflection.png
+25e7d2997c62518ada0cbc132d3c8ddb  usr/share/qt5ledscreen-1.0/ledscreencomponent/LedScreen.qml
+5f0429ac42edd1aab791367971e6504b  usr/share/qt5ledscreen-1.0/ledscreencomponent/images/led_off.png
+ec1b83c73f8acd391ab18b9aaca03226  usr/share/qt5ledscreen-1.0/ledscreencomponent/images/led_on.png

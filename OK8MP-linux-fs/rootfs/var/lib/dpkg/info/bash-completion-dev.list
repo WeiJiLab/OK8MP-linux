@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/share
+/usr/share/cmake
+/usr/share/cmake/bash-completion
+/usr/share/cmake/bash-completion/bash-completion-config-version.cmake
+/usr/share/cmake/bash-completion/bash-completion-config.cmake
+/usr/share/pkgconfig
+/usr/share/pkgconfig/bash-completion.pc

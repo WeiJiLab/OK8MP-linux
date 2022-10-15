@@ -1,0 +1,9 @@
+/.
+/unit_tests
+/unit_tests/VPU
+/unit_tests/VPU/hantro
+/unit_tests/VPU/hantro/vc8000e_h264enc
+/unit_tests/VPU/hantro/vc8000e_hevcenc
+/usr
+/usr/lib
+/usr/lib/libhantro_vc8000e.so.1

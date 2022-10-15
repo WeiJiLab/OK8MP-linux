@@ -1,0 +1,7 @@
+/.
+/opt
+/opt/dart-bcon-mipi
+/opt/dart-bcon-mipi/lib
+/opt/dart-bcon-mipi/lib/basler-daA2500-60mci-imx8mp.cti
+/opt/dart-bcon-mipi/lib/basler-daA3840-30mc-vvcam-imx8mp.cti
+/opt/dart-bcon-mipi/lib/basler-daA4200-30mci-imx8mp.cti

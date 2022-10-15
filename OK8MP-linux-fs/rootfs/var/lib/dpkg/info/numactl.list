@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/bin
+/usr/bin/memhog
+/usr/bin/migratepages
+/usr/bin/migspeed
+/usr/bin/numactl
+/usr/bin/numademo
+/usr/bin/numastat
+/usr/lib
+/usr/lib/libnuma.so.1.0.0
+/usr/lib/libnuma.so.1

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/libexec
+/usr/libexec/mc
+/usr/libexec/mc/extfs.d
+/usr/libexec/mc/extfs.d/a+
+/usr/libexec/mc/extfs.d/apt+
+/usr/libexec/mc/extfs.d/deb
+/usr/libexec/mc/extfs.d/deba
+/usr/libexec/mc/extfs.d/debd
+/usr/libexec/mc/extfs.d/dpkg+
+/usr/libexec/mc/extfs.d/mailfs
+/usr/libexec/mc/extfs.d/patchfs
+/usr/libexec/mc/extfs.d/rpms+
+/usr/libexec/mc/extfs.d/ulib
+/usr/libexec/mc/extfs.d/uzip

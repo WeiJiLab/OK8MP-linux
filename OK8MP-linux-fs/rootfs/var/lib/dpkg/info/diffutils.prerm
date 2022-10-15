@@ -1,0 +1,5 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  diff /usr/bin/diff.diffutils
+	update-alternatives --remove  cmp /usr/bin/cmp.diffutils

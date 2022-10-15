@@ -1,0 +1,11 @@
+ad016a6c2fae7efd7358d3d4d5c86458  lib/systemd/system/alsa-restore.service
+6ef404fac5a9bb5f605114fd71a66447  lib/systemd/system/alsa-state.service
+eda73c697e00c5f0394429047d949cf6  lib/udev/rules.d/90-alsa-restore.rules
+0fe72162e991c0aa3422c8902b611a0c  usr/sbin/alsactl
+897306b2f40bf7f1366aaf80001ddc8e  usr/share/alsa/init/00main
+6cb822c5baa87c0112813be59ad7ff67  usr/share/alsa/init/ca0106
+84b05375889f2213644e3ac24820c5c4  usr/share/alsa/init/default
+11eeee86df9bfb1edcd2f5ac558ed871  usr/share/alsa/init/hda
+1aefd1542930af5f60dfd687685896d8  usr/share/alsa/init/help
+cfd25aeec5652fae1e7148eaf49666ce  usr/share/alsa/init/info
+2ba852ea108988355e997fd7f485b15e  usr/share/alsa/init/test

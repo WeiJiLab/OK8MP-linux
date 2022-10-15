@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/usb
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/net/usb/ax88179_178a.ko

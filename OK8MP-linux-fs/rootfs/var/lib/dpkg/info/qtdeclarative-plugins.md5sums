@@ -1,0 +1,12 @@
+4b010e9e4f1dc099893becfe76df6dfe  usr/lib/plugins/qmltooling/libqmldbg_debugger.so
+962c60994ce04b7acc175022393fd568  usr/lib/plugins/qmltooling/libqmldbg_inspector.so
+0f1a7d279da07bd887a7e6fa7ac862e9  usr/lib/plugins/qmltooling/libqmldbg_local.so
+ae8a5bdb4ce1a7bd8e8f2bc5c2aa1725  usr/lib/plugins/qmltooling/libqmldbg_messages.so
+3e2b271d4e9c6978eace461b99209980  usr/lib/plugins/qmltooling/libqmldbg_native.so
+467a6ed3f026eb228a7ebd9186e49c8f  usr/lib/plugins/qmltooling/libqmldbg_nativedebugger.so
+b04873fe666c486cd0881cb69d7ff8e9  usr/lib/plugins/qmltooling/libqmldbg_preview.so
+0ba8c5c84e7cb0e87627dfaef118de27  usr/lib/plugins/qmltooling/libqmldbg_profiler.so
+7e18bd8cd1040e912d9ca35315c510d5  usr/lib/plugins/qmltooling/libqmldbg_quickprofiler.so
+2df80dc64a19c70940a2eb23af178bf5  usr/lib/plugins/qmltooling/libqmldbg_server.so
+de94b6f46b6ec32c8f69a3d8f8ffe0b2  usr/lib/plugins/qmltooling/libqmldbg_tcp.so
+ebab5551f076d8e17afc02b48476fcf3  usr/lib/plugins/scenegraph/libqsgopenvgbackend.so

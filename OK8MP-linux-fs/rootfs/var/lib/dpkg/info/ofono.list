@@ -1,0 +1,16 @@
+/.
+/etc
+/etc/dbus-1
+/etc/dbus-1/system.d
+/etc/dbus-1/system.d/ofono.conf
+/etc/ofono
+/etc/ofono/phonesim.conf
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/ofono.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-ofono.preset
+/usr
+/usr/sbin
+/usr/sbin/ofonod

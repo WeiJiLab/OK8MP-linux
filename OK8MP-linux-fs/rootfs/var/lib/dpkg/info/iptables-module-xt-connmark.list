@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/lib
+/usr/lib/xtables
+/usr/lib/xtables/libxt_CONNMARK.so
+/usr/lib/xtables/libxt_connmark.so

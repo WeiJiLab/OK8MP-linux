@@ -1,0 +1,3 @@
+938c2a7635ae52672ac90346edad1d01  usr/lib/imx-mm/audio-codec/wrap/lib_wbamrd_wrap_arm_elinux.so.1
+b29b76ba2ec39b29781d5d1eafc1bef3  usr/lib/lib_wb_amr_dec_arm_elinux.so.2
+f099871624738e773a694cc33b764a6d  usr/lib/lib_wb_amr_enc_arm_elinux.so.2

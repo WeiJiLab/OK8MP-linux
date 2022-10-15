@@ -1,0 +1,4 @@
+734b3cef25e2c06171ac6446fa71b407  usr/bin/hwstamp_ctl
+9934f8a163002ea714622c4995fb48fc  usr/bin/phc2sys
+93297846d82ae2f7e0be393dfb371404  usr/bin/pmc
+bd7793a271be53bbe00f919395104f2a  usr/bin/ptp4l

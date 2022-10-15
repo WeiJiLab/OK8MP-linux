@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/GLES3
+/usr/include/GLES3/gl3.h
+/usr/include/GLES3/gl31.h
+/usr/include/GLES3/gl3ext.h
+/usr/include/GLES3/gl3platform.h
+/usr/include/GLES3/gl3rename.h
+/usr/include/GLES3/gl3unname.h

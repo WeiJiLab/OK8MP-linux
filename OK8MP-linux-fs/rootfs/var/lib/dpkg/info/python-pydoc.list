@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/bin
+/usr/bin/pydoc
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/pydoc.py
+/usr/lib/python2.7/pydoc.pyc
+/usr/lib/python2.7/pydoc_data
+/usr/lib/python2.7/pydoc_data/__init__.py
+/usr/lib/python2.7/pydoc_data/__init__.pyc
+/usr/lib/python2.7/pydoc_data/topics.py
+/usr/lib/python2.7/pydoc_data/topics.pyc

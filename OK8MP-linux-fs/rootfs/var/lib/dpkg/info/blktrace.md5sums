@@ -1,0 +1,11 @@
+91107cbe2cf81333a09b54b15ac64bf6  usr/bin/blkiomon
+67aa4a6168d82045068521d8084cc997  usr/bin/blkparse
+ea19e265691989351d90c67d288fbd08  usr/bin/blkrawverify
+863785414f65867f0d4588fb12c81012  usr/bin/blktrace
+2c6df1c3ffe42652bfb7068b3b0418e9  usr/bin/bno_plot.py
+3d5b40e324ddedf49598fdeb6f20bd23  usr/bin/btrace
+ef26eecdd38c42b4eb5ecb678d04054f  usr/bin/btrecord
+9b225e1b654b54038a6726925461c270  usr/bin/btreplay
+512f195c694823ef0999f17c99d6d0dc  usr/bin/btt
+e87c102f8516684f23f15594eb376c7e  usr/bin/iowatcher
+60504d918b2f7d38879cc46a8c03f54e  usr/bin/verify_blkparse

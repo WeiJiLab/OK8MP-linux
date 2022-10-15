@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/include
+/usr/include/VG
+/usr/include/VG/openvg.h
+/usr/include/VG/vgext.h
+/usr/include/VG/vgplatform.h
+/usr/include/VG/vgrename.h
+/usr/include/VG/vgu.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/vg.pc

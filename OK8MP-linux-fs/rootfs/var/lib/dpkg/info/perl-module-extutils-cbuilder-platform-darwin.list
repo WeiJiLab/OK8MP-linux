@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/ExtUtils
+/usr/lib/perl5/5.30.1/ExtUtils/CBuilder
+/usr/lib/perl5/5.30.1/ExtUtils/CBuilder/Platform
+/usr/lib/perl5/5.30.1/ExtUtils/CBuilder/Platform/darwin.pm

@@ -1,0 +1,16 @@
+e319534dc5dee7b37482acd12881100d  usr/libexec/mc/fish/README.fish
+08849f2c02f7746f5b9d6c68b125580d  usr/libexec/mc/fish/append
+c2c8588df4adf8f128c094c09280027d  usr/libexec/mc/fish/chmod
+07bb8cc381f291c7055bdd910dfed769  usr/libexec/mc/fish/chown
+e689b926535d36eb253ada4f8ead9c88  usr/libexec/mc/fish/fexists
+4ae4f5c449eceba1f72dfaafcf7eb2d9  usr/libexec/mc/fish/get
+117380c3f67761aab670613e4a79e1d1  usr/libexec/mc/fish/hardlink
+cbb68e40bdd2c6f99caa2d83cf9d6919  usr/libexec/mc/fish/info
+2479ad61db0e7bc57cc214d443a96358  usr/libexec/mc/fish/ln
+9847751df17aa2dcbb5cc742565cd1eb  usr/libexec/mc/fish/ls
+13eb78e14aeb5536d5d9dc79d9bc9be4  usr/libexec/mc/fish/mkdir
+192da6e572693e064f94bf321483e8f2  usr/libexec/mc/fish/mv
+7a2c7cd66523a7149647d9bea2b58b4e  usr/libexec/mc/fish/rmdir
+cc3a7065fcda327ea14df25d65a6a80d  usr/libexec/mc/fish/send
+3eb4214254f5f603f24c0d1be50a02b9  usr/libexec/mc/fish/unlink
+c46b3c56dea3d715c747bb4124e04199  usr/libexec/mc/fish/utime

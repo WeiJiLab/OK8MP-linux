@@ -1,0 +1,4 @@
+2c2f11d2d6c67e23919ddebeef5d3cbf  usr/include/xcb/xcb_bitops.h
+be2e5b4df6317157b9875b78f6e4ba73  usr/include/xcb/xcb_image.h
+521d9e72784d3367c5992ea353241cbb  usr/include/xcb/xcb_pixel.h
+ac0b97701e3af0c9cba7e937c2cd2179  usr/lib/pkgconfig/xcb-image.pc

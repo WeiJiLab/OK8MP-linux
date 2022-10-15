@@ -1,0 +1,10 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/pci
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/pci/endpoint
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/pci/endpoint/functions
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/drivers/pci/endpoint/functions/imx_mic_epf.ko

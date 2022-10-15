@@ -1,0 +1,11 @@
+d1e5210820da83da09adc923c208a106  usr/include/libiptc/ipt_kernel_headers.h
+4460c1a3a99887e14bacdc51eeb4519d  usr/include/libiptc/libip6tc.h
+0bd11ad9323794753b5766663f872a48  usr/include/libiptc/libiptc.h
+47751e16c3235c55fd343ecdfdfacc2c  usr/include/libiptc/libxtc.h
+6284e00f7fd5efd9242c05734300bb44  usr/include/libiptc/xtcshared.h
+c4051c0d4a93e103a3403ac3e7321153  usr/include/xtables-version.h
+fa387c5b7a53bbf040fb1ac41086dab9  usr/include/xtables.h
+94310bb4f569855dc0bd972c883903ff  usr/lib/pkgconfig/libip4tc.pc
+04d62c124f2763f1134edd4be687234b  usr/lib/pkgconfig/libip6tc.pc
+398c98f2d5cecd0600744b01396e21fe  usr/lib/pkgconfig/libiptc.pc
+78cf123a9d7d396b8d3cff4e48eb0d00  usr/lib/pkgconfig/xtables.pc

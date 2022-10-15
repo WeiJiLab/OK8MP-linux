@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/imx-mm
+/usr/lib/imx-mm/audio-codec
+/usr/lib/imx-mm/audio-codec/wrap
+/usr/lib/imx-mm/audio-codec/wrap/lib_vorbisd_wrap_arm_elinux.so.3
+/usr/lib/lib_oggvorbis_dec_arm_elinux.so.2

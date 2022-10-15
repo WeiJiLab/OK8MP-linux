@@ -1,0 +1,17 @@
+5ff31c4a5583617401cb5db252779045  usr/bin/cec-compliance
+a4addf034b964403cf4cd1066afe1ae3  usr/bin/cec-ctl
+cf813621aaf1183a43c4997648064fad  usr/bin/cec-follower
+9714837751508c77ecf0b2f212ea8e54  usr/bin/cx18-ctl
+78042b6b24ae63b0b6f0f8f9de70aea3  usr/bin/decode_tm6000
+0a9ef3e8d28b5021efcc0bb402750c80  usr/bin/dvb-fe-tool
+07ad7b4876fe174e044d2093209d4430  usr/bin/dvb-format-convert
+8f1d651069d324e538f091f21f75b97e  usr/bin/dvbv5-daemon
+0a6b56f2db421ca45bf2a3360fb39f2c  usr/bin/dvbv5-scan
+51c8a93c94d21ca9916d701e88e8c57a  usr/bin/dvbv5-zap
+a4d3723a7e41f2a9927b058ca6e9163f  usr/bin/ir-ctl
+f5c3349ca6fa0aa8288662062439ad42  usr/bin/ivtv-ctl
+faf87c58b6c5652f313d0337e2d0d311  usr/bin/rds-ctl
+0f6a00be2c60d0147ea84cc0c76c9586  usr/bin/v4l2-compliance
+c06233371b82534bf6f8ff9e4e409997  usr/bin/v4l2-ctl
+4e912f78ecda4144fcf9978c26e2499c  usr/bin/v4l2-sysfs-path
+a2e4ae8ce7d36e4c467b11a0b9451ee5  usr/sbin/v4l2-dbg

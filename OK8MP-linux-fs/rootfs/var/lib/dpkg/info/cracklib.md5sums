@@ -1,0 +1,11 @@
+e6ccd258ec7cf4303fe7a8ebb1071302  lib/libcrack.so.2.9.0
+61f544c276ff380649b88903158c29b9  usr/sbin/cracklib-check
+cd4f2da2c9314cf9c3a31a75bbcdeba5  usr/sbin/cracklib-format
+942804b718a49bf84aebc9fb9d038509  usr/sbin/cracklib-packer
+fb98615bb78289b2026561b035606050  usr/sbin/cracklib-unpacker
+792935f723195b9b3756ab76a59c0f86  usr/sbin/create-cracklib-dict
+45521452a27ccca0cd547537e3847b7f  usr/share/cracklib/cracklib-small
+f0f2d2181cac822f0c4d4675fb1ff38c  usr/share/cracklib/cracklib.magic
+30990c64f6cca6d25ea91b91a5f974a0  usr/share/cracklib/pw_dict.hwm
+fb33baad4e53ac91e297008d06a5b297  usr/share/cracklib/pw_dict.pwd
+416f5c78c8ac28712abf4c42729c6bc5  usr/share/cracklib/pw_dict.pwi

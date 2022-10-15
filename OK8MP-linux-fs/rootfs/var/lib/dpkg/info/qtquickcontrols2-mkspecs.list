@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/mkspecs
+/usr/lib/mkspecs/modules
+/usr/lib/mkspecs/modules/qt_lib_quickcontrols2.pri
+/usr/lib/mkspecs/modules/qt_lib_quickcontrols2_private.pri
+/usr/lib/mkspecs/modules/qt_lib_quicktemplates2.pri
+/usr/lib/mkspecs/modules/qt_lib_quicktemplates2_private.pri

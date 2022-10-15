@@ -1,0 +1,12 @@
+/.
+/etc
+/etc/udev
+/etc/udev/mount.blacklist
+/etc/udev/mount.blacklist.d
+/etc/udev/rules.d
+/etc/udev/rules.d/automount.rules
+/etc/udev/rules.d/autonet.rules
+/etc/udev/rules.d/localextra.rules
+/etc/udev/scripts
+/etc/udev/scripts/mount.sh
+/etc/udev/scripts/network.sh

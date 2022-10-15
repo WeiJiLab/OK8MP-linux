@@ -1,0 +1,4 @@
+6a5d843846096bb0d68eb6d63524e0e9  usr/bin/cpufreq-aperf
+cda80d2682ec4c7f7cd654d71ee4d1fc  usr/bin/cpufreq-info
+848fac62aedc99033a038faf7a3cf5a2  usr/bin/cpufreq-set
+e5f6f1570e68d72ebd5041c66459e7b4  usr/lib/libcpufreq.so.0.0.0

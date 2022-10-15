@@ -1,0 +1,6 @@
+cb1a955900f7831d69764654fb2f5d41  etc/rpcbind.conf
+8bfbb08c24e56b876d17859f6ce92033  lib/systemd/system/rpcbind.service
+e5a205cd7402fedaf74a744b2a22f0ad  lib/systemd/system/rpcbind.socket
+e7bb0a3d3f5910048b528dc953986084  lib/systemd/system-preset/98-rpcbind.preset
+31c64542a6026d41d7e4d59b6d39de90  usr/bin/rpcinfo
+7c31a2d3b71006f6538784cb85ddade8  usr/sbin/rpcbind

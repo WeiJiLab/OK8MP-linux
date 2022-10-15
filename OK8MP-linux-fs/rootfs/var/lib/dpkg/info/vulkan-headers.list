@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/vulkan
+/usr/share/vulkan/registry
+/usr/share/vulkan/registry/cgenerator.py
+/usr/share/vulkan/registry/conventions.py
+/usr/share/vulkan/registry/generator.py
+/usr/share/vulkan/registry/genvk.py
+/usr/share/vulkan/registry/reg.py
+/usr/share/vulkan/registry/spec_tools
+/usr/share/vulkan/registry/spec_tools/util.py
+/usr/share/vulkan/registry/validusage.json
+/usr/share/vulkan/registry/vk.xml
+/usr/share/vulkan/registry/vkconventions.py

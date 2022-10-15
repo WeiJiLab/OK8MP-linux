@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/vulkan
+/etc/vulkan/implicit_layer.d
+/etc/vulkan/implicit_layer.d/renderdoc_capture.json
+/usr
+/usr/bin
+/usr/bin/renderdoccmd
+/usr/lib
+/usr/lib/librenderdoc.so

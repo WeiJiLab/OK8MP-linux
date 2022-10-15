@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/bin
+/usr/bin/gnu-configize
+/usr/share
+/usr/share/gnu-config
+/usr/share/gnu-config/config.guess
+/usr/share/gnu-config/config.sub

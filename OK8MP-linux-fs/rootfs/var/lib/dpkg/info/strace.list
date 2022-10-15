@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/bin
+/usr/bin/strace
+/usr/bin/strace-log-merge

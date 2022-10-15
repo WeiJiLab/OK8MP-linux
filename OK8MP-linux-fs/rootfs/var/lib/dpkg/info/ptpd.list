@@ -1,0 +1,13 @@
+/.
+/etc
+/etc/default
+/etc/default/ptpd
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/ptpd.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-ptpd.preset
+/usr
+/usr/bin
+/usr/bin/ptpd2

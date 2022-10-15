@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/lib
+/usr/lib/xtables
+/usr/lib/xtables/libip6t_REDIRECT.so

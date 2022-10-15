@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/cvtsudoers
+/usr/bin/sudoreplay
+/usr/sbin
+/usr/sbin/sudo_logsrvd
+/usr/sbin/sudo_sendlog
+/usr/sbin/visudo

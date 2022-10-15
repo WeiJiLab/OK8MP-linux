@@ -1,0 +1,11 @@
+704b8235328f46de004e8cc58c8f0f7e  usr/bin/drmdevice
+ca474f62c8d27d800de1d5ad63378b0f  usr/bin/etnaviv_2d_test
+3028fb02d9623ca0d81a69f8a8bd4d6c  usr/bin/etnaviv_bo_cache_test
+3a4f73dbac2ea6f37c69c3ae9f9d5073  usr/bin/etnaviv_cmd_stream_test
+002921a594c5309ed4f8b214010e239d  usr/bin/kms-steal-crtc
+8ac39febda812342288b5ce0814e007d  usr/bin/kms-universal-planes
+880bb342b5bdfc034bd3b22b93c91142  usr/bin/kmstest
+c220a81929e63ae14cfa85833739624b  usr/bin/modeprint
+3f2058483693d195ddbf2b86e0c3f560  usr/bin/modetest
+23143115610ee73f6607591ff5364c98  usr/bin/proptest
+227b39a340996bb1e6e8c7693b454727  usr/bin/vbltest

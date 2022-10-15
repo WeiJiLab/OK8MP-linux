@@ -1,0 +1,7 @@
+eb6df8f181da5e498afcf6142aebb834  usr/bin/memhog
+99e8578be55ef73164cf90d12f95e79e  usr/bin/migratepages
+4f64b121c0d8acb9cf86ee6252abbf42  usr/bin/migspeed
+26838964a17853268fbf85f2458b6460  usr/bin/numactl
+e02846c04f2481b3ca4677df74b52b32  usr/bin/numademo
+580daee2fe0f260dba4700a8d3a1dc1a  usr/bin/numastat
+cc5f6de4df68b6eb02c5dd0b090004fc  usr/lib/libnuma.so.1.0.0

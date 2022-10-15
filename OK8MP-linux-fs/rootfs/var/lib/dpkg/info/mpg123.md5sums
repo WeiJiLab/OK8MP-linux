@@ -1,0 +1,8 @@
+8d835849405806c1619516733518ef80  usr/bin/mpg123
+8ee9565d9d90f027bccbad98be5d6985  usr/bin/mpg123-id3dump
+3ad8590d157288b0cb90f5237ae0cf20  usr/bin/mpg123-strip
+2f6f1bb2fad22907978801c67fc9fd4f  usr/bin/out123
+0f622bb0c938f239f2c462c51cf7fe7a  usr/lib/libmpg123.so.0.44.9
+2c45133dd726cc80ac90f043590f6290  usr/lib/libout123.so.0.2.2
+5abd6a84071a2c09b90bfc006653126f  usr/lib/mpg123/output_dummy.so
+380c6ac6444fc78874d7ee8de0093c16  usr/lib/mpg123/output_pulse.so

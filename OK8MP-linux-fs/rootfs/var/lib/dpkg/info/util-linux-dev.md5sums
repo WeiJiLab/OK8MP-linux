@@ -1,0 +1,10 @@
+ee8a5f921e947e75712602a6d4e0fa8d  usr/include/blkid/blkid.h
+aaff7d2fa0e17789854a13bb454ee2fb  usr/include/libfdisk/libfdisk.h
+843774d7193a42b141e60511360c0744  usr/include/libmount/libmount.h
+03f7b10ec8a10c8023e058dadb5fb8ad  usr/include/libsmartcols/libsmartcols.h
+ed9e98b98b54deb2302063e329cdabaf  usr/include/uuid/uuid.h
+b4ff7759f76e565df5545c23291845f1  usr/lib/pkgconfig/blkid.pc
+19203f7fd626a679ae203b9d7abd564b  usr/lib/pkgconfig/fdisk.pc
+475701cbe2e5b96bff6ea859fdc3a0ee  usr/lib/pkgconfig/mount.pc
+e6c9d7084a17dd2c2f90c96db927c513  usr/lib/pkgconfig/smartcols.pc
+9f64b77d05abaab4e6a81ab5af9fef7b  usr/lib/pkgconfig/uuid.pc

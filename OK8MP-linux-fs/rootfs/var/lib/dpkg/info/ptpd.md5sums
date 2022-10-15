@@ -1,0 +1,4 @@
+fb77b4f0c6ff841dd59b87c65b83dcb3  etc/default/ptpd
+7c5ffdac2c87193e2a2e386c7c89ca2e  lib/systemd/system/ptpd.service
+5132fe4b485ac7ec28240026101869bb  lib/systemd/system-preset/98-ptpd.preset
+ffcf52950eafe5a5b02fc6bb5cbbcd01  usr/bin/ptpd2

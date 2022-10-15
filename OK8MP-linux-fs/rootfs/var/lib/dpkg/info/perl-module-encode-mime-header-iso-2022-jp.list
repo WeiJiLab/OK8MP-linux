@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/Encode
+/usr/lib/perl5/5.30.1/aarch64-linux/Encode/MIME
+/usr/lib/perl5/5.30.1/aarch64-linux/Encode/MIME/Header
+/usr/lib/perl5/5.30.1/aarch64-linux/Encode/MIME/Header/ISO_2022_JP.pm

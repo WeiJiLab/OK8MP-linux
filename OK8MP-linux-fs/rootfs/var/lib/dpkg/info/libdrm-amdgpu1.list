@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libdrm_amdgpu.so.1.0.0
+/usr/share
+/usr/share/libdrm
+/usr/share/libdrm/amdgpu.ids
+/usr/lib/libdrm_amdgpu.so.1

@@ -1,0 +1,4 @@
+24717be33f1335cc802c757fb4c78eb3  usr/include/X11/SM/SM.h
+0691aa5164b6d668922be777ccf62711  usr/include/X11/SM/SMlib.h
+790e74e8e382e86e956ec4e848d45196  usr/include/X11/SM/SMproto.h
+99b63b41799fe768c611ef80321147df  usr/lib/pkgconfig/sm.pc

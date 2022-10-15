@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+	if [ ! -e "$D/lib/modules/5.4.70-2.3.0+g4f2631b022d8" ]; then
+		mkdir -p $D/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+	fi
+	if [ -n "$D" ]; then
+		depmodwrapper -a -b $D 5.4.70-2.3.0+g4f2631b022d8
+	else
+		depmod -a 5.4.70-2.3.0+g4f2631b022d8
+	fi

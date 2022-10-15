@@ -1,0 +1,7 @@
+9bd0d80d8e271d7ac125083fce721cdf  usr/bin/intltool-extract
+29edbd582de8f95a0c0e0452b0993299  usr/bin/intltool-merge
+1336140c554d5bf9d9ad53268bc63c9a  usr/bin/intltool-prepare
+0f0cf5aaa7d3979932107e005b9e2a34  usr/bin/intltool-update
+9ae518940f4a285a0c803c92ddad88e5  usr/bin/intltoolize
+37e58fa1c3ba00bb97c625d1a57b98e9  usr/share/aclocal/intltool.m4
+a7b3d4e230c47ec28658a010d3b13810  usr/share/intltool/Makefile.in.in

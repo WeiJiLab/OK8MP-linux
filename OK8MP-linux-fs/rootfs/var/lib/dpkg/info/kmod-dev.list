@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/include
+/usr/include/libkmod.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libkmod.pc
+/usr/lib/libkmod.so

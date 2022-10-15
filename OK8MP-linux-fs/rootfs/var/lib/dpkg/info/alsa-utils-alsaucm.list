@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/udev
+/lib/udev/rules.d
+/lib/udev/rules.d/89-alsa-ucm.rules
+/usr
+/usr/bin
+/usr/bin/alsaucm

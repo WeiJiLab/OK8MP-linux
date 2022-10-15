@@ -1,0 +1,7 @@
+ab1a675ae9a0b81b5f5716e5398a14ce  usr/lib/qml/QtWayland/Client/TextureSharing/libqwaylandtexturesharing.so
+4391a09f4f280b910a6f705efb228602  usr/lib/qml/QtWayland/Client/TextureSharing/qmldir
+7ee185b9f9aad14b18858a51e12344fb  usr/lib/qml/QtWayland/Compositor/TextureSharingExtension/libqwaylandtexturesharingextension.so
+b19e2997a7ab85d31db1ea9dade49801  usr/lib/qml/QtWayland/Compositor/TextureSharingExtension/qmldir
+3b730cba0d02658ca679df3d8c49027f  usr/lib/qml/QtWayland/Compositor/libqwaylandcompositorplugin.so
+5c7a071f7f26e40dec0ca771ae922e89  usr/lib/qml/QtWayland/Compositor/plugins.qmltypes
+94381a9de5276b816ae64c7ff33afd39  usr/lib/qml/QtWayland/Compositor/qmldir

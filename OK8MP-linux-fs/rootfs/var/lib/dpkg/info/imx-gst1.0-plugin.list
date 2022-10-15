@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/gstreamer-1.0
+/usr/lib/gstreamer-1.0/libgstaiurdemux.so
+/usr/lib/gstreamer-1.0/libgstbeepdec.so
+/usr/lib/gstreamer-1.0/libgstimxcompositor.so
+/usr/lib/gstreamer-1.0/libgstimxvideoconvert.so
+/usr/lib/gstreamer-1.0/libgstvpu.so
+/usr/share
+/usr/share/aiur_registry_1.0.arm.cf
+/usr/share/beep_registry_1.0.arm.cf
+/usr/share/imx-gst1.0-plugin
+/usr/share/imx-gst1.0-plugin/1.0
+/usr/share/imx-gst1.0-plugin/1.0/opencv_haarcascades
+/usr/share/imx-gst1.0-plugin/1.0/opencv_haarcascades/haarcascade_frontalface_old_format.xml

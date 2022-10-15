@@ -1,0 +1,7 @@
+85ce6ca0820b83ca600634980bf69eff  usr/include/jconfig.h
+9b7898fe417de269b8be88b10df908b0  usr/include/jerror.h
+7873b0a4457d21a746e23c16fc16127d  usr/include/jmorecfg.h
+49b0829e2b84fcd4a0cee359199499cb  usr/include/jpeglib.h
+b5b3a4a233ea12d2041ad1d1c971e6a0  usr/include/turbojpeg.h
+acd0b41a01f5f78a5f260502d9c56986  usr/lib/pkgconfig/libjpeg.pc
+00bb368a55cbaef7ec7d89fc5e6af15b  usr/lib/pkgconfig/libturbojpeg.pc

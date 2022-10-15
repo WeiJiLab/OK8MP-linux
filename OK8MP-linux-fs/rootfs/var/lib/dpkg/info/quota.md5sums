@@ -1,0 +1,16 @@
+0b4a5484e590fea00f9949d6e298a659  etc/quotagrpadmins
+3936f478ebc3ed2862bddbebbfbda9d9  etc/quotatab
+8fa9c34a1e222a3f143c2b06cdcc61ab  etc/warnquota.conf
+f17c619ddce325b17778a9a5b8591b29  usr/bin/quota
+ec2111a7c137afa50330c43db777797b  usr/bin/quotasync
+68d8be5be75f0e24307b1c8eab46718a  usr/sbin/convertquota
+3ded3e0b3bd56aae6b5ddf08f551d751  usr/sbin/edquota
+4439725fe48be1c06701923b53953e1c  usr/sbin/quota_nld
+945a8a59ea768a712968fd83b856a973  usr/sbin/quotacheck
+e7d2833dc054c76aceb75b883fd144f3  usr/sbin/quotaon
+b6baa7f902b67af3d475bc9d310e3573  usr/sbin/quotastats
+d843c6ef057249881ca8c673ba5814c8  usr/sbin/repquota
+a9b3a6f3810e06e7a62c707894089628  usr/sbin/rpc.rquotad
+cdec01f8c239e2baee4d7302d522e799  usr/sbin/setquota
+8d8d915296f4f9c5584519412f8169c7  usr/sbin/warnquota
+aeecb3357e3025f0e1a6d5257d27859c  usr/sbin/xqmstats

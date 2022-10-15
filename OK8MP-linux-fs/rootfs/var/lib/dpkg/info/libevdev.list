@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/libevdev-tweak-device
+/usr/bin/mouse-dpi-tool
+/usr/bin/touchpad-edge-detector
+/usr/lib
+/usr/lib/libevdev.so.2.3.0
+/usr/lib/libevdev.so.2

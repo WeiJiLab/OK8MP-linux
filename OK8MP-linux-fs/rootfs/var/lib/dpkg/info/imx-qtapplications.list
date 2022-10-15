@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/share
+/usr/share/qt5
+/usr/share/qt5/examples
+/usr/share/qt5/examples/multimedia
+/usr/share/qt5/examples/multimedia/qmlgltest
+/usr/share/qt5/examples/multimedia/qmlgltest/qmlglsrccamera
+/usr/share/qt5/examples/multimedia/qmlgltest/test_qmlglsink
+/usr/share/qt5/examples/multimedia/qmlgltest/test_qmlglsrc

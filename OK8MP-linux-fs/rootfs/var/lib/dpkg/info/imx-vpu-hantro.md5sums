@@ -1,0 +1,13 @@
+62c356f3db12f627efca7cd0dcdadbf0  unit_tests/VPU/hantro/ax170dec
+1cd5a70e865e44e317af6e6065a25b0f  unit_tests/VPU/hantro/g2dec
+c051574d67bc6ec430b3265edc6261a7  unit_tests/VPU/hantro/hx170dec
+d0e6f5066827e9ed9c5c01e87371dab5  unit_tests/VPU/hantro/jx170dec
+c30f406294658b73c567d0f6d7fd0705  unit_tests/VPU/hantro/m2x170dec
+852e5dadd57002933ee45ce06a4f3a8f  unit_tests/VPU/hantro/mx170dec
+62f48a7dcae182e437f900195fd90d20  unit_tests/VPU/hantro/vp6dec
+4928083a4788b2ebde0690961446cff1  unit_tests/VPU/hantro/vp8x170dec
+d6a307b0b5463fb287bd8166e8f0eeea  unit_tests/VPU/hantro/vx170dec
+2ba9e551077d5d13518cd8329778e9d8  usr/lib/libcodec.so.1
+33b8007e91eb1fbe43df75871686c055  usr/lib/libcommon_g1.so.1
+7461050eaa5cfe7f95f395d2fd624b32  usr/lib/libg1.so.1
+74b6022f6714fc758f92f22ee9a1776c  usr/lib/libhantro.so.1

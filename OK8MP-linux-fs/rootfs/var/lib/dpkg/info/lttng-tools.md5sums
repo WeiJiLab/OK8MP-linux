@@ -1,0 +1,9 @@
+d61a55cdb52b402e9ac85e68d6d6d6d2  lib/systemd/system/lttng-sessiond.service
+3a21b5d69c352ec2478688729626db01  lib/systemd/system-preset/98-lttng-tools.preset
+ab724de6d48a04f30284e26046c77630  usr/bin/lttng
+c4d67f5e8610ce3a0d2bd0b8acdc1353  usr/bin/lttng-crash
+72e0dba0e7f68cec03c523528de22bec  usr/bin/lttng-relayd
+67d171ea6f82d3001c6b4c57ceb56d5e  usr/bin/lttng-sessiond
+64470e7abe3f35a2610c540f74d0627b  usr/lib/liblttng-ctl.so.0.0.0
+d7313789a4dfb57e0d45face30928605  usr/lib/lttng/libexec/lttng-consumerd
+45ae1d911dc272fb81a15f95a337c25f  usr/share/xml/lttng/session.xsd

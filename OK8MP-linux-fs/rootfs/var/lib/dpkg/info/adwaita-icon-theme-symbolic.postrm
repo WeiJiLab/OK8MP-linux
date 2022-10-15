@@ -1,0 +1,14 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+if [ "x$D" != "x" ]; then
+	$INTERCEPT_DIR/postinst_intercept update_gtk_icon_cache adwaita-icon-theme-symbolic \
+		mlprefix= \
+		libdir=/usr/lib
+else
+	for icondir in /usr/share/icons/* ; do
+		if [ -d $icondir ] ; then
+			gtk-update-icon-cache -qt  $icondir
+		fi
+	done
+fi

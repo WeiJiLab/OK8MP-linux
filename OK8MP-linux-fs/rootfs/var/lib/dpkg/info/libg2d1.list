@@ -1,0 +1,11 @@
+/.
+/opt
+/opt/g2d_samples
+/opt/g2d_samples/g2d_multiblit_test
+/opt/g2d_samples/g2d_overlay_test
+/opt/g2d_samples/g2d_test
+/usr
+/usr/lib
+/usr/lib/libg2d-viv.so.1.6.0
+/usr/lib/libg2d.so
+/usr/lib/libg2d.so.1

@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/sbin
+/usr/sbin/blkdeactivate
+/usr/sbin/fsadm
+/usr/sbin/lvmdump

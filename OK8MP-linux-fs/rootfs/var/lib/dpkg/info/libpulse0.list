@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/pulse
+/etc/pulse/client.conf
+/usr
+/usr/lib
+/usr/lib/libpulse.so.0.20.3
+/usr/lib/libpulse.so.0

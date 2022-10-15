@@ -1,0 +1,6 @@
+53d045ddc63e2bb0ae835c8b777c5c1a  etc/dbus-1/system.d/org.neard.conf
+1f4c375ebb73164c583a80be77a452ea  lib/systemd/system/neard.service
+d9bd2849138b9a009eb6480a42ca2117  lib/systemd/system-preset/98-neard.preset
+8a719b4d4a2c538de546151cbad5de03  usr/bin/nciattach
+9defa443069c42d9e010e4cd83742422  usr/bin/nfctool
+0a174df8ed4bbcc8872fd165498ae147  usr/libexec/nfc/neard

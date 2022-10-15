@@ -1,0 +1,16 @@
+/.
+/bin
+/bin/keyctl
+/etc
+/etc/request-key.conf
+/etc/request-key.d
+/sbin
+/sbin/key.dns_resolver
+/sbin/request-key
+/usr
+/usr/lib
+/usr/lib/libkeyutils.so.1.8
+/usr/share
+/usr/share/keyutils
+/usr/share/keyutils/request-key-debug.sh
+/usr/lib/libkeyutils.so.1

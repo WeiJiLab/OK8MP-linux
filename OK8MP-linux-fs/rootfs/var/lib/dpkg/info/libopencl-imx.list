@@ -1,0 +1,14 @@
+/.
+/etc
+/etc/OpenCL
+/etc/OpenCL/vendors
+/etc/OpenCL/vendors/Vivante.icd
+/usr
+/usr/lib
+/usr/lib/libOpenCL.so.1.2.0
+/usr/lib/libOpenCL.so.3.0.0
+/usr/lib/libOpenCL.so
+/usr/lib/libOpenCL.so.1
+/usr/lib/libOpenCL.so.1.2
+/usr/lib/libOpenCL.so.3
+/usr/lib/libOpenCL.so.3.0

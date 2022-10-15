@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/bin
+/usr/bin/event_rpcgen.py
+/usr/lib
+/usr/lib/libevent-2.1.so.7.0.0
+/usr/lib/libevent_core-2.1.so.7.0.0
+/usr/lib/libevent_extra-2.1.so.7.0.0
+/usr/lib/libevent_pthreads-2.1.so.7.0.0
+/usr/lib/libevent-2.1.so.7
+/usr/lib/libevent_core-2.1.so.7
+/usr/lib/libevent_extra-2.1.so.7
+/usr/lib/libevent_pthreads-2.1.so.7

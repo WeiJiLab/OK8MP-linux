@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/plugins
+/usr/lib/plugins/sensorgestures
+/usr/lib/plugins/sensorgestures/libqtsensorgestures_plugin.so
+/usr/lib/plugins/sensorgestures/libqtsensorgestures_shakeplugin.so
+/usr/lib/plugins/sensors
+/usr/lib/plugins/sensors/libqtsensors_generic.so
+/usr/lib/plugins/sensors/libqtsensors_iio-sensor-proxy.so
+/usr/lib/plugins/sensors/libqtsensors_linuxsys.so

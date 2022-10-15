@@ -1,0 +1,15 @@
+4ae6498533ca5ff4e55df85774c20086  usr/bin/async_cipher
+f6f132448da411f892af0a94c04f22c1  usr/bin/async_hmac
+f85f31c918d617ca460442d0390a3e77  usr/bin/async_speed
+d5eaee9faa80dd5988c26dab90280c89  usr/bin/cipher
+0c7f4d344e20292be075035d45059713  usr/bin/cipher-aead
+90039210ffaefb72f1faa08ab9950149  usr/bin/cipher-aead-srtp
+75f5c577ed9dd8ffc212ac789c325b5b  usr/bin/cipher-gcm
+bba7a33a86c990dfe6f799ff15b76be4  usr/bin/cipher_comp
+41f0fb5429d235ba392fd4b8f51f840a  usr/bin/fullspeed
+5233d7f47852e99cbbdc01c6fca34854  usr/bin/hash_comp
+2b1440c495fad91c9964bb7e2f67b195  usr/bin/hashcrypt_speed
+072b996925d88f9ad0a9504dd7fa14d8  usr/bin/hmac
+20747900762d046445b30a49727ee4b1  usr/bin/hmac_comp
+209b89a09fea8f011375408509756a6e  usr/bin/sha_speed
+79deac7adce0a18261d8e2ad080ded7f  usr/bin/speed

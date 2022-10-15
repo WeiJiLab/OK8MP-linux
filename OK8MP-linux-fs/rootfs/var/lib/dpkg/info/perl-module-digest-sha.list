@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/Digest
+/usr/lib/perl5/5.30.1/aarch64-linux/Digest/SHA.pm
+/usr/lib/perl5/5.30.1/aarch64-linux/auto
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Digest
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Digest/SHA
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Digest/SHA/SHA.so

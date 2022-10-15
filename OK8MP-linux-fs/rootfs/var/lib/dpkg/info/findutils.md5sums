@@ -1,0 +1,7 @@
+626f3649f28f2fa58628cc041172a370  usr/bin/find.findutils
+5eba0619727e41c186724943ff217273  usr/bin/locate
+47da4d2b00e82431ae311bb92321e618  usr/bin/updatedb
+4d3bc7213256d554c9e29ad5e5450198  usr/bin/xargs.findutils
+3303a0f296b19e43c548fd45fffdb4e2  usr/libexec/bigram
+922a16e4381a267b893470dfef193d73  usr/libexec/code
+85e3a82dbc950f02d8151afc50f9d58e  usr/libexec/frcode

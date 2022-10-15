@@ -1,0 +1,10 @@
+/.
+/etc
+/etc/systemd
+/etc/systemd/system
+/etc/systemd/system/getty.target.wants
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/serial-getty@.service
+/etc/systemd/system/getty.target.wants/serial-getty@ttymxc1.service

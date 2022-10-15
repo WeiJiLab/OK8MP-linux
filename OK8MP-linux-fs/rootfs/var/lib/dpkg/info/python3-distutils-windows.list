@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.7
+/usr/lib/python3.7/distutils
+/usr/lib/python3.7/distutils/command
+/usr/lib/python3.7/distutils/command/wininst-10.0-amd64.exe
+/usr/lib/python3.7/distutils/command/wininst-10.0.exe
+/usr/lib/python3.7/distutils/command/wininst-14.0-amd64.exe
+/usr/lib/python3.7/distutils/command/wininst-14.0.exe
+/usr/lib/python3.7/distutils/command/wininst-6.0.exe
+/usr/lib/python3.7/distutils/command/wininst-7.1.exe
+/usr/lib/python3.7/distutils/command/wininst-8.0.exe
+/usr/lib/python3.7/distutils/command/wininst-9.0-amd64.exe
+/usr/lib/python3.7/distutils/command/wininst-9.0.exe

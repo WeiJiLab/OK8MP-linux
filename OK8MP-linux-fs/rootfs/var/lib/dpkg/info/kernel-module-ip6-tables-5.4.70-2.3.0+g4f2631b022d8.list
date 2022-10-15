@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/net
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/net/ipv6
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/net/ipv6/netfilter
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/net/ipv6/netfilter/ip6_tables.ko

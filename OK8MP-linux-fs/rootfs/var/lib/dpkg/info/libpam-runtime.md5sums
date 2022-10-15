@@ -1,0 +1,15 @@
+9927451d164985d72866489e90830ee7  etc/default/volatiles/99_pam
+12929713c1d0db85c1f7db163f475d62  etc/environment
+9d50c7dda6ba8b6a8422fd4453722324  etc/pam.d/common-account
+69cf68857b21d93054461246c51b6960  etc/pam.d/common-auth
+84dd23a3c4ee02db048fce7879fa162e  etc/pam.d/common-password
+c50a38c29d83c5fdf518301e33d216d9  etc/pam.d/common-session
+ca51dc0e2f5b71591fc00a59e1f32db8  etc/pam.d/common-session-noninteractive
+dfd110f4af5c3d38ca5967f789317b40  etc/pam.d/other
+dc21d0fd769d655b311d785670e5c6ae  etc/security/access.conf
+f1e26e8db6f7abd2d697d7dad3422c36  etc/security/group.conf
+0bc96d8cec6f85bd2b60b27483843297  etc/security/limits.conf
+6424c99a62ddf4b7d3ca713bb06ded89  etc/security/namespace.conf
+d9e6a7c85e966427ef23a04ec6c7000f  etc/security/namespace.init
+ddee4a931170dc21b4e0b9bb28e02a7b  etc/security/pam_env.conf
+06e05c6079e839c8833ac7c3abfde192  etc/security/time.conf

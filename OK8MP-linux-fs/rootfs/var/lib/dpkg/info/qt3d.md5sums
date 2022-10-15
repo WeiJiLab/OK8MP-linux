@@ -1,0 +1,12 @@
+f445717e42641a6da0f71c8f77681845  usr/lib/libQt53DAnimation.so.5.15.0
+32c0e83e122d8bd0e2939663aea09a69  usr/lib/libQt53DCore.so.5.15.0
+435f2711b59cff728da2b27499c233f0  usr/lib/libQt53DExtras.so.5.15.0
+5ad64c7e9d0e34b1ed543d608ca23472  usr/lib/libQt53DInput.so.5.15.0
+5abec60a902dadbc843d94be90fcc032  usr/lib/libQt53DLogic.so.5.15.0
+61adb618f3772633057a85bfeb89795f  usr/lib/libQt53DQuick.so.5.15.0
+659f49ac11680c5d381ffb4d05e77b09  usr/lib/libQt53DQuickAnimation.so.5.15.0
+1c2ff702e4042e927e75d96479b1e2a5  usr/lib/libQt53DQuickExtras.so.5.15.0
+2fe1551bc880a317d64dd77f932b0354  usr/lib/libQt53DQuickInput.so.5.15.0
+4a7a8199b3d1da9a65841514fa53dc94  usr/lib/libQt53DQuickRender.so.5.15.0
+654d066f3daa28825d180d4f58281c87  usr/lib/libQt53DQuickScene2D.so.5.15.0
+d4128b531ecd92ca7c6ae854772e46cc  usr/lib/libQt53DRender.so.5.15.0

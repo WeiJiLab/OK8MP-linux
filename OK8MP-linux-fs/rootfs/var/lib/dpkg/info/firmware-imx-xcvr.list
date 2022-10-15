@@ -1,0 +1,6 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/imx
+/lib/firmware/imx/xcvr
+/lib/firmware/imx/xcvr/xcvr-imx8mp.bin

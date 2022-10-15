@@ -1,0 +1,5 @@
+03bc18dd400a5f5910e46598e7f6a4da  lib/firmware/tee-header_v2.bin
+d41d8cd98f00b204e9800998ecf8427e  lib/firmware/tee-pageable_v2.bin
+a16bd6a870eff517cddc8e4e93ccac73  lib/firmware/tee-pager_v2.bin
+a16bd6a870eff517cddc8e4e93ccac73  lib/firmware/tee-raw.bin
+c42b4078c3b9da1868bb65e39660efcb  lib/firmware/tee.bin

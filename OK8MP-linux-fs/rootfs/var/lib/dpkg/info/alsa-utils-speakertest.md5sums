@@ -1,0 +1,11 @@
+17fab7c5ca0f2530996b7f4ae1352d20  usr/bin/speaker-test
+3e1714fbe385fd21c95c75237766055d  usr/share/alsa/speaker-test/sample_map.csv
+916147ce6ced50877c27c5570626a54d  usr/share/sounds/alsa/Front_Center.wav
+31215ca9ec7ddb07343927570604a21f  usr/share/sounds/alsa/Front_Left.wav
+22ffa2e708e1af92f2e21111ebf0c8da  usr/share/sounds/alsa/Front_Right.wav
+82a15bb64a71472ac1352e9ee6bfcf80  usr/share/sounds/alsa/Noise.wav
+f4f15e1d071759f201a089f91c8f2fb6  usr/share/sounds/alsa/Rear_Center.wav
+c86cfb060fc01dc923cac53b7189eee8  usr/share/sounds/alsa/Rear_Left.wav
+b3a26327752d20729edfb1709c80e6e2  usr/share/sounds/alsa/Rear_Right.wav
+61b2bee54ce016bef4934b7e71da13c8  usr/share/sounds/alsa/Side_Left.wav
+cc2f857156dd6a9359a0a0e4c66a8814  usr/share/sounds/alsa/Side_Right.wav

@@ -1,0 +1,4 @@
+ab16df3f352bfb5344ddd5562e1f9e97  usr/include/xcb/xcb_ewmh.h
+5ee7a82ce1537389dede0d8e762fffcc  usr/include/xcb/xcb_icccm.h
+40dfd2d22c9a01aebd1e19db84787ed8  usr/lib/pkgconfig/xcb-ewmh.pc
+2853635c3327c10f31307364a1b6010b  usr/lib/pkgconfig/xcb-icccm.pc

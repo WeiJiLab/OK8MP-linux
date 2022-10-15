@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/include
+/usr/include/GLES2
+/usr/include/GLES2/gl2.h
+/usr/include/GLES2/gl2ext.h
+/usr/include/GLES2/gl2platform.h
+/usr/include/GLES2/gl2rename.h
+/usr/include/GLES2/gl2unname.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/glesv2.pc

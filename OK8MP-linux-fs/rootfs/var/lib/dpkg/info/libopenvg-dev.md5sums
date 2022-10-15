@@ -1,0 +1,6 @@
+bc747c08f6d610808fe7c2123a39b2fa  usr/include/VG/openvg.h
+aac36ec71bb5b96b50adc4c84b7d167d  usr/include/VG/vgext.h
+b6b23a2a0577e31b22ebd954bcc52d43  usr/include/VG/vgplatform.h
+7d8d8a52d86cbf0201dc4ec4931f69fd  usr/include/VG/vgrename.h
+81e3f9987051f95c8c1016e6acda4bd3  usr/include/VG/vgu.h
+dc7815464e083f6a65d069c8206d8264  usr/lib/pkgconfig/vg.pc

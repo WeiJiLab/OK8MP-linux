@@ -1,0 +1,9 @@
+/.
+/lib
+/lib/modules
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/sound
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/sound/soc
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/sound/soc/codecs
+/lib/modules/5.4.70-2.3.0+g4f2631b022d8/kernel/sound/soc/codecs/snd-soc-pcm3168a-i2c.ko

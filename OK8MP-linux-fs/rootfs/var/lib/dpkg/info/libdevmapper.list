@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libdevmapper.so.1.02
+/usr/sbin
+/usr/sbin/dmsetup
+/usr/sbin/dmstats

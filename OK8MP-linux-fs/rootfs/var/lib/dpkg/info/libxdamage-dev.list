@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/Xdamage.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xdamage.pc
+/usr/lib/libXdamage.so

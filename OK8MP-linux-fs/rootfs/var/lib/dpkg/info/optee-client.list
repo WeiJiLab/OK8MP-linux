@@ -1,0 +1,13 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/tee-supplicant.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-optee-client.preset
+/usr
+/usr/bin
+/usr/bin/tee-supplicant
+/usr/lib
+/usr/lib/libteec.so.1.0
+/usr/lib/libteec.so.1

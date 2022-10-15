@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libasan_preinit.o
+/usr/lib/libasan.so

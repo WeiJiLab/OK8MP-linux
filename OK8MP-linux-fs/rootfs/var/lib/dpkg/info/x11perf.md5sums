@@ -1,0 +1,6 @@
+5025db4050152a57a4b894da293db302  usr/bin/x11perf
+f7c61adf8cdd09b48996258d0f1bafaa  usr/bin/x11perfcomp
+6b1526cf0b639c019e4fbf0037446962  usr/lib/X11/x11perfcomp/Xmark
+5c17513edfd89fe56d5874d84851d0a5  usr/lib/X11/x11perfcomp/fillblnk
+49963e691957a6298324ce9373b392ae  usr/lib/X11/x11perfcomp/perfboth
+1025404a6419e34307d1f5818696ee99  usr/lib/X11/x11perfcomp/perfratio

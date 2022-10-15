@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.7
+/usr/lib/python3.7/__pycache__
+/usr/lib/python3.7/__pycache__/asynchat.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/asynchat.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/asynchat.cpython-37.pyc
+/usr/lib/python3.7/__pycache__/asyncore.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/asyncore.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/asyncore.cpython-37.pyc
+/usr/lib/python3.7/__pycache__/smtpd.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/smtpd.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/smtpd.cpython-37.pyc
+/usr/lib/python3.7/asynchat.py
+/usr/lib/python3.7/asyncore.py
+/usr/lib/python3.7/smtpd.py

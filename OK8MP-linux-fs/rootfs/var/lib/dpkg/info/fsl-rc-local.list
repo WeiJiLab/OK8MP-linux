@@ -1,0 +1,5 @@
+/.
+/etc
+/etc/init.d
+/etc/init.d/rc.local
+/etc/rc.local

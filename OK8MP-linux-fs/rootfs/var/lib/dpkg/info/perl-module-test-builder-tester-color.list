@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/Test
+/usr/lib/perl5/5.30.1/Test/Builder
+/usr/lib/perl5/5.30.1/Test/Builder/Tester
+/usr/lib/perl5/5.30.1/Test/Builder/Tester/Color.pm

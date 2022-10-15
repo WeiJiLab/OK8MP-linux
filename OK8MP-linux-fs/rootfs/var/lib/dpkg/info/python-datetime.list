@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/_strptime.py
+/usr/lib/python2.7/_strptime.pyc
+/usr/lib/python2.7/calendar.py
+/usr/lib/python2.7/calendar.pyc
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/lib-dynload/datetime.so

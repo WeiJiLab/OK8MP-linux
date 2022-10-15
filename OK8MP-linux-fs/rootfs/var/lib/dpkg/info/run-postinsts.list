@@ -1,0 +1,11 @@
+/.
+/etc
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/run-postinsts.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-run-postinsts.preset
+/usr
+/usr/sbin
+/usr/sbin/run-postinsts

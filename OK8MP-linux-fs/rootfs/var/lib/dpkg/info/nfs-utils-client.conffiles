@@ -1,0 +1,4 @@
+/var/lib/nfs/etab
+/var/lib/nfs/rmtab
+/var/lib/nfs/statd/state
+/etc/nfsmount.conf

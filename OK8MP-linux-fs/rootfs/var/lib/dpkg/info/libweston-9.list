@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libweston-9
+/usr/lib/libweston-9/drm-backend.so
+/usr/lib/libweston-9/fbdev-backend.so
+/usr/lib/libweston-9/g2d-renderer.so
+/usr/lib/libweston-9/gl-renderer.so
+/usr/lib/libweston-9.so.0.0.0
+/usr/lib/libweston-desktop-9.so.0.0.0
+/usr/lib/libweston-9.so.0
+/usr/lib/libweston-desktop-9.so.0

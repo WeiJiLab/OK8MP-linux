@@ -1,0 +1,12 @@
+359f40195f81f0f94daaa043692ba40f  etc/nfs-utils.conf
+a07d8d8fce03c91ed32b0cd17bd2d547  etc/nfsmount.conf
+1e3d8c8fdaaf1862f9f583a7b0a1ff34  lib/systemd/system/nfs-statd.service
+af122dc5d4aca5492ecf4e1ee092234e  lib/systemd/system-preset/98-nfs-utils-client.preset
+a30fdd9ba8b64f81587eb794bfe11308  usr/sbin/nfsstat
+ab4c760dcd58e2c2094c50c31f4c424a  usr/sbin/rpc.statd
+c551852bc5a606c22d32e7ce309c768b  usr/sbin/showmount
+7064373e8aa4aced9a5b0903f085d222  usr/sbin/sm-notify
+66e3500617b4fd8461a33e2319bbf471  usr/sbin/start-statd
+d41d8cd98f00b204e9800998ecf8427e  var/lib/nfs/etab
+d41d8cd98f00b204e9800998ecf8427e  var/lib/nfs/rmtab
+d41d8cd98f00b204e9800998ecf8427e  var/lib/nfs/statd/state

@@ -1,0 +1,9 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  chvt /usr/bin/chvt.kbd
+	update-alternatives --remove  deallocvt /usr/bin/deallocvt.kbd
+	update-alternatives --remove  fgconsole /usr/bin/fgconsole.kbd
+	update-alternatives --remove  openvt /usr/bin/openvt.kbd
+	update-alternatives --remove  showkey /usr/bin/showkey.kbd
+	update-alternatives --remove  vlock /usr/bin/vlock.kbd

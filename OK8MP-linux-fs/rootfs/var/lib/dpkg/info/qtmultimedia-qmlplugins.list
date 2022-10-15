@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtMultimedia
+/usr/lib/qml/QtMultimedia/Video.qml
+/usr/lib/qml/QtMultimedia/libdeclarative_multimedia.so
+/usr/lib/qml/QtMultimedia/plugins.qmltypes
+/usr/lib/qml/QtMultimedia/qmldir

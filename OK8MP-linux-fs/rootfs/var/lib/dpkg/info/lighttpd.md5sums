@@ -1,0 +1,6 @@
+73ca70b5945d14a69e789764d4b365bc  etc/lighttpd/lighttpd.conf
+c56113c69348e83779262a8ef680ce8e  lib/systemd/system/lighttpd.service
+5870052825c1f6ba853cee1e084871d9  lib/systemd/system-preset/98-lighttpd.preset
+0ed5efe572ba79dc995fb10067054a19  usr/sbin/lighttpd
+92d51f4e702d97c622284ec4b8c605ab  usr/sbin/lighttpd-angel
+5388f60d7695cb57b87c799ee62d20b2  www/pages/index.html

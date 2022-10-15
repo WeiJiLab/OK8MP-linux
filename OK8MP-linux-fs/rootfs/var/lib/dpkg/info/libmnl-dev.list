@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/include
+/usr/include/libmnl
+/usr/include/libmnl/libmnl.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libmnl.pc
+/usr/lib/libmnl.so

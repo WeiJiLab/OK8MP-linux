@@ -1,0 +1,14 @@
+6f4731ca77780f200f7913327fa9f864  bin/gunzip.gzip
+1a7e9365953d5a334de8320bbc996587  bin/gzip.gzip
+6f4731ca77780f200f7913327fa9f864  bin/uncompress
+9b2a0a05018f1c3140b862eacc9eeedc  bin/zcat.gzip
+c8fbdeae9575795c503f75a334be0486  usr/bin/gzexe
+8790411c2ee8974bbb92c5f07cb886f9  usr/bin/zcmp
+fdc3896ef951b7a803d21ea544deccc2  usr/bin/zdiff
+00a56ed99986d72fd5967de74d69470c  usr/bin/zegrep
+997a6cfb1a2b3f88160ffa320d29d735  usr/bin/zfgrep
+141dc56be7c69c5e17bdbbdf9219ef6c  usr/bin/zforce
+3e516d8ab9a3096e9e8c6a77ed134197  usr/bin/zgrep
+c6dcc5322a00a9d5e65d7a53ff40e4fb  usr/bin/zless
+5cddc868d4348a41c2d27c617c4bd265  usr/bin/zmore
+8e4ae5ec90d57460f4cd551b7e50777a  usr/bin/znew

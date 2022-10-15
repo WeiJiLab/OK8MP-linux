@@ -1,0 +1,11 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/nxp
+/lib/firmware/nxp/ed_mac_ctrl_V3_8987.conf
+/lib/firmware/nxp/ed_mac_ctrl_V3_8997.conf
+/lib/firmware/nxp/pcieuart8997_combo_v4.bin
+/lib/firmware/nxp/sdiouart8987_combo_v0.bin
+/lib/firmware/nxp/txpwrlimit_cfg_8987.conf
+/lib/firmware/nxp/txpwrlimit_cfg_8997.conf
+/lib/firmware/nxp/wifi_mod_para.conf

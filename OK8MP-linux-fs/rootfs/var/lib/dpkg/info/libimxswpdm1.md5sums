@@ -1,0 +1,9 @@
+2f0a295bf0dc1b9a01fb716686e9d9f4  usr/bin/imx-mm/imx-sw-pdm
+8c7d30261eb24089a4c0b7b7d369e4ea  usr/lib/libimxswpdm.so.1
+0858ec9c7a80c4a2cf16e4f825a2cc91  usr/share/imx-mm/audio-codec/swpdm/COPYING
+9c53426de6b30edc6b1a1077efddb254  usr/share/imx-mm/audio-codec/swpdm/Makefile
+d41d8cd98f00b204e9800998ecf8427e  usr/share/imx-mm/audio-codec/swpdm/Release_note.txt
+defd0b1076a03f78c7182ae3b8e509c7  usr/share/imx-mm/audio-codec/swpdm/SCR-imx-sw-pdm.txt
+bb825b01b710303253466e0868d6217e  usr/share/imx-mm/audio-codec/swpdm/src/test.c
+b02cb248431dc06e84a7d930f75545d7  usr/share/imx-mm/audio-codec/swpdm/src/wave_func.c
+7a2e9c244d53c1f56ebd9bd7ea255d5d  usr/share/imx-mm/audio-codec/swpdm/src/wave_func.h

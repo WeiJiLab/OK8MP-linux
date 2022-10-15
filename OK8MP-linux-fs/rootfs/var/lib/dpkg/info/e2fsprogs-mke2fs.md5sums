@@ -1,0 +1,5 @@
+12080d34c91e6b39fbe5406c17246a14  etc/mke2fs.conf
+69474190a6708ba3a0a4dadad90ac827  sbin/mke2fs.e2fsprogs
+69474190a6708ba3a0a4dadad90ac827  sbin/mkfs.ext2.e2fsprogs
+69474190a6708ba3a0a4dadad90ac827  sbin/mkfs.ext3
+69474190a6708ba3a0a4dadad90ac827  sbin/mkfs.ext4

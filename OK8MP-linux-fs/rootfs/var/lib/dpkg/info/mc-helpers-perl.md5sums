@@ -1,0 +1,11 @@
+89172b52904ba8e1d09545e6cf4cb0c1  usr/libexec/mc/extfs.d/a+
+ffd525a20b24267dd9d04e834bd56de9  usr/libexec/mc/extfs.d/apt+
+62a1a3fcc168734b307546400d147c08  usr/libexec/mc/extfs.d/deb
+c94613a4d4ab6f2a39d8772784eea5be  usr/libexec/mc/extfs.d/deba
+5d6190f807abb7fe57a8bf7b06341ae2  usr/libexec/mc/extfs.d/debd
+3d4ebcf786df37e1644718ef5c8375de  usr/libexec/mc/extfs.d/dpkg+
+ece79574e1b352a0baf043b80590f6c4  usr/libexec/mc/extfs.d/mailfs
+14ceb5a2779f86f07613fe4bc432237a  usr/libexec/mc/extfs.d/patchfs
+077a7ec93b630a9ba9fcbc2b746ce249  usr/libexec/mc/extfs.d/rpms+
+c024a7ed5e1c14d2f36593c2563029b0  usr/libexec/mc/extfs.d/ulib
+86219b167769226aa84481529414f486  usr/libexec/mc/extfs.d/uzip

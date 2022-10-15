@@ -1,0 +1,7 @@
+9a122b00fc6e1b091fb50f97b9bd7ecd  etc/syslog.conf
+3781fcedb7fe62f90e3c95c59c6e5a94  lib/systemd/system/klogd.service
+6ae5999554aaf0e6030e715278cc0d03  lib/systemd/system/syslogd.service
+1131d1d660dea2737871bbf7732b1527  lib/systemd/system-preset/98-sysklogd.preset
+e5c368444b82705b8bf6b2142c79b4ce  sbin/klogd
+168ba4699b2f62375eb44e98aac8a7b0  sbin/syslogd
+51f53815a794921168b5117f63cb56b3  usr/lib/tmpfiles.d/sysklogd.conf

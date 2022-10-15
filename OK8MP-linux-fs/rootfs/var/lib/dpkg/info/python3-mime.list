@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.7
+/usr/lib/python3.7/__pycache__
+/usr/lib/python3.7/__pycache__/quopri.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/quopri.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/quopri.cpython-37.pyc
+/usr/lib/python3.7/__pycache__/uu.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/uu.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/uu.cpython-37.pyc
+/usr/lib/python3.7/quopri.py
+/usr/lib/python3.7/uu.py

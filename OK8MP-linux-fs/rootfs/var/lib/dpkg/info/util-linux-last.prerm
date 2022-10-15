@@ -1,0 +1,5 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  last /usr/bin/last.util-linux
+	update-alternatives --remove  lastb /usr/bin/lastb.util-linux

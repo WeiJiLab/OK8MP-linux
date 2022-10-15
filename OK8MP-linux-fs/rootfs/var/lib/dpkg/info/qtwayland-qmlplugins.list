@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtWayland
+/usr/lib/qml/QtWayland/Client
+/usr/lib/qml/QtWayland/Client/TextureSharing
+/usr/lib/qml/QtWayland/Client/TextureSharing/libqwaylandtexturesharing.so
+/usr/lib/qml/QtWayland/Client/TextureSharing/qmldir
+/usr/lib/qml/QtWayland/Compositor
+/usr/lib/qml/QtWayland/Compositor/TextureSharingExtension
+/usr/lib/qml/QtWayland/Compositor/TextureSharingExtension/libqwaylandtexturesharingextension.so
+/usr/lib/qml/QtWayland/Compositor/TextureSharingExtension/qmldir
+/usr/lib/qml/QtWayland/Compositor/libqwaylandcompositorplugin.so
+/usr/lib/qml/QtWayland/Compositor/plugins.qmltypes
+/usr/lib/qml/QtWayland/Compositor/qmldir

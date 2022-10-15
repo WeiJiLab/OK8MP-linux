@@ -1,0 +1,8 @@
+d41d8cd98f00b204e9800998ecf8427e  etc/iptables/iptables.rules
+aca7f43a6298d54c7fac2d83064e56f5  lib/systemd/system/iptables.service
+16498c2ebf39168ce9853d3ebfaab261  lib/systemd/system-preset/98-iptables.preset
+3c823dbe0bccc517ae8ae17c522bd522  usr/lib/libip4tc.so.2.0.0
+4d03ac22281218b11378bb4f9883c45a  usr/lib/libip6tc.so.2.0.0
+20c2a6d369af354848c863e19947b4ed  usr/lib/libiptc.so.0.0.0
+f6eaf2cb54964729cfba038235be4948  usr/lib/libxtables.so.12.2.0
+762a25a88684a103daa3d9b5153934c0  usr/sbin/xtables-legacy-multi

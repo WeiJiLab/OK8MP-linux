@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/lib
+/usr/lib/xorg
+/usr/lib/xorg/modules
+/usr/lib/xorg/modules/extensions
+/usr/lib/xorg/modules/extensions/libglx.so

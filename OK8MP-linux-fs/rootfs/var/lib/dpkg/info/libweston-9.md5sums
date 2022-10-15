@@ -1,0 +1,6 @@
+d345d609e4d25ec79e522433c7ab6ca2  usr/lib/libweston-9/drm-backend.so
+211e195b2a30d14723f214539ecd1936  usr/lib/libweston-9/fbdev-backend.so
+94c7af9634b7e50f1558201fe96e1e4c  usr/lib/libweston-9/g2d-renderer.so
+de60a08edab515c988f14a5e84e25e5d  usr/lib/libweston-9/gl-renderer.so
+2de7303cc1d50b4885ad13b6bf44192d  usr/lib/libweston-9.so.0.0.0
+309b6a05305abfb0d2c4de29adbac30b  usr/lib/libweston-desktop-9.so.0.0.0

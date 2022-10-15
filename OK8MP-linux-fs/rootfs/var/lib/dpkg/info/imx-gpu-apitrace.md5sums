@@ -1,0 +1,15 @@
+a3e44d6f6aae4aebc1c64594361922e3  usr/bin/apitrace
+7593204666520e24e3dc137662dfe204  usr/bin/eglretrace
+c4f53db63077021c66150616cbbe1eaf  usr/lib/apitrace/scripts/apitrace.PIXExp
+dee9ba99c5f3455dc2953baa589ca615  usr/lib/apitrace/scripts/convert.py
+b8a83675a2edde2b4973679069405e4c  usr/lib/apitrace/scripts/highlight.py
+0a49d94a287119dc9e58eaee4907f1e8  usr/lib/apitrace/scripts/jsondiff.py
+786ef0bd523dd2765ae49576ebb0086a  usr/lib/apitrace/scripts/jsonextractimages.py
+4b839678e581e54be1f71cc60e1c0954  usr/lib/apitrace/scripts/leaks.py
+0979e4d6a53397a322b91a9146b9baa1  usr/lib/apitrace/scripts/profileshader.py
+26ca1eb0ce1adac02d6c54f9843c6231  usr/lib/apitrace/scripts/retracediff.py
+64e9936b181d9426d978dd69380f3207  usr/lib/apitrace/scripts/snapdiff.py
+a3de8eb79e3ac32259cee994cec1881b  usr/lib/apitrace/scripts/tracecheck.py
+a06f7e38b79f06b724e51e85d3deb824  usr/lib/apitrace/scripts/tracediff.py
+92e6504cbd1deabd07140455eb142d55  usr/lib/apitrace/scripts/unpickle.py
+208f8ea9acccd1b516f4fcac66512ddc  usr/lib/apitrace/wrappers/egltrace.so

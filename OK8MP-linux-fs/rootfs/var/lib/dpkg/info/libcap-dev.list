@@ -1,0 +1,10 @@
+/.
+/lib
+/usr
+/usr/include
+/usr/include/sys
+/usr/include/sys/capability.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libcap.pc
+/lib/libcap.so

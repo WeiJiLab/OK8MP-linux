@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/include
+/usr/include/xkbcommon
+/usr/include/xkbcommon/xkbcommon-compat.h
+/usr/include/xkbcommon/xkbcommon-compose.h
+/usr/include/xkbcommon/xkbcommon-keysyms.h
+/usr/include/xkbcommon/xkbcommon-names.h
+/usr/include/xkbcommon/xkbcommon-x11.h
+/usr/include/xkbcommon/xkbcommon.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xkbcommon-x11.pc
+/usr/lib/pkgconfig/xkbcommon.pc
+/usr/lib/libxkbcommon-x11.so
+/usr/lib/libxkbcommon.so

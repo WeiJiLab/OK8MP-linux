@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/bin
+/usr/bin/onnx_test_runner
+/usr/lib
+/usr/lib/libonnxruntime.so.1.1.2

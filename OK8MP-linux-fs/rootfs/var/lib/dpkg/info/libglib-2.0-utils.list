@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/bin
+/usr/bin/gapplication
+/usr/bin/gdbus
+/usr/bin/gio
+/usr/bin/gio-launch-desktop
+/usr/bin/glib-compile-schemas
+/usr/bin/gobject-query
+/usr/bin/gresource
+/usr/bin/gsettings
+/usr/bin/gtester
+/usr/bin/gtester-report

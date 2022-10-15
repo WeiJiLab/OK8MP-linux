@@ -1,0 +1,6 @@
+6e5662dc683d3a56b17a0404f3e70116  lib/libnss_mdns.so.2
+d8b1fcaf0f872df52dcbd1e1ffc4b869  lib/libnss_mdns4.so.2
+0dfbfb5874ffa4a4858a7f6302e0e71f  lib/libnss_mdns4_minimal.so.2
+0aadcda0dc9bc02849557305e1e8a889  lib/libnss_mdns6.so.2
+0c6b1686f0e963ba5508a2d6987a9db1  lib/libnss_mdns6_minimal.so.2
+e18ef731e67f70d7952301fa35b64c8e  lib/libnss_mdns_minimal.so.2

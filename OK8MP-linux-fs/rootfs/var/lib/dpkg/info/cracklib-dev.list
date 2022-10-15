@@ -1,0 +1,7 @@
+/.
+/lib
+/usr
+/usr/include
+/usr/include/crack.h
+/usr/include/packer.h
+/lib/libcrack.so

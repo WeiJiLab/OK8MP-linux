@@ -1,0 +1,7 @@
+6149976bb672bf9dcb8e0af4c4601f66  usr/lib/plugins/geometryloaders/libdefaultgeometryloader.so
+bb7c0927b635230eb049f9d9ef35b484  usr/lib/plugins/geometryloaders/libgltfgeometryloader.so
+9a22b425c35e9b09fcc0e4fc9608e06b  usr/lib/plugins/renderers/libopenglrenderer.so
+442e7b5d2e365c5f2bee3ab2b1fb2178  usr/lib/plugins/renderplugins/libscene2d.so
+e91c34e880fb44ab29f3716557f2335b  usr/lib/plugins/sceneparsers/libassimpsceneimport.so
+fe9632e4a64cfafa0a2699c8db838970  usr/lib/plugins/sceneparsers/libgltfsceneexport.so
+e16c3d351556068e58760074d8817284  usr/lib/plugins/sceneparsers/libgltfsceneimport.so

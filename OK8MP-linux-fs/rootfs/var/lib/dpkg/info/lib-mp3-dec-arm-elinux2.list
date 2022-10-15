@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/imx-mm
+/usr/lib/imx-mm/audio-codec
+/usr/lib/imx-mm/audio-codec/wrap
+/usr/lib/imx-mm/audio-codec/wrap/lib_mp3d_wrap_arm_elinux.so.3
+/usr/lib/lib_mp3_dec_arm_elinux.so.2

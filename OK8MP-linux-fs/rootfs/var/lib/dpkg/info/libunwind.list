@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libunwind-aarch64.so.8.0.1
+/usr/lib/libunwind-coredump.so.0.0.0
+/usr/lib/libunwind-ptrace.so.0.0.0
+/usr/lib/libunwind-setjmp.so.0.0.0
+/usr/lib/libunwind.so.8.0.1
+/usr/lib/libunwind-aarch64.so.8
+/usr/lib/libunwind-coredump.so.0
+/usr/lib/libunwind-ptrace.so.0
+/usr/lib/libunwind-setjmp.so.0
+/usr/lib/libunwind.so.8

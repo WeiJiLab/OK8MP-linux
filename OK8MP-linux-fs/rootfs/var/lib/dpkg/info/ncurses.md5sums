@@ -1,0 +1,6 @@
+85305c58d7d8969324be333154ff501a  usr/bin/tput
+44ee54bf3b5489a78dd7614764b56312  usr/bin/tset
+0633f2811ab9958deef70a4ceb124d2e  usr/share/tabset/std
+75738443f4560dabbbb5781a43b6076f  usr/share/tabset/stdcrt
+932387cdf8429aba6dd9c6567022829a  usr/share/tabset/vt100
+fd329c87dc8cfd0191c9e9b4c891460b  usr/share/tabset/vt300

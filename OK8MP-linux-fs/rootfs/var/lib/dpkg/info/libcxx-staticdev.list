@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libc++.a
+/usr/lib/libc++abi.a

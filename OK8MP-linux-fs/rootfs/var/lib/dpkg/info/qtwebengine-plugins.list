@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/lib
+/usr/lib/plugins
+/usr/lib/plugins/imageformats
+/usr/lib/plugins/imageformats/libqpdf.so

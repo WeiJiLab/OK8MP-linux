@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/lib
+/usr/lib/xtables
+/usr/lib/xtables/libxt_CT.so
+/usr/lib/xtables/libxt_NOTRACK.so

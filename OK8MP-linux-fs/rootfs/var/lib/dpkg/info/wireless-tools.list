@@ -1,0 +1,7 @@
+/.
+/sbin
+/sbin/iwconfig
+/sbin/iwgetid
+/sbin/iwlist
+/sbin/iwpriv
+/sbin/iwspy

@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libi2c.so.0.1.1
+/usr/sbin
+/usr/sbin/eeprog
+/usr/sbin/i2cdetect.i2c-tools
+/usr/sbin/i2cdump.i2c-tools
+/usr/sbin/i2cget.i2c-tools
+/usr/sbin/i2cset.i2c-tools
+/usr/sbin/i2ctransfer.i2c-tools
+/usr/lib/libi2c.so.0

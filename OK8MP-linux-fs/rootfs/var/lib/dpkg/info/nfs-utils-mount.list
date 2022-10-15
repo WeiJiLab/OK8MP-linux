@@ -1,0 +1,6 @@
+/.
+/sbin
+/sbin/mount.nfs
+/sbin/mount.nfs4
+/sbin/umount.nfs
+/sbin/umount.nfs4

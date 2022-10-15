@@ -1,0 +1,4 @@
+4ba144c18ef00529095f273955bd0a38  lib/firmware/imx8mp_m7_TCM_hello_world.elf
+ca0653501e7b5a83f29868a1b048c5d3  lib/firmware/imx8mp_m7_TCM_rpmsg_lite_pingpong_rtos_linux_remote.elf
+d0c0c75eab83edb518c2b3f71be3dbe2  lib/firmware/imx8mp_m7_TCM_rpmsg_lite_str_echo_rtos.elf
+58ac1e9729bb2f4dc970b61022b98b21  lib/firmware/imx8mp_m7_TCM_sai_low_power_audio.elf

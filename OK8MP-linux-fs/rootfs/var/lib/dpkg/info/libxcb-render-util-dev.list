@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/include
+/usr/include/xcb
+/usr/include/xcb/xcb_renderutil.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xcb-renderutil.pc
+/usr/lib/libxcb-render-util.so

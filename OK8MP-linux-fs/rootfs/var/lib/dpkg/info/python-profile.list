@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/cProfile.py
+/usr/lib/python2.7/cProfile.pyc
+/usr/lib/python2.7/lib-dynload
+/usr/lib/python2.7/lib-dynload/_lsprof.so
+/usr/lib/python2.7/profile.py
+/usr/lib/python2.7/profile.pyc
+/usr/lib/python2.7/pstats.py
+/usr/lib/python2.7/pstats.pyc

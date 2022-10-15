@@ -1,0 +1,16 @@
+/.
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/nfs-mountd.service
+/lib/systemd/system/nfs-server.service
+/lib/systemd/system/sysinit.target.wants
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-nfs-utils.preset
+/usr
+/usr/sbin
+/usr/sbin/exportfs
+/usr/sbin/nfsconf
+/usr/sbin/rpc.mountd
+/usr/sbin/rpc.nfsd
+/usr/sbin/rpcdebug

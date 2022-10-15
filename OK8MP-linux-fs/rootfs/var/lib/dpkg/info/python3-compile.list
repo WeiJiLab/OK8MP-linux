@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.7
+/usr/lib/python3.7/__pycache__
+/usr/lib/python3.7/__pycache__/compileall.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/compileall.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/compileall.cpython-37.pyc
+/usr/lib/python3.7/__pycache__/py_compile.cpython-37.opt-1.pyc
+/usr/lib/python3.7/__pycache__/py_compile.cpython-37.opt-2.pyc
+/usr/lib/python3.7/__pycache__/py_compile.cpython-37.pyc
+/usr/lib/python3.7/compileall.py
+/usr/lib/python3.7/py_compile.py

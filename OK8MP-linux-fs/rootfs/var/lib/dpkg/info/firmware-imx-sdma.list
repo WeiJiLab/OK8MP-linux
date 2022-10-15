@@ -1,0 +1,9 @@
+/.
+/etc
+/etc/sdma
+/lib
+/lib/firmware
+/lib/firmware/imx
+/lib/firmware/imx/sdma
+/lib/firmware/imx/sdma/sdma-imx6q.bin
+/lib/firmware/imx/sdma/sdma-imx7d.bin

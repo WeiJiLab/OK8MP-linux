@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/qml
+/usr/lib/qml/QtWebChannel
+/usr/lib/qml/QtWebChannel/libdeclarative_webchannel.so
+/usr/lib/qml/QtWebChannel/plugins.qmltypes
+/usr/lib/qml/QtWebChannel/qmldir

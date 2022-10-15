@@ -1,0 +1,5 @@
+/.
+/usr
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/pthread-stubs.pc

@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/tee-header_v2.bin
+/lib/firmware/tee-pageable_v2.bin
+/lib/firmware/tee-pager_v2.bin
+/lib/firmware/tee-raw.bin
+/lib/firmware/tee.bin

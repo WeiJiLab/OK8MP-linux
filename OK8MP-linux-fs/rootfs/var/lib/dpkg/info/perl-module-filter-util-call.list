@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/Filter
+/usr/lib/perl5/5.30.1/aarch64-linux/Filter/Util
+/usr/lib/perl5/5.30.1/aarch64-linux/Filter/Util/Call.pm
+/usr/lib/perl5/5.30.1/aarch64-linux/auto
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Filter
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Filter/Util
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Filter/Util/Call
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Filter/Util/Call/Call.so

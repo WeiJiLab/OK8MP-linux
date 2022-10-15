@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/Unicode
+/usr/lib/perl5/5.30.1/aarch64-linux/Unicode/Normalize.pm
+/usr/lib/perl5/5.30.1/aarch64-linux/auto
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Unicode
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Unicode/Normalize
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Unicode/Normalize/Normalize.so

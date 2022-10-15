@@ -1,0 +1,6 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/imx
+/lib/firmware/imx/easrc
+/lib/firmware/imx/easrc/easrc-imx8mn.bin

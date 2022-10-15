@@ -1,0 +1,4 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	glib-compile-schemas $D/usr/share/glib-2.0/schemas

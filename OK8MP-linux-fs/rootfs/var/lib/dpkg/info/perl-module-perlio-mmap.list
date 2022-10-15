@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/PerlIO
+/usr/lib/perl5/5.30.1/aarch64-linux/PerlIO/mmap.pm
+/usr/lib/perl5/5.30.1/aarch64-linux/auto
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/PerlIO
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/PerlIO/mmap
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/PerlIO/mmap/mmap.so

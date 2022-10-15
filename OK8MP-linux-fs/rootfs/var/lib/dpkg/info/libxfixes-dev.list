@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/X11
+/usr/include/X11/extensions
+/usr/include/X11/extensions/Xfixes.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xfixes.pc
+/usr/lib/libXfixes.so

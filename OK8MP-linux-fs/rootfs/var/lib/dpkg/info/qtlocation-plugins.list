@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/plugins
+/usr/lib/plugins/position
+/usr/lib/plugins/position/libqtposition_geoclue.so
+/usr/lib/plugins/position/libqtposition_geoclue2.so
+/usr/lib/plugins/position/libqtposition_positionpoll.so

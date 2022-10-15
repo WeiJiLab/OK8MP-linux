@@ -1,0 +1,2 @@
+660bcb40eef40e94a1181e7b79003f30  usr/share/alsa/alsa.conf.d/50-pulseaudio.conf
+b7fd8068d12e5e23b65da5dd6b1c76a1  usr/share/alsa/alsa.conf.d/99-pulseaudio-default.conf

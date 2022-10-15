@@ -1,0 +1,5 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  bc /usr/bin/bc.bc
+	update-alternatives --remove  dc /usr/bin/dc.bc

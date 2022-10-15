@@ -1,0 +1,11 @@
+/.
+/lib
+/usr
+/usr/bin
+/usr/bin/aarch64-poky-linux-cpp
+/usr/libexec
+/usr/libexec/gcc
+/usr/libexec/gcc/aarch64-poky-linux
+/usr/libexec/gcc/aarch64-poky-linux/9.2.0
+/usr/libexec/gcc/aarch64-poky-linux/9.2.0/cc1
+/lib/cpp

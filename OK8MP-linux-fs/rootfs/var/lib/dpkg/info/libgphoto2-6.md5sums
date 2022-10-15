@@ -1,0 +1,12 @@
+0bf7fcc5bbc93f5c9dfe60842a5a8896  etc/udev/rules.d/40-libgphoto2.rules
+8d1fe8feef1ac61464f9fa6f6c47e1d8  lib/udev/check-ptp-camera
+6f6d5c0163faef12fd6c281dc0235986  usr/lib/libgphoto2/print-camera-list
+adc315d71dab010d642cbddf3340945b  usr/lib/libgphoto2.so.6.1.0
+244cb8a3de6e32ecf79359da3b2c6529  usr/share/hal/fdi/information/20thirdparty/10-camera-libgphoto2-device.fdi
+d45994c6d3064b5690943138ce2d8f80  usr/share/hal/fdi/information/20thirdparty/10-camera-libgphoto2.fdi
+f9800ddefc5653e6a47b5863de800339  usr/share/libgphoto2/2.5.17/konica/english
+0252d82d47454e6c7fc39086100b9137  usr/share/libgphoto2/2.5.17/konica/french
+d5957540df91073d8cf9376af53f41ad  usr/share/libgphoto2/2.5.17/konica/german
+e2533e8bd6886ebb414c244895d897f7  usr/share/libgphoto2/2.5.17/konica/japanese
+eb877574b5a9890e3a12b41bd5078687  usr/share/libgphoto2/2.5.17/konica/korean
+59b55700a240c75b21ff34929a48a50d  usr/share/libgphoto2/2.5.17/konica/spanish

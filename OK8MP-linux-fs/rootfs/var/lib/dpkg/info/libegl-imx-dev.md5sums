@@ -1,0 +1,6 @@
+e6254479521f4b2d5525804f65f89342  usr/include/EGL/egl.h
+25c769378a6650716a95d451af7a9586  usr/include/EGL/eglext.h
+31d5b188f2e18cb85c014aa0a96c67cc  usr/include/EGL/eglplatform.h
+073c2445113a444db7447c9b2d9186f7  usr/include/EGL/eglvivante.h
+6f70e317626e547a208280914dfe6855  usr/include/KHR/khrplatform.h
+813ecdcb19d4302ef5f3179fc47cf09d  usr/lib/pkgconfig/egl.pc

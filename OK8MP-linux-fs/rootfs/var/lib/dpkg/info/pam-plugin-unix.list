@@ -1,0 +1,8 @@
+/.
+/lib
+/lib/security
+/lib/security/pam_unix.so
+/usr
+/usr/sbin
+/usr/sbin/unix_chkpwd
+/usr/sbin/unix_update

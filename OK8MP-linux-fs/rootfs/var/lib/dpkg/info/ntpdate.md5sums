@@ -1,0 +1,5 @@
+cd14e09db7250943bcc3faa96455b963  etc/default/ntpdate
+d542666f81054abbf1bfef4d2f1ff4e7  lib/systemd/system/ntpdate.service
+d7033a1a51c089bfb1764f66ae944a80  lib/systemd/system-preset/98-ntpdate.preset
+a8c4f5b02af0ceb7342b24ded319efdb  usr/bin/ntpdate-sync
+c8d3d1c0e40904b29fbb989ac53d7afb  usr/sbin/ntpdate

@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libNNArchPerf.so
+/usr/lib/libNNGPUBinary-evis.so
+/usr/lib/libNNGPUBinary-evis2.so
+/usr/lib/libNNGPUBinary-lite.so
+/usr/lib/libNNGPUBinary-ulite.so
+/usr/lib/libNNVXCBinary-evis.so
+/usr/lib/libNNVXCBinary-evis2.so

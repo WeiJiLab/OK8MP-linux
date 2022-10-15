@@ -1,0 +1,5 @@
+9b04e087fb7f42a872aef5f458285ef6  etc/dbus-1/system.d/ofono.conf
+c8b35cfcb95393a2f24dff9dd11f42da  etc/ofono/phonesim.conf
+246c898b9bd17b3cf0bf8f5421d20e70  lib/systemd/system/ofono.service
+81e9dffb7612bedf117e736d720b3ffd  lib/systemd/system-preset/98-ofono.preset
+d859480f27ab05e4618ae459cfbb6cfc  usr/sbin/ofonod

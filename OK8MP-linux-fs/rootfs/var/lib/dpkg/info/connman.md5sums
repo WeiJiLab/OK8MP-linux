@@ -1,0 +1,5 @@
+36073f91f5c55db9274f10bba2f4ac6a  etc/tmpfiles.d/connman_resolvconf.conf
+10661644e9507fd86fbea5c2cc7209a7  lib/systemd/system/connman.service
+c679aaab20de65f728742d1a1acc1121  lib/systemd/system-preset/98-connman.preset
+33715aacc4103fa64bb6698b117df13b  usr/sbin/connmand
+b752f3cb36c83a775ace4bdc9d76b31e  usr/share/dbus-1/system.d/connman.conf

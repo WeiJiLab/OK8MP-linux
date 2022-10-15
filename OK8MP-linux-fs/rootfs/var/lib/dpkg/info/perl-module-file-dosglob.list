@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/File
+/usr/lib/perl5/5.30.1/aarch64-linux/File/DosGlob.pm
+/usr/lib/perl5/5.30.1/aarch64-linux/auto
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/File
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/File/DosGlob
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/File/DosGlob/DosGlob.so

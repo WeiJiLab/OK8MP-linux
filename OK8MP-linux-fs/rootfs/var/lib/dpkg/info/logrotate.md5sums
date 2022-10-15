@@ -1,0 +1,8 @@
+0d9c6f11b647b7faaaac7b74837352ee  etc/logrotate.conf
+55631862595faf6432786dc335eb3f44  etc/logrotate.d/btmp
+46cd7ecb1810441bd450987a976f5540  etc/logrotate.d/wtmp
+138550e66f579c053f6fb290afab1468  lib/systemd/system/logrotate.service
+a1d33759fda0cb2b8901e33189e8a41a  lib/systemd/system/logrotate.timer
+a15e1df71ed4e547a371ae8548a43947  lib/systemd/system-preset/98-logrotate.preset
+6bdde49d279361c362e5e1a3145d1d84  usr/sbin/logrotate
+d41d8cd98f00b204e9800998ecf8427e  var/lib/logrotate.status

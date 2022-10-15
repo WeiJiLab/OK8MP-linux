@@ -1,0 +1,5 @@
+a340206c150a74fb26b3e92e65c23738  usr/bin/libpng16-config
+a72e221d910868ae82713ea383c974f3  usr/include/libpng16/png.h
+173e744a29a4f59836c6bd2399b9ea6b  usr/include/libpng16/pngconf.h
+544d8f44ee30e37913246392bc2dd9ba  usr/include/libpng16/pnglibconf.h
+ddd3cc88cb9f4776038c5deb630d0928  usr/lib/pkgconfig/libpng16.pc

@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/pam.d
+/etc/pam.d/runuser
+/etc/pam.d/runuser-l
+/usr
+/usr/sbin
+/usr/sbin/runuser

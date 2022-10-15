@@ -1,0 +1,3 @@
+#!/bin/sh
+set -e
+	update-alternatives --install /usr/bin/less less /usr/bin/less.less 100

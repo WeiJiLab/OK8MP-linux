@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/gencat
+/usr/bin/getconf
+/usr/bin/getent
+/usr/bin/iconv
+/usr/bin/locale
+/usr/bin/makedb
+/usr/bin/pcprofiledump
+/usr/bin/pldd
+/usr/bin/sprof
+/usr/sbin
+/usr/sbin/iconvconfig

@@ -1,0 +1,5 @@
+ecfc95c873001691390f5f719fc807e7  usr/lib/plugins/sensorgestures/libqtsensorgestures_plugin.so
+2b31cdd7b49ab56f7f7fc2d7f291c864  usr/lib/plugins/sensorgestures/libqtsensorgestures_shakeplugin.so
+8147deafca3457272106a8aaee9d5dd2  usr/lib/plugins/sensors/libqtsensors_generic.so
+641820fcb538bd71580d777e027971bb  usr/lib/plugins/sensors/libqtsensors_iio-sensor-proxy.so
+21e9da0c1e3753f25bfe184d42fd192e  usr/lib/plugins/sensors/libqtsensors_linuxsys.so

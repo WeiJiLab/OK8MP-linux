@@ -1,0 +1,9 @@
+3ed1de2ce3da094bb44569fdbccea7e0  usr/include/X11/Xtrans/Xtrans.c
+f8475ae5c4f9993e1bfb8ae8fdb33149  usr/include/X11/Xtrans/Xtrans.h
+dce14bb1c85cb40562f7befcc4d0f7a1  usr/include/X11/Xtrans/Xtransint.h
+2f17a03d8e15b5808f3b0081e615c0a9  usr/include/X11/Xtrans/Xtranslcl.c
+7e820088a2cb97221627b4010bbb52cc  usr/include/X11/Xtrans/Xtranssock.c
+46b0ec98fe23c9e4f705116223947a3d  usr/include/X11/Xtrans/Xtransutil.c
+01a550bf9402e230f0234eecfefd46ef  usr/include/X11/Xtrans/transport.c
+f8568eafd5042c20c78ccf34c830e8c4  usr/share/aclocal/xtrans.m4
+3b1daffbb41de3af0731bd61f11eb303  usr/share/pkgconfig/xtrans.pc

@@ -1,0 +1,10 @@
+/.
+/usr
+/usr/include
+/usr/include/expat.h
+/usr/include/expat_config.h
+/usr/include/expat_external.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/expat.pc
+/usr/lib/libexpat.so

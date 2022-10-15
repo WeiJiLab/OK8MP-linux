@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/perl5
+/usr/lib/perl5/5.30.1
+/usr/lib/perl5/5.30.1/aarch64-linux
+/usr/lib/perl5/5.30.1/aarch64-linux/Math
+/usr/lib/perl5/5.30.1/aarch64-linux/Math/BigInt
+/usr/lib/perl5/5.30.1/aarch64-linux/Math/BigInt/FastCalc.pm
+/usr/lib/perl5/5.30.1/aarch64-linux/auto
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Math
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Math/BigInt
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Math/BigInt/FastCalc
+/usr/lib/perl5/5.30.1/aarch64-linux/auto/Math/BigInt/FastCalc/FastCalc.so

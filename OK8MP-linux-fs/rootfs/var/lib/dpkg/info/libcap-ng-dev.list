@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/include
+/usr/include/cap-ng.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libcap-ng.pc
+/usr/share
+/usr/share/aclocal
+/usr/share/aclocal/cap-ng.m4
+/usr/lib/libcap-ng.so

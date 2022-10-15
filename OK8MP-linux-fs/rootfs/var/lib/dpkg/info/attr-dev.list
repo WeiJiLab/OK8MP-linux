@@ -1,0 +1,12 @@
+/.
+/lib
+/usr
+/usr/include
+/usr/include/attr
+/usr/include/attr/attributes.h
+/usr/include/attr/error_context.h
+/usr/include/attr/libattr.h
+/usr/include/attr/xattr.h
+/usr/lib
+/lib/libattr.so
+/usr/lib/libattr.so

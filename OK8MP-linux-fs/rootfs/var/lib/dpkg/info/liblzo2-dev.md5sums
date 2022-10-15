@@ -1,0 +1,14 @@
+22732bfa5b08866675938051681aca23  usr/include/lzo/lzo1.h
+b32808e69015a237caf1b909cfede92c  usr/include/lzo/lzo1a.h
+430819892b421e2ac2e9b5d822bbb4af  usr/include/lzo/lzo1b.h
+6431a688dbbb8d84ff2c3ee1d49d5faf  usr/include/lzo/lzo1c.h
+6c2679f910b1541878fd42fed5016d43  usr/include/lzo/lzo1f.h
+974083ad40a0cd2fb5c4f230843998cd  usr/include/lzo/lzo1x.h
+25168826cfa884e7685a8fc2a55bc4a4  usr/include/lzo/lzo1y.h
+596dad27d07ce65ca27c0790e6cd4720  usr/include/lzo/lzo1z.h
+6aff3f179c49d688a388544baed71c58  usr/include/lzo/lzo2a.h
+5b5cb0f56f4f8d23ecc39f19fe595b87  usr/include/lzo/lzo_asm.h
+eef5e567516707cf02ceeef4c00b54c0  usr/include/lzo/lzoconf.h
+635a2cd32d46939cd412a41f8fb6b909  usr/include/lzo/lzodefs.h
+dec319752312146c4bff54b6fde0e36b  usr/include/lzo/lzoutil.h
+ebf3c3dc3f0b1041bd98c64c647711af  usr/lib/pkgconfig/lzo2.pc

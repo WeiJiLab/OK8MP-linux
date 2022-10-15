@@ -1,0 +1,5 @@
+/.
+/var
+/var/lib
+/var/lib/alsa
+/var/lib/alsa/asound.state

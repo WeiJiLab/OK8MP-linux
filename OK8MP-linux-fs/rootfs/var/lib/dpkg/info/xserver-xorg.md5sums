@@ -1,0 +1,11 @@
+efabe7d738df192ffd2602939701bc7d  usr/bin/Xorg
+67369a095dae5aed8f71ff11dbf25e5b  usr/bin/cvt
+4bfddf1b5276fa9173a3141c2ecb1eb3  usr/lib/xorg/modules/libfb.so
+79ddb82d3efbe8aaf93b34c54007d343  usr/lib/xorg/modules/libfbdevhw.so
+158f6c85763920d37139a6a0a948757c  usr/lib/xorg/modules/libglamoregl.so
+8d065d73c5849cf6dd4572710b07ea67  usr/lib/xorg/modules/libshadow.so
+c9356fba309742ec57a45d19791fdb48  usr/lib/xorg/modules/libshadowfb.so
+31762ea9b57f9d952528f9d20b3f9b68  usr/lib/xorg/modules/libvbe.so
+a9017e639f4eda9033a2eb73d0925a00  usr/lib/xorg/modules/libvgahw.so
+9ebd4afa72d17db9c344a23d11f0d147  usr/lib/xorg/protocol.txt
+3a4d3c055e089d97b96eacc8e9e3781d  usr/share/X11/xorg.conf.d/10-quirks.conf

@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/gstreamer-1.0
+/usr/lib/gstreamer-1.0/libgstequalizer.so
+/usr/share
+/usr/share/gstreamer-1.0
+/usr/share/gstreamer-1.0/presets
+/usr/share/gstreamer-1.0/presets/GstIirEqualizer10Bands.prs
+/usr/share/gstreamer-1.0/presets/GstIirEqualizer3Bands.prs
+/usr/share/gstreamer-1.0/presets/GstQTMux.prs

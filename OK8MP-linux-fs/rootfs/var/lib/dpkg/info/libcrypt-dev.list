@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/include
+/usr/include/crypt.h
+/usr/include/xcrypt.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/libxcrypt.pc
+/usr/lib/libcrypt.so
+/usr/lib/libxcrypt.so
+/usr/lib/pkgconfig/libcrypt.pc

@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/bin
+/usr/bin/cpufreq-aperf
+/usr/bin/cpufreq-info
+/usr/bin/cpufreq-set
+/usr/lib
+/usr/lib/libcpufreq.so.0.0.0
+/usr/lib/libcpufreq.so.0

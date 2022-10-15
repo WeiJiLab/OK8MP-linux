@@ -1,0 +1,13 @@
+/.
+/etc
+/etc/hostapd.conf
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/hostapd.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-hostapd.preset
+/usr
+/usr/sbin
+/usr/sbin/hostapd
+/usr/sbin/hostapd_cli

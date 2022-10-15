@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/include
+/usr/include/dbm.h
+/usr/include/gdbm
+/usr/include/gdbm.h
+/usr/include/ndbm.h
+/usr/lib
+/usr/include/gdbm/gdbm.h
+/usr/include/gdbm/ndbm.h
+/usr/lib/libgdbm.so
+/usr/lib/libgdbm_compat.so

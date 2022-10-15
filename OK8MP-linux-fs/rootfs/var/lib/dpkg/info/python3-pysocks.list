@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python3.7
+/usr/lib/python3.7/site-packages
+/usr/lib/python3.7/site-packages/PySocks-1.7.1-py3.7.egg-info
+/usr/lib/python3.7/site-packages/PySocks-1.7.1-py3.7.egg-info/PKG-INFO
+/usr/lib/python3.7/site-packages/PySocks-1.7.1-py3.7.egg-info/SOURCES.txt
+/usr/lib/python3.7/site-packages/PySocks-1.7.1-py3.7.egg-info/dependency_links.txt
+/usr/lib/python3.7/site-packages/PySocks-1.7.1-py3.7.egg-info/top_level.txt
+/usr/lib/python3.7/site-packages/__pycache__
+/usr/lib/python3.7/site-packages/__pycache__/socks.cpython-37.pyc
+/usr/lib/python3.7/site-packages/__pycache__/sockshandler.cpython-37.pyc
+/usr/lib/python3.7/site-packages/socks.py
+/usr/lib/python3.7/site-packages/sockshandler.py

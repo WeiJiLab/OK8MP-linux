@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/include
+/usr/include/pciaccess.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/pciaccess.pc
+/usr/lib/libpciaccess.so

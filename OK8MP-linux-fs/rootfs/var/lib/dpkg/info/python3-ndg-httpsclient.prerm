@@ -1,0 +1,4 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	update-alternatives --remove  ndg_httpclient /usr/bin/ndg_httpclient.python3-ndg-httpsclient

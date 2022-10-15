@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/include
+/usr/include/xcb
+/usr/include/xcb/xcb_ewmh.h
+/usr/include/xcb/xcb_icccm.h
+/usr/lib
+/usr/lib/pkgconfig
+/usr/lib/pkgconfig/xcb-ewmh.pc
+/usr/lib/pkgconfig/xcb-icccm.pc
+/usr/lib/libxcb-ewmh.so
+/usr/lib/libxcb-icccm.so

@@ -1,0 +1,8 @@
+/.
+/usr
+/usr/lib
+/usr/lib/plugins
+/usr/lib/plugins/iconengines
+/usr/lib/plugins/iconengines/libqsvgicon.so
+/usr/lib/plugins/imageformats
+/usr/lib/plugins/imageformats/libqsvg.so

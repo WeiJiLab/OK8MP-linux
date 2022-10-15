@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/blkiomon
+/usr/bin/blkparse
+/usr/bin/blkrawverify
+/usr/bin/blktrace
+/usr/bin/bno_plot.py
+/usr/bin/btrace
+/usr/bin/btrecord
+/usr/bin/btreplay
+/usr/bin/btt
+/usr/bin/iowatcher
+/usr/bin/verify_blkparse

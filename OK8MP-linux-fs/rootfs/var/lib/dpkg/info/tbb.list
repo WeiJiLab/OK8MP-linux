@@ -1,0 +1,6 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libtbb.so.2
+/usr/lib/libtbbmalloc.so.2
+/usr/lib/libtbbmalloc_proxy.so.2

@@ -1,0 +1,6 @@
+/.
+/etc
+/etc/init.d
+/etc/init.d/ninfod.sh
+/sbin
+/sbin/ninfod

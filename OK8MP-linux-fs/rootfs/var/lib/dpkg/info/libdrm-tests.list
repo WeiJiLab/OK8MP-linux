@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/drmdevice
+/usr/bin/etnaviv_2d_test
+/usr/bin/etnaviv_bo_cache_test
+/usr/bin/etnaviv_cmd_stream_test
+/usr/bin/kms-steal-crtc
+/usr/bin/kms-universal-planes
+/usr/bin/kmstest
+/usr/bin/modeprint
+/usr/bin/modetest
+/usr/bin/proptest
+/usr/bin/vbltest

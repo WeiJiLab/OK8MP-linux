@@ -1,0 +1,12 @@
+efe94c26fbf1fbbf0c85dbd7a5e89bff  bin/hostname.net-tools
+31c662ea1de706825b0f8c69e0a2f2a8  bin/netstat.net-tools
+e1bd236877de2236f8ba6e00e0cec20d  sbin/arp.net-tools
+d34609258553cee3943bf6a40d1d8ffa  sbin/ifconfig.net-tools
+69c6c7d378484cbf520d4e24528c63dc  sbin/ipmaddr.net-tools
+0e52c7b50fe1692754fa99ae432197af  sbin/iptunnel.net-tools
+28208bc5b9a7774e55046066031b3853  sbin/mii-tool.net-tools
+eee22e3aa0d2945ec83eebd58887e04a  sbin/nameif.net-tools
+91025ae0615d7cc4655a6cb2292252b7  sbin/plipconfig.net-tools
+daa414b6f0a5a8e7312e0db57a303654  sbin/rarp.net-tools
+fc32f6d6ee96c8b8a6c4a1dafe85c86c  sbin/route.net-tools
+651812101972c46135b34876b4d7f35c  sbin/slattach.net-tools

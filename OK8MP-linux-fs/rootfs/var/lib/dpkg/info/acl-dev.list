@@ -1,0 +1,11 @@
+/.
+/lib
+/usr
+/usr/include
+/usr/include/acl
+/usr/include/acl/libacl.h
+/usr/include/sys
+/usr/include/sys/acl.h
+/usr/lib
+/lib/libacl.so
+/usr/lib/libacl.so

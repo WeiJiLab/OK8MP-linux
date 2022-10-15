@@ -1,0 +1,10 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+if type systemctl >/dev/null 2>/dev/null; then
+	if [ -z "$D" ]; then
+		systemctl stop logrotate.service logrotate.timer
+
+		systemctl disable logrotate.service logrotate.timer
+	fi
+fi

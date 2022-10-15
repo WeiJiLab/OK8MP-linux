@@ -1,0 +1,7 @@
+/.
+/lib
+/lib/firmware
+/lib/firmware/imx8mp_m7_TCM_hello_world.elf
+/lib/firmware/imx8mp_m7_TCM_rpmsg_lite_pingpong_rtos_linux_remote.elf
+/lib/firmware/imx8mp_m7_TCM_rpmsg_lite_str_echo_rtos.elf
+/lib/firmware/imx8mp_m7_TCM_sai_low_power_audio.elf

@@ -1,0 +1,17 @@
+43e937c51cc62c15968812027bc56fd7  usr/share/imx-mm/audio-codec/examples/aac-dec/bin/test_aac_dec_arm_elinux_fhw
+49f30ba18ab306f0cc77f6576a0ca382  usr/share/imx-mm/audio-codec/examples/amrnb/bin/test_nb_amr_dec_arm_elinux_fhw
+ec462f4b68cc64cf3363273d50a24a33  usr/share/imx-mm/audio-codec/examples/amrnb/bin/test_nb_amr_enc_arm_elinux_fhw
+4ca61e02e22d0f450c6b4ab9be56c303  usr/share/imx-mm/audio-codec/examples/amrwb/bin/test_wb_amr_dec_arm_elinux_fhw
+62ae8bfbba47fe2327e6686e3d6de902  usr/share/imx-mm/audio-codec/examples/amrwb/bin/test_wb_amr_enc_arm_elinux_fhw
+003aefb80096b7e9aa0ce8432b268a0a  usr/share/imx-mm/audio-codec/examples/bsac-dec/bin/test_bsac_dec_arm_elinux_fhw
+25db7269a74f567ef6d806d7a87787b4  usr/share/imx-mm/audio-codec/examples/flac-dec/bin/test_flac_dec_arm_elinux_fhw
+d83048d9c0d4e55017687eb90f3a8534  usr/share/imx-mm/audio-codec/examples/g711/bin/test_g.711_dec_arm_elinux_fhw
+cdc4aff770e4abd00b1d9ad87a3bbf55  usr/share/imx-mm/audio-codec/examples/g711/bin/test_g.711_enc_arm_elinux_fhw
+5a92abb5d2604f1d308c582cc32064c8  usr/share/imx-mm/audio-codec/examples/g723/bin/test_g.723.1_dec_arm_elinux_fhw
+f1842adacd32bafb898ecd9c1a7d3be8  usr/share/imx-mm/audio-codec/examples/g723/bin/test_g.723.1_enc_arm_elinux_fhw
+7452b94d35bb7d34ddc8de4a3b6a28bc  usr/share/imx-mm/audio-codec/examples/g726/bin/test_g.726_dec_arm_elinux_fhw
+ed623379000b780c8d5090d2af0c6c3f  usr/share/imx-mm/audio-codec/examples/g726/bin/test_g.726_enc_arm_elinux_fhw
+e055819eb3642848ba9344988da15e8a  usr/share/imx-mm/audio-codec/examples/g729/bin/test_g.729ab_dec_arm_elinux_fhw
+2023b34e1483516049e17e1800399276  usr/share/imx-mm/audio-codec/examples/g729/bin/test_g.729ab_enc_arm_elinux_fhw
+76228d8f12bef5783c8854c01b3c3e58  usr/share/imx-mm/audio-codec/examples/mp3-dec/bin/test_mp3_dec_arm_elinux_fhw
+279de0325e4e8f43411c4166369629dd  usr/share/imx-mm/audio-codec/examples/oggvorbis-dec/bin/test_oggvorbis_dec_arm_elinux_fhw

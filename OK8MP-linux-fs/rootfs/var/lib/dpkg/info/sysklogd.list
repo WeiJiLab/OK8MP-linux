@@ -1,0 +1,17 @@
+/.
+/etc
+/etc/syslog.conf
+/lib
+/lib/systemd
+/lib/systemd/system
+/lib/systemd/system/klogd.service
+/lib/systemd/system/syslogd.service
+/lib/systemd/system-preset
+/lib/systemd/system-preset/98-sysklogd.preset
+/sbin
+/sbin/klogd
+/sbin/syslogd
+/usr
+/usr/lib
+/usr/lib/tmpfiles.d
+/usr/lib/tmpfiles.d/sysklogd.conf

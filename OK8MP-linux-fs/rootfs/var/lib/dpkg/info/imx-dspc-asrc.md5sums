@@ -1,0 +1,8 @@
+d5c84b7937d83b79f266806fcc64b23b  unit_tests/DSPC_ASRC/asrc-test
+938e00a455b20932cfaa180461eb4ef4  usr/lib/lib_dspc_asrc.so.1
+8c166a7d10912c41a6211ee59cd9da9a  usr/lib/lib_dspc_asrc_coef.so.1
+a7a2cf156f02a501d21454bde76a7dc4  usr/share/imx-mm/audio-codec/asrc/Makefile
+af0581492cc57c9d7e368ffe5c0a3c20  usr/share/imx-mm/audio-codec/asrc/Release_note.txt
+26aebf0f3666bef3b99c7890ba1ee9dc  usr/share/imx-mm/audio-codec/asrc/src/test.c
+3680a2f29ed46a522107fa5b67dea5af  usr/share/imx-mm/audio-codec/asrc/src/wave_func.c
+db902f5bac3618c500fa1b3bb0ffd6fa  usr/share/imx-mm/audio-codec/asrc/src/wave_func.h

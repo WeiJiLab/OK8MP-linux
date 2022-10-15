@@ -1,0 +1,9 @@
+725cc81a5ef60b0e6bc35573d4149636  etc/default/volatiles/99_vsftpd
+6559832524b125df6e563bc5a9d27c5f  etc/pam.d/vsftpd
+192e6e86d4298b0d5a5209077071a55b  etc/tmpfiles.d/vsftpd.conf
+23a60068da040935f93f3ab54a61f1b1  etc/vsftpd.conf
+149b77995fa47ecb699c8a8a04ce29fd  etc/vsftpd.ftpusers
+de5a4affe645059af8fd14b9fe3cbb50  etc/vsftpd.user_list
+e5d0fd59c880bfbd2cb22da9f35088ab  lib/systemd/system/vsftpd.service
+716c8c4e7328e580e558c531da4e91e3  lib/systemd/system-preset/98-vsftpd.preset
+b24d24f58df3d890ee967b0c1c57e6f2  usr/sbin/vsftpd

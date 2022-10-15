@@ -1,0 +1,10 @@
+5968a3361e53deda68e23891b326dcb0  usr/lib/mkspecs/modules/qt_lib_quick3d.pri
+74dde81714dda41d40611b1aaca82c61  usr/lib/mkspecs/modules/qt_lib_quick3d_private.pri
+18c54b7af9f259ce54465ee5226ecf20  usr/lib/mkspecs/modules/qt_lib_quick3dassetimport.pri
+7088bfc76a76a900271b8f2d2e5f6fe7  usr/lib/mkspecs/modules/qt_lib_quick3dassetimport_private.pri
+352b1b2b145ada6714ee6f00f8cc996b  usr/lib/mkspecs/modules/qt_lib_quick3drender.pri
+55f95d682a928481f2cb8d073f3d586e  usr/lib/mkspecs/modules/qt_lib_quick3drender_private.pri
+e286d930a4715b5ad3ac8fcae9d7063f  usr/lib/mkspecs/modules/qt_lib_quick3druntimerender.pri
+843be1fb51d00071547b53a30499b82f  usr/lib/mkspecs/modules/qt_lib_quick3druntimerender_private.pri
+77a2a8b24aebc36420a7cea2c33245e2  usr/lib/mkspecs/modules/qt_lib_quick3dutils.pri
+e66ee548afd9e710a60ee40b352da38f  usr/lib/mkspecs/modules/qt_lib_quick3dutils_private.pri

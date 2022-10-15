@@ -1,0 +1,17 @@
+9d02ccd02ae6a066c1232e5ab0c1500c  usr/include/X11/extensions/MITMisc.h
+9bb79a53caa0754ff05477bf2e745649  usr/include/X11/extensions/XEVI.h
+46762e197a151a897b5980a2549fb1c2  usr/include/X11/extensions/XLbx.h
+c573d36e5148f3a57f1d5d56c6a1c5be  usr/include/X11/extensions/XShm.h
+38c643ff53dd946dfaeace2473eeeae5  usr/include/X11/extensions/Xag.h
+e632e818b53849464468e4b2c4a4be3e  usr/include/X11/extensions/Xcup.h
+5ed4be015113240ef706f334def6a006  usr/include/X11/extensions/Xdbe.h
+fc8dfcfce100712b6b8d89355c31b3b0  usr/include/X11/extensions/Xext.h
+e5549463078381da840741684dc800dc  usr/include/X11/extensions/Xge.h
+c72797538304fb64536e60d5a4fbc607  usr/include/X11/extensions/dpms.h
+82f284ac38c1af36b8758c4e41bfa999  usr/include/X11/extensions/extutil.h
+070f82cbd466703821eb2443fdb423dc  usr/include/X11/extensions/multibuf.h
+2185e93fb5bf9a454ce20c07caaff1d0  usr/include/X11/extensions/security.h
+b118d22c50fcd76c8569042b72b6b9ac  usr/include/X11/extensions/shape.h
+4cfd61e701feb44373d849582e0ee602  usr/include/X11/extensions/sync.h
+38676f4e2fbbe1c61d1ed3aec0773c36  usr/include/X11/extensions/xtestext1.h
+8dbc1b9cea9b9e34898b2e556dfc9bc4  usr/lib/pkgconfig/xext.pc

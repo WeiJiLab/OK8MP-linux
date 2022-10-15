@@ -1,0 +1,4 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	rm -f $D/etc/udev/hwdb.bin

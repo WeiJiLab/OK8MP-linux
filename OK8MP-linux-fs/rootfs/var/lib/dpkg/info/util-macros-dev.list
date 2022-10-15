@@ -1,0 +1,7 @@
+/.
+/usr
+/usr/share
+/usr/share/aclocal
+/usr/share/aclocal/xorg-macros.m4
+/usr/share/pkgconfig
+/usr/share/pkgconfig/xorg-macros.pc

@@ -1,0 +1,4 @@
+552cc79adb7e637ce840701cf2b04aa8  usr/lib/gstreamer-1.0/libgstequalizer.so
+0ba071d2a220509888ddc1fcb1e8a46d  usr/share/gstreamer-1.0/presets/GstIirEqualizer10Bands.prs
+bb05310bbb24b51abb14e898fea3ba15  usr/share/gstreamer-1.0/presets/GstIirEqualizer3Bands.prs
+319b5ed8a06dfcb4c81e7118e7786b89  usr/share/gstreamer-1.0/presets/GstQTMux.prs

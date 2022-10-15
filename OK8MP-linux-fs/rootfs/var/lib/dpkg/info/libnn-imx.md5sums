@@ -1,0 +1,7 @@
+338ca7efe9c41e1c398a4afa33c7a0bc  usr/lib/libNNArchPerf.so
+fc28a4afc75d189d5ee1e46b7a542914  usr/lib/libNNGPUBinary-evis.so
+a67e8b8eef9eb0ed50f6bfeb3a31e42c  usr/lib/libNNGPUBinary-evis2.so
+c7d2336f5db224606bbce044868961c7  usr/lib/libNNGPUBinary-lite.so
+f2f3b765d0adb34ccd3a3a4bf65b3215  usr/lib/libNNGPUBinary-ulite.so
+444100d0eca2780061a9ef5187f445d9  usr/lib/libNNVXCBinary-evis.so
+e061a987a67cb44b4bdf63ee555e7db9  usr/lib/libNNVXCBinary-evis2.so

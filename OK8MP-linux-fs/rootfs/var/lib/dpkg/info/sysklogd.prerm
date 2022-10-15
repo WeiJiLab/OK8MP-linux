@@ -1,0 +1,15 @@
+#!/bin/sh
+[ "$1" != "upgrade" ] || exit 0
+set -e
+	if test "x$D" = "x"; then
+	if test "$1" = "upgrade" -o "$1" = "remove"; then
+		/etc/init.d/syslog stop || :
+	fi
+	fi
+if type systemctl >/dev/null 2>/dev/null; then
+	if [ -z "$D" ]; then
+		systemctl stop syslogd.service klogd.service
+
+		systemctl disable syslogd.service klogd.service
+	fi
+fi

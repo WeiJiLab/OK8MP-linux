@@ -1,0 +1,8 @@
+/.
+/etc
+/etc/bindresvport.blacklist
+/etc/netconfig
+/usr
+/usr/lib
+/usr/lib/libtirpc.so.3.0.0
+/usr/lib/libtirpc.so.3
